@@ -1,0 +1,89 @@
+# === WCB_Pub .gitignore ===
+# Canonical ignore rules for the World Crafting Basics publication vault
+# (optimized for Obsidian + Markdown workflows under Git versioning)
+
+# ------------------------------------------------------------
+# Obsidian workspace system files
+# ------------------------------------------------------------
+.obsidian/
+.obsidian/plugins/
+
+# ------------------------------------------------------------
+# OS-generated system cruft
+# ------------------------------------------------------------
+.DS_Store
+Thumbs.db
+.AppleDouble
+.Spotlight-V100
+.Trashes
+._*
+desktop.ini
+
+# ------------------------------------------------------------
+# Temporary + backup files
+# ------------------------------------------------------------
+*.tmp
+*.swp
+*~
+*.bak
+
+# ------------------------------------------------------------
+# Graphics + design assets (heavy, not source)
+# These will be stored separately or in design repos
+# ------------------------------------------------------------
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.tiff
+*.bmp
+*.psd
+*.afdesign
+
+# ------------------------------------------------------------
+# Export artifacts (not source of truth)
+# ------------------------------------------------------------
+*.pdf
+*.zip
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.html
+*.epub
+*.docx
+*.xlsx
+*.xltx
+
+# ------------------------------------------------------------
+# Build / Render outputs
+# For static-site or publication rendering (e.g., Obsidian Publish, Quarto)
+# ------------------------------------------------------------
+_site/
+.publish/
+.cache/
+
+# ------------------------------------------------------------
+# LaTeX or Markdown precompilation scratch
+# ------------------------------------------------------------
+*.fdb_latexmk
+*.fls
+*.synctex(busy)*
+*.bbl
+*.blg
+
+# ------------------------------------------------------------
+# Local metadata and system sync
+# ------------------------------------------------------------
+.dropbox
+.dropbox.attr
+
+# ------------------------------------------------------------
+# === Notes ===
+# Markdown files (*.md) are the SOURCE and should always be tracked.
+# If you ever accidentally add an ignore rule for *.md, remove it immediately.
+# ------------------------------------------------------------
+
+/.quarto/
+**/*.quarto_ipynb

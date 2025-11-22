@@ -1,0 +1,63 @@
+# === WCB_Pub .gitattributes ===
+# Maintains clean, cross-platform text handling for all source files
+# and ensures consistent diffs for Markdown and LaTeX documents.
+
+# ------------------------------------------------------------
+# Core text normalization
+# ------------------------------------------------------------
+# Force consistent LF line endings on all text files
+* text=auto eol=lf
+
+# Default to UTF-8 for all text files
+* text working-tree-encoding=UTF-8
+
+# ------------------------------------------------------------
+# Markdown & Documentation files
+# ------------------------------------------------------------
+*.md     text diff=markdown
+*.markdown text diff=markdown
+*.txt    text
+*.mdx    text
+*.yml    text
+*.yaml   text
+*.json   text
+*.csv    text
+
+# ------------------------------------------------------------
+# LaTeX & Math-related formats
+# ------------------------------------------------------------
+*.tex    text diff=tex
+*.bib    text diff=tex
+*.cls    text diff=tex
+*.sty    text diff=tex
+*.bst    text diff=tex
+
+# ------------------------------------------------------------
+# Code blocks (for examples, scripts, and helper utilities)
+# ------------------------------------------------------------
+*.py     text diff=python
+*.js     text diff=javascript
+*.ts     text diff=typescript
+*.html   text diff=html
+*.css    text diff=css
+*.sh     text diff=sh
+*.bat    text diff=bat
+
+# ------------------------------------------------------------
+# Binary files — never diffed
+# ------------------------------------------------------------
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.gif    binary
+*.webp   binary
+*.tiff   binary
+*.bmp    binary
+*.pdf    binary
+*.zip    binary
+*.afdesign binary
+
+# ------------------------------------------------------------
+# Preserve symbolic links and case sensitivity (Mac/Linux friendly)
+# ------------------------------------------------------------
+* text=auto
