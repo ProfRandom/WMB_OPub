@@ -7,7 +7,7 @@ tags:
   - mazotic
   - mass
   - terran
-  - duramon
+  - duromon
   - monon
   - microterran
   - subscale
@@ -20,10 +20,10 @@ tags:
 vocabulary:
   - terran
   - microterran
-  - duramon
+  - duromon
   - scale
   - mazotic-domain
-  - duramon
+  - duromon
   - monon
 updated: 2025-11-17
 status: canonical
@@ -100,7 +100,7 @@ $$
 - The **exaterran** marks the upper limit, approximating the realistic mass ceiling for Ultra-massive Black Holes (UMBHs), about $10^{12}\,M_\odot$ ([Supermassive_black_hole](https://en.wikipedia.org/wiki/Supermassive_black_hole#Description)).
 ## The Microterran Subscale
 
-Because many **duramons** have masses best expressed as a **millionth of a terran** ($\mu \oplus$), WMB defines an optional *microterran subscale* for intuitive symbolic modeling.
+Because many **duromons** have masses best expressed as a **millionth of a terran** ($\mu \oplus$), WMB defines an optional *microterran subscale* for intuitive symbolic modeling.
 
 This subscale maps cleanly to the standard symbolic intervals and absolute powers of ten.
 
@@ -133,7 +133,7 @@ It improves readability and narrative clarity for small-mass bodies such as **Ve
 - This symbolic shorthand allows you to say:  
   > “Ceres is about $157$ **microterrans** ($157\,\mu t$)” instead of “Ceres is $0.000157\,\oplus$.”  
 
-> **In short:** The $\mu t$ unit supports clarity without sacrificing scalar precision — a vital aid to both symbolic modeling and *thesiastic* storytelling.  While most useful in describing small-mass duramons, these subscale prefixes can be used wherever a scaling prefix is needed.
+> **In short:** The $\mu t$ unit supports clarity without sacrificing scalar precision — a vital aid to both symbolic modeling and *thesiastic* storytelling.  While most useful in describing small-mass duromons, these subscale prefixes can be used wherever a scaling prefix is needed.
 
 ## Applications and Examples
 
@@ -151,5 +151,5 @@ $$
 
 These examples illustrate how WMB notation maintains both intuitive scale and quantitative accuracy across ten orders of magnitude.
 
-Note that the Mazotic mass intervals are *descriptive*, not definitive, in WMB: they are part of what describes an object, but they do not define the classification of that object.  What makes stellamons different from duramons is more than their larger mass interval.
+Note that the Mazotic mass intervals are *descriptive*, not definitive, in WMB: they are part of what describes an object, but they do not define the classification of that object.  What makes stellamons different from duromons is more than their larger mass interval.
 

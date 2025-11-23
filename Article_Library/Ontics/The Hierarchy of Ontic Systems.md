@@ -34,7 +34,7 @@ source: https://gitlab.com/WMBcanon/mononics
 |:--|:--|:--|:--|
 | **Nuclear Regime** | Strong and weak nuclear forces | Atomic nuclei | neutronium, fusion cores |
 | **Molecular Regime** | Electromagnetic bonding | Molecular and crystalline matter | lithic, rheic, aeric bodies |
-| **Gravitational Regime** | Self-gravitation | Planetary and stellar bodies | planemons, stellamons, peramons |
+| **Gravitational Regime** | Self-gravitation | Planetary and stellar bodies | planemons, stellamons, peromons |
 | **Field Regime** | Energetic or spacetime curvature fields | Relativistic or exotic matter | black holes, cryptomons, hyperstellamons |
 
 Each regime represents a distinct **mode of coherence**, determined by the dominant physical interaction at its scale.  
@@ -96,9 +96,9 @@ Lexes are **heterogeneous** systems: members of differing **Mononic Classes** wo
 
 | Example                 | Canonical Term                            | Description                                             |
 | :---------------------- | :---------------------------------------- | :------------------------------------------------------ |
-| star + planets          | **Stellalex < Stellalexon**               | Stellamon primary with duramons or peramons             |
-| planet + moons          | **Duralex < Duralexon**                   | Duramon primary with subsidiary bodies                  |
-| resonance chain         | **Peralex < Peralexon**                   | Peramonic network (e.g., binary or chained black holes) |
+| star + planets          | **Stellalex < Stellalexon**               | Stellamon primary with duromons or peromons             |
+| planet + moons          | **Duralex < Duralexon**                   | Duromon primary with subsidiary bodies                  |
+| resonance chain         | **Peralex < Peralexon**                   | Peromonic network (e.g., binary or chained black holes) |
 | trinary stars + planets | **Stellar Ternalex < Stellar Ternalexon** | three stars with planetary companions                   |
 | spoken contractions     | *quinex*, *ternex*                        | vowel-prefix elision allowed                            |
 > **Euphonic rule:**
@@ -115,7 +115,7 @@ Gates are **contextual collectives**: systems whose coherence arises not from di
 | pair of galaxies     | **Duagate < Duagation**     | binary aggregate                     |
 | triple galaxy system | **Ternate < Ternagation**   | triple aggregate                     |
 | galaxy cluster       | **Multigate < Multigation** | many-membered aggregate              |
-| cosmic filament      | **Stellagate / Peragate**   | vast stellar or peramonic collective |
+| cosmic filament      | **Stellagate / Peragate**   | vast stellar or peromonic collective |
 > **Concept:** **Gates express unity by context** — coherence defined not by resemblance or interaction, but by large-scale gravitational, spatial, or environmental connection.
 
 ## 5 · Summary Hierarchy

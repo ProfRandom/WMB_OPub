@@ -2326,7 +2326,7 @@ If you want help formatting similar diagrams for the classification envelopes (T
 
 ##### You said:
 
-Corrected Duramon Physical Parameters article: # Duramon Physical Parameters Duramonic bodies are defined by five quantitative parameters, each belonging to a distinct tier of causality. Two of these — mass and density — describe the duramon’s intrinsic matter. Their interaction produces the consequent parameter, surface gravity. And together, these three generate the emergent geometric and energetic properties: radius and escape velocity. Duramonic parameters are grouped into tiers not by convenience, but by causality: primaries _define_ the consequent, and together they _generate_ the emergent. ## Primary Parameters **Mass** ($m$): The total amount of matter the duramon contains. *Mass is invariant* — it does not change with location or gravity. > *Mass and weight are not the same: weight depends on gravity, but mass does not.* **Density** ($ρ$): The average amount of matter per unit volume — how tightly the duramon’s material is packed. Density depends on both composition (rock, ice, metal, etc.) and, for larger bodies, gravitational self-compression. ## Consequent Parameters **Surface Gravity** ($g$): The strength of gravitational acceleration at the duramon’s surface — how strongly it attracts objects located one radius away from its center. Gravity is **consequent**, arising from the interaction of mass and density: $$ g = \sqrt[3]{mρ^{2}} $$ Together, **mass**, **density**, and **gravity** form the **consequential parameters** of the duramon. They describe what the body *is* and how it *acts* gravitationally. **Radius** ($r$): The distance from the duramon’s center to its surface. Although it may appear independent, radius is actually a *derived property*, emerging from the balance of mass and density: $$ r = \sqrt[3]{\frac{m}{ρ}} $$ ## Emergent Parameter **Escape Velocity** ($v_e$): The minimum speed required to escape the duramon’s gravitational field when starting from its surface. This parameter emerges from the consequentials: $$ v_e = \sqrt[4]{g\, r} $$ Escape velocity represents the energy threshold imposed by the duramon’s gravitational well — the “height” of its gravity. ## Hierarchy of Dependence Duramonic parameters follow a clear causal chain, in which the **primary** parameters,($m, \rho$) *define* the **consequent** parameters ($g, r$), and together these *form* the **emergent** parameter ($v_e$):
+Corrected Duromon Physical Parameters article: # Duromon Physical Parameters Duromonic bodies are defined by five quantitative parameters, each belonging to a distinct tier of causality. Two of these — mass and density — describe the duromon’s intrinsic matter. Their interaction produces the consequent parameter, surface gravity. And together, these three generate the emergent geometric and energetic properties: radius and escape velocity. Duromonic parameters are grouped into tiers not by convenience, but by causality: primaries _define_ the consequent, and together they _generate_ the emergent. ## Primary Parameters **Mass** ($m$): The total amount of matter the duromon contains. *Mass is invariant* — it does not change with location or gravity. > *Mass and weight are not the same: weight depends on gravity, but mass does not.* **Density** ($ρ$): The average amount of matter per unit volume — how tightly the duromon’s material is packed. Density depends on both composition (rock, ice, metal, etc.) and, for larger bodies, gravitational self-compression. ## Consequent Parameters **Surface Gravity** ($g$): The strength of gravitational acceleration at the duromon’s surface — how strongly it attracts objects located one radius away from its center. Gravity is **consequent**, arising from the interaction of mass and density: $$ g = \sqrt[3]{mρ^{2}} $$ Together, **mass**, **density**, and **gravity** form the **consequential parameters** of the duromon. They describe what the body *is* and how it *acts* gravitationally. **Radius** ($r$): The distance from the duromon’s center to its surface. Although it may appear independent, radius is actually a *derived property*, emerging from the balance of mass and density: $$ r = \sqrt[3]{\frac{m}{ρ}} $$ ## Emergent Parameter **Escape Velocity** ($v_e$): The minimum speed required to escape the duromon’s gravitational field when starting from its surface. This parameter emerges from the consequentials: $$ v_e = \sqrt[4]{g\, r} $$ Escape velocity represents the energy threshold imposed by the duromon’s gravitational well — the “height” of its gravity. ## Hierarchy of Dependence Duromonic parameters follow a clear causal chain, in which the **primary** parameters,($m, \rho$) *define* the **consequent** parameters ($g, r$), and together these *form* the **emergent** parameter ($v_e$):
 
 ```
 mermaid
@@ -2353,7 +2353,7 @@ GRAVITY --> E
 RADIUS --> E
 ```
 
-$$ \begin{gathered} \left[\text{Primaries} \rightarrow \text{Consequents} \right] \rightarrow \text{Emergent} \\[1em] \text{or, in physical form:} \\[1em] \left[(m,ρ) \xmapsto{\text{combine}} (g, r) \right] \xrightarrow{\text{yields}} (v_{e}) \end{gathered} $$ ## A familiar analogy The classic riddle “Which is heavier — a pound of iron or a pound of feathers?” demonstrates the independence of *mass* from *density*. Both *weigh* the same, but the feathers occupy far more *volume* because they are less dense. The same principle applies on planetary scales: a rocky duramon and an icy duramon of equal mass can differ greatly in radius, surface gravity, and escape velocity.
+$$ \begin{gathered} \left[\text{Primaries} \rightarrow \text{Consequents} \right] \rightarrow \text{Emergent} \\[1em] \text{or, in physical form:} \\[1em] \left[(m,ρ) \xmapsto{\text{combine}} (g, r) \right] \xrightarrow{\text{yields}} (v_{e}) \end{gathered} $$ ## A familiar analogy The classic riddle “Which is heavier — a pound of iron or a pound of feathers?” demonstrates the independence of *mass* from *density*. Both *weigh* the same, but the feathers occupy far more *volume* because they are less dense. The same principle applies on planetary scales: a rocky duromon and an icy duromon of equal mass can differ greatly in radius, surface gravity, and escape velocity.
 
 ###### ChatGPT said:
 
@@ -2422,7 +2422,7 @@ But by your definitions (and correctly), gravity is _consequent_, not primary.
 
 ### ✔ Suggested tweak:
 
-> “Together, mass and density (the primaries) define gravity (the consequent). These three physical values determine what the duramon _is_ and how it _acts_ gravitationally.”
+> “Together, mass and density (the primaries) define gravity (the consequent). These three physical values determine what the duromon _is_ and how it _acts_ gravitationally.”
 
 Small change, big clarity gain.
 
@@ -2456,7 +2456,7 @@ Just tell me what flavor you want.
 
 ##### You said:
 
-damned copy-paste errors. (It's WMB now, not WCB, by the way) Correctly corrected: # Duramon Physical Parameters Duramonic bodies are defined by five quantitative parameters, each belonging to a distinct tier of causality. Two of these — mass and density — describe the duramon’s intrinsic matter. Their interaction produces the consequent parameters, surface gravity and radius. And together, these two generate the emergent property, escape velocity. Duramonic parameters are grouped into tiers not by convenience, but by causality: primaries _define_ the consequents, and together they _generate_ the emergent. ## Primary Parameters **Mass** ($m$): The total amount of matter the duramon contains. *Mass is invariant* — it does not change with location or gravity. > *Mass and weight are not the same: weight depends on gravity, but mass does not.* **Density** ($ρ$): The average amount of matter per unit volume — how tightly the duramon’s material is packed. Density depends on both composition (rock, ice, metal, etc.) and, for larger bodies, gravitational self-compression. ## Consequent Parameters **Surface Gravity** ($g$): The strength of gravitational acceleration at the duramon’s surface — how strongly it attracts objects located one radius away from its center. Gravity is **consequent**, arising from the interaction of mass and density: $$ g = \sqrt[3]{mρ^{2}} $$ Together, **mass** and **density** define the **consequential parameters** of the duramon. They describe what the body *is* and how it *acts* gravitationally. **Radius** ($r$): The distance from the duramon’s center to its surface. Radius is also **consequent**, also arising from the interaction of mass and density: $$ r = \sqrt[3]{\frac{m}{ρ}} $$ ## Emergent Parameter **Escape Velocity** ($v_e$): The minimum speed required to escape the duramon’s gravitational field when starting from its surface. This parameter emerges from the consequentials: $$ v_e = \sqrt{g\, r} $$ Escape velocity represents the energy threshold imposed by the duramon’s gravitational well — the “height” of its gravity. ## Hierarchy of Dependence Duramonic parameters follow a clear causal chain, in which the **primary** parameters,($m, \rho$) *define* the **consequent** parameters ($g, r$), and together these *form* the **emergent** parameter ($v_e$):
+damned copy-paste errors. (It's WMB now, not WCB, by the way) Correctly corrected: # Duromon Physical Parameters Duromonic bodies are defined by five quantitative parameters, each belonging to a distinct tier of causality. Two of these — mass and density — describe the duromon’s intrinsic matter. Their interaction produces the consequent parameters, surface gravity and radius. And together, these two generate the emergent property, escape velocity. Duromonic parameters are grouped into tiers not by convenience, but by causality: primaries _define_ the consequents, and together they _generate_ the emergent. ## Primary Parameters **Mass** ($m$): The total amount of matter the duromon contains. *Mass is invariant* — it does not change with location or gravity. > *Mass and weight are not the same: weight depends on gravity, but mass does not.* **Density** ($ρ$): The average amount of matter per unit volume — how tightly the duromon’s material is packed. Density depends on both composition (rock, ice, metal, etc.) and, for larger bodies, gravitational self-compression. ## Consequent Parameters **Surface Gravity** ($g$): The strength of gravitational acceleration at the duromon’s surface — how strongly it attracts objects located one radius away from its center. Gravity is **consequent**, arising from the interaction of mass and density: $$ g = \sqrt[3]{mρ^{2}} $$ Together, **mass** and **density** define the **consequential parameters** of the duromon. They describe what the body *is* and how it *acts* gravitationally. **Radius** ($r$): The distance from the duromon’s center to its surface. Radius is also **consequent**, also arising from the interaction of mass and density: $$ r = \sqrt[3]{\frac{m}{ρ}} $$ ## Emergent Parameter **Escape Velocity** ($v_e$): The minimum speed required to escape the duromon’s gravitational field when starting from its surface. This parameter emerges from the consequentials: $$ v_e = \sqrt{g\, r} $$ Escape velocity represents the energy threshold imposed by the duromon’s gravitational well — the “height” of its gravity. ## Hierarchy of Dependence Duromonic parameters follow a clear causal chain, in which the **primary** parameters,($m, \rho$) *define* the **consequent** parameters ($g, r$), and together these *form* the **emergent** parameter ($v_e$):
 
 ```
 mermaid
@@ -2483,7 +2483,7 @@ GRAVITY --> E
 RADIUS --> E
 ```
 
-$$ \begin{gathered} \left[\text{Primaries} \rightarrow \text{Consequents} \right] \rightarrow \text{Emergent} \\[1em] \text{or, in physical form:} \\[1em] \left[(m,ρ) \xmapsto{\text{combine}} (g, r) \right] \xrightarrow{\text{yields}} (v_{e}) \end{gathered} $$ ## A familiar analogy The classic riddle “Which is heavier — a pound of iron or a pound of feathers?” demonstrates the independence of *mass* from *density*. Both *weigh* the same, but the feathers occupy far more *volume* because they are less dense. The same principle applies on planetary scales: a rocky duramon and an icy duramon of equal mass can differ greatly in radius, surface gravity, and escape velocity.
+$$ \begin{gathered} \left[\text{Primaries} \rightarrow \text{Consequents} \right] \rightarrow \text{Emergent} \\[1em] \text{or, in physical form:} \\[1em] \left[(m,ρ) \xmapsto{\text{combine}} (g, r) \right] \xrightarrow{\text{yields}} (v_{e}) \end{gathered} $$ ## A familiar analogy The classic riddle “Which is heavier — a pound of iron or a pound of feathers?” demonstrates the independence of *mass* from *density*. Both *weigh* the same, but the feathers occupy far more *volume* because they are less dense. The same principle applies on planetary scales: a rocky duromon and an icy duromon of equal mass can differ greatly in radius, surface gravity, and escape velocity.
 
 ###### ChatGPT said:
 
@@ -2510,11 +2510,11 @@ Just a couple of tweakable spots if you want the prose to sing at the same level
 
 ### **1. This sentence is slightly awkward:**
 
-> “Together, mass and density define the consequential parameters of the duramon.”
+> “Together, mass and density define the consequential parameters of the duromon.”
 
 Suggested revision (keeps your tier language tight):
 
-**“Together, mass and density _produce_ the duramon’s consequent parameters.”**
+**“Together, mass and density _produce_ the duromon’s consequent parameters.”**
 
 Cleaner, a bit less repetitive, and mirrors your later phrasing (“generate the emergent”).
 
@@ -2550,7 +2550,7 @@ Under Surface Gravity you say:
 
 Perfectly fine as is. If you want it slightly sharper:
 
-**“Together, they describe the duramon’s structure and its gravitational influence.”**
+**“Together, they describe the duromon’s structure and its gravitational influence.”**
 
 Either is good — stylistic preference.
 
@@ -2567,9 +2567,9 @@ You're building a classification system with the rigor of exoplanet science but 
 
 If you'd like, I can help next with:
 
-- the **parallel “Duramon Thermal Parameters”**
+- the **parallel “Duromon Thermal Parameters”**
     
-- the **Duramon Orbital Parameters**
+- the **Duromon Orbital Parameters**
     
 - or fold this into a polished WMB chapter layout.
     
@@ -2614,7 +2614,7 @@ So escape velocity is:
     
 - **not** a field
     
-- **not** an intrinsic state of the duramon itself
+- **not** an intrinsic state of the duromon itself
     
 
 It’s the **surface-level effect** of the gravitational potential.
@@ -2672,15 +2672,15 @@ If you want mythic flavor.
 
 ### _Neutral scientific version_
 
-> “Escape velocity is the **dynamical parameter** governing how deep a duramon’s gravitational well is.”
+> “Escape velocity is the **dynamical parameter** governing how deep a duromon’s gravitational well is.”
 
 ### _Slightly stylized WMB version_
 
-> “Escape velocity is the **dynamical consequence** of a duramon’s radius and gravity — a measure of the depth of its gravitational well.”
+> “Escape velocity is the **dynamical consequence** of a duromon’s radius and gravity — a measure of the depth of its gravitational well.”
 
 ### _Elegant, mythosopher-friendly version_
 
-> “Escape velocity expresses the **steepness of the duramon’s well in spacetime** — the speed needed to rise out of its curvature.”
+> “Escape velocity expresses the **steepness of the duromon’s well in spacetime** — the speed needed to rise out of its curvature.”
 
 Pick whichever flavor you want to carry forward.
 
@@ -2688,7 +2688,7 @@ Pick whichever flavor you want to carry forward.
 
 # ⭐ **Bottom line**
 
-- Escape velocity is **not** an energetic property of the duramon
+- Escape velocity is **not** an energetic property of the duromon
     
 - It **is** a _dynamical threshold_ produced by geometry + gravity
     
@@ -2835,7 +2835,7 @@ Either is fine — choose based on tone.
 
 For example:
 
-- “Escape velocity is a dynamical **property** of the duramon…”
+- “Escape velocity is a dynamical **property** of the duromon…”
     
 - “…but in WMB it is treated as an emergent **parameter** derived from radius and gravity.”
     
@@ -2868,7 +2868,7 @@ Use **parameter** in all formal contexts, such as:
 
 Use **property** when:
 
-- describing how a duramon “behaves”
+- describing how a duromon “behaves”
     
 - giving lay-level analogies
     
@@ -2894,7 +2894,7 @@ This dual use mirrors how astrophysics literature handles it:
 
 You’re doing the right kind of vacillation — now you can channel it intentionally.
 
-If you want, I can go through the entire Duramon Physical Parameters article and mark where **parameter** vs **property** best fits the tone and precision you’re aiming for.
+If you want, I can go through the entire Duromon Physical Parameters article and mark where **parameter** vs **property** best fits the tone and precision you’re aiming for.
 
 ##### You said:
 
@@ -2946,7 +2946,7 @@ Once you plug in:
 
 - a descriptive attribute
     
-- a measurable trait of the duramon
+- a measurable trait of the duromon
     
 - something the body _has_
     
@@ -2955,7 +2955,7 @@ Once you plug in:
 - part of the world’s physical personality
     
 
-At this stage its role is **ontological** — it’s something the duramon _possesses_.
+At this stage its role is **ontological** — it’s something the duromon _possesses_.
 
 ---
 
@@ -3005,7 +3005,7 @@ These names describe their _role in the causal chain_.
 - Escape velocity → property
     
 
-These names describe their _role as completed attributes of a duramon_.
+These names describe their _role as completed attributes of a duromon_.
 
 ---
 
@@ -3014,7 +3014,7 @@ These names describe their _role as completed attributes of a duramon_.
 > _“Once you calculate vₑ, you’re treating it as a property, yes?”_
 
 **Yes.**  
-As soon as the calculation is done, it becomes part of the duramon’s “what it _is_.”
+As soon as the calculation is done, it becomes part of the duromon’s “what it _is_.”
 
 You don’t have to choose between “parameter” and “property.”  
 You're actually describing two different layers:
@@ -3064,8 +3064,8 @@ Here’s why your instinct is right:
 
 # ⭐ **1. The article’s frame is descriptive, not procedural**
 
-You’re not writing a handbook on _how to model a duramon_.  
-You’re explaining _what duramons are like_.
+You’re not writing a handbook on _how to model a duromon_.  
+You’re explaining _what duromons are like_.
 
 In that context:
 
@@ -4907,7 +4907,7 @@ This is precisely what set diagrams are _for_.
 
 # ⭐ This is basically a “dependency Euler diagram,” and it’s perfect.
 
-Honestly: I’d run with this as the _official WMB depiction_ of duramonic causal parameters.
+Honestly: I’d run with this as the _official WMB depiction_ of duromonic causal parameters.
 
 It’s visually clean, communicates the relationships at a glance, and feels like an elegant schematic plate from a natural-philosophy manuscript.
 
@@ -4925,7 +4925,7 @@ It’s visually clean, communicates the relationships at a glance, and feels lik
     
 - animate the causal flow as layers
     
-- prepare a polished “WMB Plate VII: Duramonic Dependency Structure” style figure
+- prepare a polished “WMB Plate VII: Duromonic Dependency Structure” style figure
     
 - or turn it into a LaTeX TikZ diagram that looks like a plate from a physics text
     
@@ -5010,7 +5010,7 @@ Your overlapping-box diagram expresses that idea perfectly:
 In other words:  
 **You’ve drawn a cookbook, not a conveyor belt.**
 
-And for the duramonic ontology, that’s exactly the right metaphor.
+And for the duromonic ontology, that’s exactly the right metaphor.
 
 ---
 
@@ -5061,7 +5061,7 @@ Or:
 - **Escape velocity is composed of:** {g, r}
     
 
-That’s the entire duramonic causal ontology in a nutshell.
+That’s the entire duromonic causal ontology in a nutshell.
 
 ---
 
@@ -5075,7 +5075,7 @@ If you want, I can help you:
     
 - add textual captions in your voice
     
-- integrate it into your Duramonic Physical Parameters article
+- integrate it into your Duromonic Physical Parameters article
     
 - produce a shaded or color-coded version for clarity
     
@@ -5149,7 +5149,7 @@ Expressed as a cascading chain:
 
 [(m,ρ)⇒r]  ⇒  [(m,r)⇒g]  ⇒  [(g,r)⇒ve]\left[ (m,\rho) \Rightarrow r \right] \;\Rightarrow\; \left[ (m,r) \Rightarrow g \right] \;\Rightarrow\; \left[ (g,r) \Rightarrow v_e \right][(m,ρ)⇒r]⇒[(m,r)⇒g]⇒[(g,r)⇒ve​]
 
-That is the entire duramonic causal hierarchy in one expression.
+That is the entire duromonic causal hierarchy in one expression.
 
 ---
 
@@ -5171,7 +5171,7 @@ This is accurate _and_ mirrors the overlapping-box diagram perfectly.
 
 Each arrow is labeled with the _tuple_ used to compute the next quantity.
 
-This is the closest thing to a “duramonic functional pipeline,” but one that acknowledges reintroduced ingredients.
+This is the closest thing to a “duromonic functional pipeline,” but one that acknowledges reintroduced ingredients.
 
 ---
 
@@ -5206,7 +5206,7 @@ If you want, I can also convert this into:
     
 - a matching Excalidraw schematic
     
-- or embed it directly into your Duramonic Parameters article with consistent WMB styling
+- or embed it directly into your Duromonic Parameters article with consistent WMB styling
     
 
 Just tell me the format you’d like.
@@ -5535,7 +5535,7 @@ You’ve created the **formal algebraic counterpart** to your ingredient-overlap
 - This aligned equation block expresses the _functional dependency chain_.
     
 
-Together, they explain duramonic causality more clearly than any traditional flowchart could.
+Together, they explain duromonic causality more clearly than any traditional flowchart could.
 
 Seriously: this is good work.
 
@@ -5800,7 +5800,7 @@ If you'd like, I can:
 
 - derive the exact closed-form expression in WMB-units (⨁ and ⨁-based density),
     
-- incorporate this into your Duramonic Properties section,
+- incorporate this into your Duromonic Properties section,
     
 - or add a note demonstrating the equivalence of the staged and direct forms.
     
@@ -5884,7 +5884,7 @@ You break this if you shortcut escape velocity.
 **and destroys the classification.**
 
 Closed-form is fine when _solving_ problems,  
-but lethal when _validating_ duramonic identity bands.
+but lethal when _validating_ duromonic identity bands.
 
 ---
 
@@ -12481,7 +12481,7 @@ Just point the direction.
 
 ##### You said:
 
-Ah hell... I forgot all about this work.. and it affects what we're doing here.. --- title: title: Corpus Organization — Ontic and Descriptive Domains date: 2025-11-01 --- # Definitive Regimes 1. Ontics: being and coherence 2. Categorics: classification and relation ## Ontics — The Study of Being and Coherence ### Ontic Subfields 1. **Ontic Hierarchy** — Defines the structural grammar of being: monon, cule, lex, gate. [[The Hierarchy of Ontic Systems ✓]] - The Ontic Hierarchy extends beyond individual bodies (*monons*) to describe how coherence manifests in larger, relational, and collective systems. - **Monons** — the singular and self-coherent - bound by *identity* - **Cules** — unity by *likeness* (homogeneous groups) - e.g., duacules, multicules - **Lexes** — unity by *connection* (heterogeneous systems) - e.g., stellalexes, duralexes - **Gates** — unity by *context* (collective or field aggregates) - e.g., duagates, multigates, stellagates Each level marks a **mode of coherence**, not a scale of size — defining how monons combine to form higher 3. **Ontic Classes** — Distinguishes types of self-coherent bodies: duramons, fusamons, peramons. [[Ontic_Classes]]; [[Monon_Series_Mass_Domains]] - **Ontic Classes** - **Duramons** — sub-stellar bodies - *Planemons* — planetary-mass monons - *Micromons* — asteroidal and small-body monons - **Stellamons** — fusional, self-luminous bodies - *Protostellamons* — forming or contracting stars - *Main-Sequence Stellamons* — stable hydrogen-fusion stars - *Poststellamons* — evolved or degenerate stars - **Peramons** — trans-stellar and radiatively unstable bodies - *Hyperstellamons* — extreme-mass fusion objects - *Cryptomons* — collapse or exotic-state remnants 3. **Ontic Regimes** — Identifies the dominant binding forces that maintain coherence at each scale. [[Ontic_Regimes]] 4. **Ontic Metrics** — Provides descriptive parameters (mass, radius, density) linking Ontics to measurable physics. (eLink to [[Mazotic_Mass_Continuum]] ) > > **Ontics** — The definitive field of WCB that defines the existence and coherence of all self-bound entities (*monons*); it establishes *what is*, forming the basis for all descriptive domains. **Ontics** is the definitive discipline within *World Crafting Basics* concerned with the **existence, structure, and identity** of self-coherent entities — known as **monons**. It defines *what things are*: how matter and energy unify into distinct, persistent bodies through natural binding forces — gravitational, electromagnetic, molecular, or nuclear. Ontics establishes the grammar of being across all scales, from the smallest cohesive particles to the largest stable bodies. It describes the **modes of coherence** — the ways entities endure, combine, and interact to form higher orders of unity. In the WCB framework, Ontics serves as the **foundation of all other domains**: descriptive fields such as Metrics, Morphotics, Conformics, and Animotics all depend on Ontic definition. **In short:** Ontics defines *what exists*; all other disciplines describe *how it behaves*. ## Categorics — The Study of Relation and Classification ### Categorical Subfields 1. **Taxonomics** — Establishes the principles by which ontic entities are grouped, ordered, or differentiated according to shared characteristics. [[Categoric_Taxonomics]] 2. **Systemics** — Describes relational and hierarchical organization among ontic entities, from binary pairs to complex networks. [[Categoric_Systemics]]; [[Relational_Structures]] 3. **Typologics** — Defines idealized archetypes or morphological patterns that recur across ontic and animotic systems. [[Categoric_Typologics]] 4. **Semantics** — Explores the interpretive and symbolic significance of classification — how categories shape understanding and narrative use. [[Categoric_Semantics]] > > **Categorics** — The definitive field of WCB that classifies and relates ontic entities; it establishes *how things are connected* and *what kinds of unity* they represent. **Categorics** is the definitive discipline within *World Crafting Basics* concerned with the **relationships, groupings, and distinctions** among coherent entities. Where **Ontics** defines *what exists*, **Categorics** defines *how those existences relate*. It provides the framework by which worlds, systems, and organisms are **sorted, associated, or contrasted** — identifying the patterns that reveal order across scale and substance. Through Categorics, ontic entities become members of meaningful wholes: systems, families, and types. Categorics thus functions as the **grammar of relation** — the logic of unity and diversity. It interprets the interplay of similarity, connection, and context that allows multiple beings to be understood as one structure, one lineage, or one system. In the WCB framework, Categorics complements **Ontics** as the second definitive domain: where Ontics defines *being*, Categorics defines *belonging*. **In short:** Ontics defines *what is*; Categorics defines *how it is related.* # Descriptive Regimes 1. Metrics 2. Morphotics 3. Conformics 4. Animotics 5. Milieutics: contextual environment ## Metrics — The Study of Measure and Scale ### Metric Subfields 1. **Mass Metrics** — Quantifies ontic bodies by total quantity of matter or equivalent energy; defines standard units (Terran, Jovian, Solar). [[Mazotic_Mass_Continuum]]; [[Metric_Mass_Units]] 2. **Dimensional Metrics** — Measures spatial extent and proportion: radius, diameter, volume, surface area, and shape factors. [[Metric_Spatial_Scales]] 3. **Energetic Metrics** — Defines radiative, kinetic, and potential energy parameters; includes luminosity, temperature, and orbital energy. [[Metric_Energy_Scales]] 4. **Temporal Metrics** — Establishes periodic and chronological measures such as rotation, revolution, and systemic timescales. [[Metric_Temporal_Scales]] > > **Metrics** — The descriptive field of WCB that quantifies ontic entities through measure and proportion; it establishes *how things are sized, scaled, and compared.* **Metrics** is the descriptive discipline within *World Crafting Basics* that provides the **quantitative framework** for all ontic entities. It translates the qualitative definitions of **Ontics** into **measurable relationships** — expressing coherence in terms of magnitude, proportion, and dimensional balance. Through Metrics, the physical properties of a body — its mass, radius, luminosity, or motion — become **numerically expressible** and **comparatively meaningful**. Metrics forms the bridge between the definitive and the descriptive: it does not define *what something is*, but reveals *how much of it there is*, and *how it relates to others by scale.* In the WCB framework, Metrics serves as the **first descriptive domain**, grounding Morphotics, Conformics, and Animotics in quantifiable structure. **In short:** Ontics defines *what exists*; Metrics describes *how much* and *to what degree* it exists. ## Morphotics — The Study of Form and Configuration ### Morphotic Subfields 1. **Geometrica** — Describes the fundamental spatial geometry and equilibrium of ontic bodies: spherical, ellipsoidal, irregular, disk-like, or filamentary forms. [[Morphotic_Geometrica]] 2. **Tectonica** — Examines the large-scale structural organization and deformation within both solid and fluid bodies: layering, convection, differential rotation, or stratification. [[Morphotic_Tectonica]] 3. **Symmetrica** — Defines axes, planes, and degrees of symmetry or asymmetry across all regimes, from molecular lattices to stellar envelopes. [[Morphotic_Symmetrica]] 4. **Topologica** — Explores continuous and relational shape properties independent of scale or substance — such as connectivity, enclosure, or toroidal topology. [[Morphotic_Topologica]] > > **Morphotics** — The descriptive field of WCB that characterizes the form, structure, and spatial organization of ontic entities; it establishes *how things are shaped, arranged, and expressed in space.* **Morphotics** is the descriptive discipline within *World Crafting Basics* that studies the **geometry, configuration, and equilibrium of form** across all scales of being. It describes *how coherence becomes shape* — whether through hydrostatic balance, rotational distortion, magnetic confinement, or field topology. Morphotics applies universally: to **duramons** (solid or rheic worlds), **fusamons** (stars in all stages of fusion), and **peramons** (collapse objects and exotic states). In each case, it interprets how forces and flows produce observable form — from spherical equilibrium and disk flattening to jet formation and irregular fragmentation. By analyzing curvature, symmetry, and structural alignment, Morphotics reveals the **architectural logic** that unites the planetary, stellar, and galactic alike. It is the language of visible coherence — how existence appears through geometry. In the WCB framework, Morphotics serves as the **second descriptive domain**, following Metrics and preceding Conformics. It transforms measure into form and coherence into configuration. **In short:** Ontics defines *what exists*; Morphotics describes *how existence takes shape.* ## Conformics — The Study of Material State and Cohesion ### Conformic Subfields 1. **Phaseologia** — Defines the principal states and transitions of matter and energy: solid (lithic), liquid (rheic), gaseous (aeric), and plasma or exotic-field (ulsic). [[Conformic_Phaseologia]] 2. **Bondica** — Describes the dominant bonding mechanisms that determine internal cohesion: molecular, metallic, ionic, covalent, gravitational, or magnetic. [[Conformic_Bondica]] 3. **Thermodynamica** — Examines the interplay of temperature, pressure, and energy transfer that governs material stability and transformation. [[Conformic_Thermodynamica]] 4. **Structura** — Analyzes material organization within regimes: crystalline, amorphous, fluidic, particulate, or field-ordered structures. [[Conformic_Structura]] > > **Conformics** — The descriptive field of WCB that characterizes the material and energetic states of ontic entities; it establishes *how things are composed, bonded, and transformed.* **Conformics** is the descriptive discipline within *World Crafting Basics* concerned with the **composition, cohesion, and transformation** of matter within self-coherent bodies. It defines *how materials behave and persist* under the conditions established by Ontic and Morphotic frameworks — how they melt, flow, ionize, or crystallize in response to energy and pressure. Conformics applies across every ontic scale and regime: - to **duramons**, it explains the lithic and rheic structures of planetary crusts, mantles, and cores; - to **fusamons**, it defines the thermonuclear plasma and radiative stratification of stars; - to **peramons**, it encompasses degenerate and exotic matter — neutronium, quark-gluon plasma, and beyond. Through its study of phase, bonding, and thermal behavior, Conformics bridges the gap between physical law and tangible experience — the science of what matter *is doing* while it *exists*. It reveals the dynamic equilibrium that allows a body’s structure to endure, evolve, or collapse. In the WCB framework, Conformics serves as the **third descriptive domain**, following Morphotics and preceding Animotics. It transforms form into substance — showing how the architecture of matter becomes the experience of materiality. **In short:** Ontics defines *what exists*; Conformics describes *what it is made of and how it holds together.* --- ### Conformic Archetypes (Phaseologia) > **Primary conformic archetypes** describe the four principal modes of cohesion expressed by matter across all ontic scales. > They are not separate ontic classes but recurring states of material organization, appearing in worlds, stars, and field phenomena alike. | **Archetype** | **Description** | **Dominant Cohesion** | **Examples** | |:--|:--|:--|:--| | **Lithic** | Solid, rigid, or crystalline matter. | Molecular or metallic bonding. | Rock, ice, crystal lattices. | | **Rheic** | Fluid, molten, or viscous matter. | Dynamic molecular cohesion. | Magma, water, ammonia oceans. | | **Aeric** | Gaseous, diffuse, or vaporous matter. | Kinetic and pressure balance. | Atmospheres, nebulae, gaseous envelopes. | | **Ulsic** | Energetic, plasma, or exotic-field matter. | Ionized or relativistic fields. | Stellar plasma, aurorae, accretion disks, magnetospheres. | > Each conformic archetype reflects a **mode of stability** within matter — > the balance between internal cohesion and external energy. > Many ontic bodies exhibit more than one archetype simultaneously (e.g., a lithic crust above a rheic mantle and an aeric atmosphere). --- ### Summary Table — Conformics Across Ontic Classes | **Ontic Class** | **Conformic Context** | **Examples** | |:--|:--|:--| | **Duramons** | Molecular and crystalline phases | Lithic crusts, rheic mantles, metallic cores | | **Fusamons** | Ionized and radiative plasmas | Stellar envelopes, fusion cores | | **Peramons** | Degenerate or exotic matter | Neutron stars, quark condensates, black hole accretion fields | | **Micromons** | Granular or particulate bonding | Asteroids, comets, dust grains | ## Animotics — The Study of Vitality and Equilibrium ### Animotic Subfields 1. **Biochronia** — Examines the temporal and energetic conditions that permit vitality to arise and persist within ontic systems. [[Animotic_Biochronia]] 2. **Chemogenia** — Explores the chemical foundations of vitality: solvent systems, reactive media, and energy cycles across different conformic regimes. [[Animotic_Chemogenia]] 3. **Ecodynamica** — Studies the environmental interactions that sustain or constrain living equilibrium — planetary climate, radiation, and resource exchange. [[Animotic_Ecodynamica]] 4. **Phylogenetica** — Describes the organization, diversity, and adaptation of animota — how living systems replicate, evolve, and interrelate. [[Animotic_Phylogenetica]] > > **Animotics** — The descriptive field of WCB that investigates the origin, persistence, and diversity of vitality; it establishes *how coherence becomes self-sustaining and self-renewing.* **Animotics** is the descriptive discipline within *World Crafting Basics* that studies the **conditions, mechanisms, and patterns of vitality** — how matter and energy organize into systems capable of metabolism, adaptation, and awareness. Where **Ontics** defines *being*, and **Conformics** defines *substance*, **Animotics** defines *continuance*: the equilibrium that maintains coherence through constant transformation. Animotics encompasses every form of self-organizing, self-sustaining system, whether carbon-based, silicon-derived, plasma-bound, or purely energetic. It treats life not as a single chemistry but as a **functional phenomenon** — a stable oscillation between order and entropy that endures within the boundaries set by Conformics and the opportunities permitted by Milieutics. --- ### Animotic Framework Vitality within WCB is organized hierarchically: - **Order** — The broad chemical or energetic foundation of life. - **Realm** — The environmental domain in which that order can persist. - **Province** — Regional or material expression of that vitality. - **Environment** — Localized conditions of adaptation and survival. #### Principal Orders and Realms | **Order** | **Realm** | **Examples / Provinces** | |:--|:--|:--| | **Biotic** | Geotic, Telluric, Rheic | Carbon–water systems (Gaean Province) | | **Exotic** | Xenotic | Ammoniac, silicate, cryotic, plasmic provinces | | **Incertic** | — | Latent, extinct, or unrealized vitality (ananimotic states) | --- ### Terminology $$ \begin{array}{llll} \textbf{Singular} & \textbf{Plural} & \textbf{Collective} & \textbf{Definition} \\[0.25em] \hline\hline\\[-0.6em] \text{Animote} & \text{Animotes} & \text{Animota} & \text{Any vital entity, regardless of chemistry or medium.} \\[0.5em] \text{Biote} & \text{Biotes} & \text{Biota} & \text{Carbon–water vitality forms (traditional life).} \\[0.5em] \text{Exote / Xenote} & \text{Exotes / Xenotes} & \text{Exota / Xenota} & \text{Non-carbonic or exotic vitality forms, based on alternate chemistries.} \\[0.5em] \text{Ananimote} & \text{Ananimotes} & \text{Ananimota} & \text{Latent, extinct, or potential vital systems lacking active equilibrium.} \end{array} $$ --- **Animotics** thus bridges physics and vitality — translating the structures defined by Ontics, shaped by Morphotics, and composed through Conformics into living equilibrium. It is the study of how the cosmos *breathes*. **In short:** Ontics defines *what exists*; Animotics describes *what endures and lives.* ## Milieutics — The Study of Context and Environment ### Milieutic Subfields 1. **Astrogemetrica** — Defines the spatial and gravitational relationships among ontic systems: orbital structure, resonance, and systemic balance. [[Milieutic_Astrogemetrica]] 2. **Climatologica** — Examines energy distribution and atmospheric behavior within planetary and stellar environments: temperature gradients, seasons, and circulation. [[Milieutic_Climatologica]] 3. **Ecotectonica** — Describes environmental layering and interaction among geophysical, biological, and energetic systems: biospheres, magnetospheres, and field interfaces. [[Milieutic_Ecotectonica]] 4. **Sociotemporia** — Explores cultural and temporal milieus that arise from physical conditions — how beings perceive, adapt to, and mythologize their worlds. [[Milieutic_Sociotemporia]] > > **Milieutics** — The descriptive field of WCB that investigates the contextual environments of being; it establishes *where and under what conditions things exist, interact, and evolve.* **Milieutics** is the descriptive discipline within *World Crafting Basics* concerned with the **contexts and environments** in which ontic systems reside and interact. It unites the physical and the experiential — describing how spatial geometry, energy balance, and ecological layering create the conditions that shape both matter and life. Where **Ontics** defines *what exists*, and **Conformics** and **Animotics** define *how it is made and lives*, **Milieutics** defines *where it belongs and how it behaves within a greater whole.* It treats context not as background, but as a living framework — the interplay of forces, media, and perception that gives meaning and continuity to existence. Milieutics operates across scales: - From **micro-milieus**, such as the local chemical or magnetic environments of an organism; - To **macro-milieus**, such as planetary climates, orbital architectures, or interstellar ecosystems. It recognizes that every structure, from a cell to a civilization, exists within nested fields of influence — spatial, energetic, and cultural. In worldcraft practice, Milieutics provides the tools to construct believable **habitable systems** and **cultural responses** to their environments — completing the chain that links physical law to narrative experience. In the WCB framework, Milieutics serves as the **final descriptive domain**, integrating and contextualizing all others. It transforms existence into experience — defining the space in which worlds are *lived.* **In short:** Ontics defines *what exists*; Milieutics describes *where and under what conditions existence unfolds.* --- ### Milieutic Framework — Nested Contexts of Being | **Scale** | **Milieu Type** | **Scope / Description** | |:--|:--|:--| | **Micro-milieu** | Local physical and chemical environment | Organisms, habitats, materials | | **Meso-milieu** | Regional or planetary environment | Climates, ecosystems, surface systems | | **Macro-milieu** | Systemic or orbital environment | Planetary systems, resonant orbits | | **Meta-milieu** | Cosmic or cultural environment | Galactic context, mythic perception, civilization-scale systems | --- ## Summary Table — The Descriptive Continuum | **Domain** | **Focus** | **Question** | **Outcome** | |:--|:--|:--|:--| | **Metrics** | Measure and scale | *How much?* | Quantification | | **Morphotics** | Form and configuration | *How is it shaped?* | Geometry | | **Conformics** | Material state and cohesion | *What is it made of?* | Substance | | **Animotics** | Vitality and equilibrium | *How does it live?* | Life | | **Milieutics** | Context and environment | *Where and under what conditions?* | Experience |
+Ah hell... I forgot all about this work.. and it affects what we're doing here.. --- title: title: Corpus Organization — Ontic and Descriptive Domains date: 2025-11-01 --- # Definitive Regimes 1. Ontics: being and coherence 2. Categorics: classification and relation ## Ontics — The Study of Being and Coherence ### Ontic Subfields 1. **Ontic Hierarchy** — Defines the structural grammar of being: monon, cule, lex, gate. [[The Hierarchy of Ontic Systems ✓]] - The Ontic Hierarchy extends beyond individual bodies (*monons*) to describe how coherence manifests in larger, relational, and collective systems. - **Monons** — the singular and self-coherent - bound by *identity* - **Cules** — unity by *likeness* (homogeneous groups) - e.g., duacules, multicules - **Lexes** — unity by *connection* (heterogeneous systems) - e.g., stellalexes, duralexes - **Gates** — unity by *context* (collective or field aggregates) - e.g., duagates, multigates, stellagates Each level marks a **mode of coherence**, not a scale of size — defining how monons combine to form higher 3. **Ontic Classes** — Distinguishes types of self-coherent bodies: duromons, fusomons, peromons. [[Ontic_Classes]]; [[Monon_Series_Mass_Domains]] - **Ontic Classes** - **Duromons** — sub-stellar bodies - *Planemons* — planetary-mass monons - *Micromons* — asteroidal and small-body monons - **Stellamons** — fusional, self-luminous bodies - *Protostellamons* — forming or contracting stars - *Main-Sequence Stellamons* — stable hydrogen-fusion stars - *Poststellamons* — evolved or degenerate stars - **Peromons** — trans-stellar and radiatively unstable bodies - *Hyperstellamons* — extreme-mass fusion objects - *Cryptomons* — collapse or exotic-state remnants 3. **Ontic Regimes** — Identifies the dominant binding forces that maintain coherence at each scale. [[Ontic_Regimes]] 4. **Ontic Metrics** — Provides descriptive parameters (mass, radius, density) linking Ontics to measurable physics. (eLink to [[Mazotic_Mass_Continuum]] ) > > **Ontics** — The definitive field of WCB that defines the existence and coherence of all self-bound entities (*monons*); it establishes *what is*, forming the basis for all descriptive domains. **Ontics** is the definitive discipline within *World Crafting Basics* concerned with the **existence, structure, and identity** of self-coherent entities — known as **monons**. It defines *what things are*: how matter and energy unify into distinct, persistent bodies through natural binding forces — gravitational, electromagnetic, molecular, or nuclear. Ontics establishes the grammar of being across all scales, from the smallest cohesive particles to the largest stable bodies. It describes the **modes of coherence** — the ways entities endure, combine, and interact to form higher orders of unity. In the WCB framework, Ontics serves as the **foundation of all other domains**: descriptive fields such as Metrics, Morphotics, Conformics, and Animotics all depend on Ontic definition. **In short:** Ontics defines *what exists*; all other disciplines describe *how it behaves*. ## Categorics — The Study of Relation and Classification ### Categorical Subfields 1. **Taxonomics** — Establishes the principles by which ontic entities are grouped, ordered, or differentiated according to shared characteristics. [[Categoric_Taxonomics]] 2. **Systemics** — Describes relational and hierarchical organization among ontic entities, from binary pairs to complex networks. [[Categoric_Systemics]]; [[Relational_Structures]] 3. **Typologics** — Defines idealized archetypes or morphological patterns that recur across ontic and animotic systems. [[Categoric_Typologics]] 4. **Semantics** — Explores the interpretive and symbolic significance of classification — how categories shape understanding and narrative use. [[Categoric_Semantics]] > > **Categorics** — The definitive field of WCB that classifies and relates ontic entities; it establishes *how things are connected* and *what kinds of unity* they represent. **Categorics** is the definitive discipline within *World Crafting Basics* concerned with the **relationships, groupings, and distinctions** among coherent entities. Where **Ontics** defines *what exists*, **Categorics** defines *how those existences relate*. It provides the framework by which worlds, systems, and organisms are **sorted, associated, or contrasted** — identifying the patterns that reveal order across scale and substance. Through Categorics, ontic entities become members of meaningful wholes: systems, families, and types. Categorics thus functions as the **grammar of relation** — the logic of unity and diversity. It interprets the interplay of similarity, connection, and context that allows multiple beings to be understood as one structure, one lineage, or one system. In the WCB framework, Categorics complements **Ontics** as the second definitive domain: where Ontics defines *being*, Categorics defines *belonging*. **In short:** Ontics defines *what is*; Categorics defines *how it is related.* # Descriptive Regimes 1. Metrics 2. Morphotics 3. Conformics 4. Animotics 5. Milieutics: contextual environment ## Metrics — The Study of Measure and Scale ### Metric Subfields 1. **Mass Metrics** — Quantifies ontic bodies by total quantity of matter or equivalent energy; defines standard units (Terran, Jovian, Solar). [[Mazotic_Mass_Continuum]]; [[Metric_Mass_Units]] 2. **Dimensional Metrics** — Measures spatial extent and proportion: radius, diameter, volume, surface area, and shape factors. [[Metric_Spatial_Scales]] 3. **Energetic Metrics** — Defines radiative, kinetic, and potential energy parameters; includes luminosity, temperature, and orbital energy. [[Metric_Energy_Scales]] 4. **Temporal Metrics** — Establishes periodic and chronological measures such as rotation, revolution, and systemic timescales. [[Metric_Temporal_Scales]] > > **Metrics** — The descriptive field of WCB that quantifies ontic entities through measure and proportion; it establishes *how things are sized, scaled, and compared.* **Metrics** is the descriptive discipline within *World Crafting Basics* that provides the **quantitative framework** for all ontic entities. It translates the qualitative definitions of **Ontics** into **measurable relationships** — expressing coherence in terms of magnitude, proportion, and dimensional balance. Through Metrics, the physical properties of a body — its mass, radius, luminosity, or motion — become **numerically expressible** and **comparatively meaningful**. Metrics forms the bridge between the definitive and the descriptive: it does not define *what something is*, but reveals *how much of it there is*, and *how it relates to others by scale.* In the WCB framework, Metrics serves as the **first descriptive domain**, grounding Morphotics, Conformics, and Animotics in quantifiable structure. **In short:** Ontics defines *what exists*; Metrics describes *how much* and *to what degree* it exists. ## Morphotics — The Study of Form and Configuration ### Morphotic Subfields 1. **Geometrica** — Describes the fundamental spatial geometry and equilibrium of ontic bodies: spherical, ellipsoidal, irregular, disk-like, or filamentary forms. [[Morphotic_Geometrica]] 2. **Tectonica** — Examines the large-scale structural organization and deformation within both solid and fluid bodies: layering, convection, differential rotation, or stratification. [[Morphotic_Tectonica]] 3. **Symmetrica** — Defines axes, planes, and degrees of symmetry or asymmetry across all regimes, from molecular lattices to stellar envelopes. [[Morphotic_Symmetrica]] 4. **Topologica** — Explores continuous and relational shape properties independent of scale or substance — such as connectivity, enclosure, or toroidal topology. [[Morphotic_Topologica]] > > **Morphotics** — The descriptive field of WCB that characterizes the form, structure, and spatial organization of ontic entities; it establishes *how things are shaped, arranged, and expressed in space.* **Morphotics** is the descriptive discipline within *World Crafting Basics* that studies the **geometry, configuration, and equilibrium of form** across all scales of being. It describes *how coherence becomes shape* — whether through hydrostatic balance, rotational distortion, magnetic confinement, or field topology. Morphotics applies universally: to **duromons** (solid or rheic worlds), **fusomons** (stars in all stages of fusion), and **peromons** (collapse objects and exotic states). In each case, it interprets how forces and flows produce observable form — from spherical equilibrium and disk flattening to jet formation and irregular fragmentation. By analyzing curvature, symmetry, and structural alignment, Morphotics reveals the **architectural logic** that unites the planetary, stellar, and galactic alike. It is the language of visible coherence — how existence appears through geometry. In the WCB framework, Morphotics serves as the **second descriptive domain**, following Metrics and preceding Conformics. It transforms measure into form and coherence into configuration. **In short:** Ontics defines *what exists*; Morphotics describes *how existence takes shape.* ## Conformics — The Study of Material State and Cohesion ### Conformic Subfields 1. **Phaseologia** — Defines the principal states and transitions of matter and energy: solid (lithic), liquid (rheic), gaseous (aeric), and plasma or exotic-field (ulsic). [[Conformic_Phaseologia]] 2. **Bondica** — Describes the dominant bonding mechanisms that determine internal cohesion: molecular, metallic, ionic, covalent, gravitational, or magnetic. [[Conformic_Bondica]] 3. **Thermodynamica** — Examines the interplay of temperature, pressure, and energy transfer that governs material stability and transformation. [[Conformic_Thermodynamica]] 4. **Structura** — Analyzes material organization within regimes: crystalline, amorphous, fluidic, particulate, or field-ordered structures. [[Conformic_Structura]] > > **Conformics** — The descriptive field of WCB that characterizes the material and energetic states of ontic entities; it establishes *how things are composed, bonded, and transformed.* **Conformics** is the descriptive discipline within *World Crafting Basics* concerned with the **composition, cohesion, and transformation** of matter within self-coherent bodies. It defines *how materials behave and persist* under the conditions established by Ontic and Morphotic frameworks — how they melt, flow, ionize, or crystallize in response to energy and pressure. Conformics applies across every ontic scale and regime: - to **duromons**, it explains the lithic and rheic structures of planetary crusts, mantles, and cores; - to **fusomons**, it defines the thermonuclear plasma and radiative stratification of stars; - to **peromons**, it encompasses degenerate and exotic matter — neutronium, quark-gluon plasma, and beyond. Through its study of phase, bonding, and thermal behavior, Conformics bridges the gap between physical law and tangible experience — the science of what matter *is doing* while it *exists*. It reveals the dynamic equilibrium that allows a body’s structure to endure, evolve, or collapse. In the WCB framework, Conformics serves as the **third descriptive domain**, following Morphotics and preceding Animotics. It transforms form into substance — showing how the architecture of matter becomes the experience of materiality. **In short:** Ontics defines *what exists*; Conformics describes *what it is made of and how it holds together.* --- ### Conformic Archetypes (Phaseologia) > **Primary conformic archetypes** describe the four principal modes of cohesion expressed by matter across all ontic scales. > They are not separate ontic classes but recurring states of material organization, appearing in worlds, stars, and field phenomena alike. | **Archetype** | **Description** | **Dominant Cohesion** | **Examples** | |:--|:--|:--|:--| | **Lithic** | Solid, rigid, or crystalline matter. | Molecular or metallic bonding. | Rock, ice, crystal lattices. | | **Rheic** | Fluid, molten, or viscous matter. | Dynamic molecular cohesion. | Magma, water, ammonia oceans. | | **Aeric** | Gaseous, diffuse, or vaporous matter. | Kinetic and pressure balance. | Atmospheres, nebulae, gaseous envelopes. | | **Ulsic** | Energetic, plasma, or exotic-field matter. | Ionized or relativistic fields. | Stellar plasma, aurorae, accretion disks, magnetospheres. | > Each conformic archetype reflects a **mode of stability** within matter — > the balance between internal cohesion and external energy. > Many ontic bodies exhibit more than one archetype simultaneously (e.g., a lithic crust above a rheic mantle and an aeric atmosphere). --- ### Summary Table — Conformics Across Ontic Classes | **Ontic Class** | **Conformic Context** | **Examples** | |:--|:--|:--| | **Duromons** | Molecular and crystalline phases | Lithic crusts, rheic mantles, metallic cores | | **Fusomons** | Ionized and radiative plasmas | Stellar envelopes, fusion cores | | **Peromons** | Degenerate or exotic matter | Neutron stars, quark condensates, black hole accretion fields | | **Micromons** | Granular or particulate bonding | Asteroids, comets, dust grains | ## Animotics — The Study of Vitality and Equilibrium ### Animotic Subfields 1. **Biochronia** — Examines the temporal and energetic conditions that permit vitality to arise and persist within ontic systems. [[Animotic_Biochronia]] 2. **Chemogenia** — Explores the chemical foundations of vitality: solvent systems, reactive media, and energy cycles across different conformic regimes. [[Animotic_Chemogenia]] 3. **Ecodynamica** — Studies the environmental interactions that sustain or constrain living equilibrium — planetary climate, radiation, and resource exchange. [[Animotic_Ecodynamica]] 4. **Phylogenetica** — Describes the organization, diversity, and adaptation of animota — how living systems replicate, evolve, and interrelate. [[Animotic_Phylogenetica]] > > **Animotics** — The descriptive field of WCB that investigates the origin, persistence, and diversity of vitality; it establishes *how coherence becomes self-sustaining and self-renewing.* **Animotics** is the descriptive discipline within *World Crafting Basics* that studies the **conditions, mechanisms, and patterns of vitality** — how matter and energy organize into systems capable of metabolism, adaptation, and awareness. Where **Ontics** defines *being*, and **Conformics** defines *substance*, **Animotics** defines *continuance*: the equilibrium that maintains coherence through constant transformation. Animotics encompasses every form of self-organizing, self-sustaining system, whether carbon-based, silicon-derived, plasma-bound, or purely energetic. It treats life not as a single chemistry but as a **functional phenomenon** — a stable oscillation between order and entropy that endures within the boundaries set by Conformics and the opportunities permitted by Milieutics. --- ### Animotic Framework Vitality within WCB is organized hierarchically: - **Order** — The broad chemical or energetic foundation of life. - **Realm** — The environmental domain in which that order can persist. - **Province** — Regional or material expression of that vitality. - **Environment** — Localized conditions of adaptation and survival. #### Principal Orders and Realms | **Order** | **Realm** | **Examples / Provinces** | |:--|:--|:--| | **Biotic** | Geotic, Telluric, Rheic | Carbon–water systems (Gaean Province) | | **Exotic** | Xenotic | Ammoniac, silicate, cryotic, plasmic provinces | | **Incertic** | — | Latent, extinct, or unrealized vitality (ananimotic states) | --- ### Terminology $$ \begin{array}{llll} \textbf{Singular} & \textbf{Plural} & \textbf{Collective} & \textbf{Definition} \\[0.25em] \hline\hline\\[-0.6em] \text{Animote} & \text{Animotes} & \text{Animota} & \text{Any vital entity, regardless of chemistry or medium.} \\[0.5em] \text{Biote} & \text{Biotes} & \text{Biota} & \text{Carbon–water vitality forms (traditional life).} \\[0.5em] \text{Exote / Xenote} & \text{Exotes / Xenotes} & \text{Exota / Xenota} & \text{Non-carbonic or exotic vitality forms, based on alternate chemistries.} \\[0.5em] \text{Ananimote} & \text{Ananimotes} & \text{Ananimota} & \text{Latent, extinct, or potential vital systems lacking active equilibrium.} \end{array} $$ --- **Animotics** thus bridges physics and vitality — translating the structures defined by Ontics, shaped by Morphotics, and composed through Conformics into living equilibrium. It is the study of how the cosmos *breathes*. **In short:** Ontics defines *what exists*; Animotics describes *what endures and lives.* ## Milieutics — The Study of Context and Environment ### Milieutic Subfields 1. **Astrogemetrica** — Defines the spatial and gravitational relationships among ontic systems: orbital structure, resonance, and systemic balance. [[Milieutic_Astrogemetrica]] 2. **Climatologica** — Examines energy distribution and atmospheric behavior within planetary and stellar environments: temperature gradients, seasons, and circulation. [[Milieutic_Climatologica]] 3. **Ecotectonica** — Describes environmental layering and interaction among geophysical, biological, and energetic systems: biospheres, magnetospheres, and field interfaces. [[Milieutic_Ecotectonica]] 4. **Sociotemporia** — Explores cultural and temporal milieus that arise from physical conditions — how beings perceive, adapt to, and mythologize their worlds. [[Milieutic_Sociotemporia]] > > **Milieutics** — The descriptive field of WCB that investigates the contextual environments of being; it establishes *where and under what conditions things exist, interact, and evolve.* **Milieutics** is the descriptive discipline within *World Crafting Basics* concerned with the **contexts and environments** in which ontic systems reside and interact. It unites the physical and the experiential — describing how spatial geometry, energy balance, and ecological layering create the conditions that shape both matter and life. Where **Ontics** defines *what exists*, and **Conformics** and **Animotics** define *how it is made and lives*, **Milieutics** defines *where it belongs and how it behaves within a greater whole.* It treats context not as background, but as a living framework — the interplay of forces, media, and perception that gives meaning and continuity to existence. Milieutics operates across scales: - From **micro-milieus**, such as the local chemical or magnetic environments of an organism; - To **macro-milieus**, such as planetary climates, orbital architectures, or interstellar ecosystems. It recognizes that every structure, from a cell to a civilization, exists within nested fields of influence — spatial, energetic, and cultural. In worldcraft practice, Milieutics provides the tools to construct believable **habitable systems** and **cultural responses** to their environments — completing the chain that links physical law to narrative experience. In the WCB framework, Milieutics serves as the **final descriptive domain**, integrating and contextualizing all others. It transforms existence into experience — defining the space in which worlds are *lived.* **In short:** Ontics defines *what exists*; Milieutics describes *where and under what conditions existence unfolds.* --- ### Milieutic Framework — Nested Contexts of Being | **Scale** | **Milieu Type** | **Scope / Description** | |:--|:--|:--| | **Micro-milieu** | Local physical and chemical environment | Organisms, habitats, materials | | **Meso-milieu** | Regional or planetary environment | Climates, ecosystems, surface systems | | **Macro-milieu** | Systemic or orbital environment | Planetary systems, resonant orbits | | **Meta-milieu** | Cosmic or cultural environment | Galactic context, mythic perception, civilization-scale systems | --- ## Summary Table — The Descriptive Continuum | **Domain** | **Focus** | **Question** | **Outcome** | |:--|:--|:--|:--| | **Metrics** | Measure and scale | *How much?* | Quantification | | **Morphotics** | Form and configuration | *How is it shaped?* | Geometry | | **Conformics** | Material state and cohesion | *What is it made of?* | Substance | | **Animotics** | Vitality and equilibrium | *How does it live?* | Life | | **Milieutics** | Context and environment | *Where and under what conditions?* | Experience |
 
 ###### ChatGPT said:
 
@@ -12535,7 +12535,7 @@ This entire planetary habitability system is:
 
 with dependencies on:
 
-- **Ontics (duramons, planemons)**
+- **Ontics (duromons, planemons)**
     
 - **Metrics (mass, radius, density, gravity, vₑ)**
     
@@ -14956,7 +14956,7 @@ Ontics →
     
 - Coherence modes (monon, cule, lex, gate)
     
-- Ontic classes (Duramons, Stellamons, Peramons, Micromons)
+- Ontic classes (Duromons, Stellamons, Peromons, Micromons)
     
 - Binding forces
     
@@ -15003,7 +15003,7 @@ Everything else = **How it is / How it behaves / What conditions it supports**
 
 Here’s the right conceptual architecture:
 
-`ONTICS (Definitive Regime) │ ├── Defines existence and coherence │     (monons, duramons, stellamons, etc.) │ └── Enables the Descriptive Regimes:       ├── Metrics      (measure)       ├── Morphotics   (form)       ├── Conformics   (material state)       ├── Animotics    (vitality)       └── Milieutics   (environment)`
+`ONTICS (Definitive Regime) │ ├── Defines existence and coherence │     (monons, duromons, stellamons, etc.) │ └── Enables the Descriptive Regimes:       ├── Metrics      (measure)       ├── Morphotics   (form)       ├── Conformics   (material state)       ├── Animotics    (vitality)       └── Milieutics   (environment)`
 
 Ontics is not the “parent category” of these five.  
 It is the **axiomatic prerequisite** — the substrate that makes them meaningful at all.
@@ -21743,7 +21743,7 @@ This gives us the backbone vocabulary:
 
 - monon / cule / lex / gate
     
-- duramon / stellamon / peramon
+- duromon / stellamon / peromon
     
 - coherence regimes
     
@@ -22137,7 +22137,7 @@ Morphotics does _not_ care what a world is made of at the chemical level — onl
     
 
 It applies to _all_ monons —  
-duramons, stellamons, micromons, fusamons, peramons.
+duromons, stellamons, micromons, fusomons, peromons.
 
 If something has a physical outline, boundary, or extended form, Morphotics describes it.
 
@@ -22269,7 +22269,7 @@ The most abstract subfield:
     
 - magnetosphere topology
     
-- event horizons (peramons!)
+- event horizons (peromons!)
     
 
 It answers: _How does this shape behave as a continuous spatial object?_
@@ -23806,7 +23806,7 @@ That makes them **core Ontic disciplines.**
 - Meta == the “language of description.”
     
 
-### Ontics (Mononics, Stellamonics, Peramonics…)
+### Ontics (Mononics, Stellamonics, Peromonics…)
 
 - Describes the **nature of self-coherent bodies**.
     
@@ -23814,11 +23814,11 @@ That makes them **core Ontic disciplines.**
     
 - Defines ontic classes:
     
-    - duramons
+    - duromons
         
     - stellamons
         
-    - peramons
+    - peromons
         
     - micromons
         
@@ -23843,7 +23843,7 @@ Mononics answers questions like:
     
 - How does a planemon maintain coherence?
     
-- What distinguishes a lithic duramon from a rheic one?
+- What distinguishes a lithic duromon from a rheic one?
     
 - Where are the boundaries between micro-, dura-, and stella- masses?
     
@@ -23906,7 +23906,7 @@ You _already_ have the correct placement:
     
 - **Stellamonics** (stars)
     
-- **Peramonics** (collapsed or exotic bodies)
+- **Peromonics** (collapsed or exotic bodies)
     
 - **Micromonics** (small-body monons)
     
@@ -23961,7 +23961,7 @@ Just point to what you want next.
 
 ##### You said:
 
-where, then, do mononics (duramons), stellamonics (stellamons), peramonics (peramons), and micromonics (S³Bs) land? Morphotics? Conformics? They're certainly not animotics, but they're more specific than general metrics...
+where, then, do mononics (duromons), stellamonics (stellamons), peromonics (peromons), and micromonics (S³Bs) land? Morphotics? Conformics? They're certainly not animotics, but they're more specific than general metrics...
 
 ###### ChatGPT said:
 
@@ -23972,7 +23972,7 @@ Let’s lock this down crisply and coherently so you never have to second-guess 
 
 # ⭐ The Ontic Classes Belong in **Ontics**, Not in Morphotics or Conformics
 
-Mononics, Stellamonics, Peramonics, and Micromonics are **Ontic Classes** —  
+Mononics, Stellamonics, Peromonics, and Micromonics are **Ontic Classes** —  
 they define **what kinds of self-coherent monons exist** in the cosmos.
 
 They are not:
@@ -24001,11 +24001,11 @@ The ontic classes answer the question:
 
 And the answers are:
 
-- **Duramons** → planetary-mass monons
+- **Duromons** → planetary-mass monons
     
 - **Stellamons** → fusional monons
     
-- **Peramons** → collapse/exotic monons
+- **Peromons** → collapse/exotic monons
     
 - **Micromons** → small-body monons (S³Bs)
     
@@ -24047,14 +24047,14 @@ Morphotics and Conformics _modify_ ontic classes, but do not _define_ them.
 
 You can have:
 
-- a **lithic duramon** (rocky planet)
+- a **lithic duromon** (rocky planet)
     
-- a **rheic duramon** (ocean planet)
+- a **rheic duromon** (ocean planet)
     
-- an **aeric duramon** (gas dwarf)
+- an **aeric duromon** (gas dwarf)
     
 
-…but in all cases, it’s a **duramon** because it is a **sub-stellar self-bound monon**.
+…but in all cases, it’s a **duromon** because it is a **sub-stellar self-bound monon**.
 
 This is why ontic classes cannot be placed in Morphotics or Conformics.  
 Morphotics and Conformics depend on the ontic class — not the other way around.
@@ -24071,9 +24071,9 @@ Here is the proper, canonical home in WMB:
 
 ### **Ontic Classes (Mononic Subdisciplines)**
 
-📍 **Mononics** → _Duramons_ (planetary-mass monons)  
+📍 **Mononics** → _Duromons_ (planetary-mass monons)  
 📍 **Stellamonics** → _Stellamons_ (fusional self-luminous monons)  
-📍 **Peramonics** → _Peramons_ (collapse/exotic monons)  
+📍 **Peromonics** → _Peromons_ (collapse/exotic monons)  
 📍 **Micromonics** → _Micromons_ (asteroidal / S³B monons)
 
 These are _the fundamental categories of existence._
@@ -24084,7 +24084,7 @@ Everything else — form, phase, measure, vitality, environment — descends fro
 
 # 🗺️ Visualizing the Architecture
 
-`META  — tools & notation  ONTICS  — what exists     • Ontic Hierarchy (monon–cule–lex–gate)     • Ontic Classes (duramon, stellamon, peramon, micromon)     • Ontic Regimes (binding forces)     • Ontic Metrics (mass, density, radius ranges)  METRICS — how much exists MORPHOTICS — what shape it takes CONFORMICS — what it’s made of ANIMOTICS — whether/what animota arise MILIEUTICS — context and environment`
+`META  — tools & notation  ONTICS  — what exists     • Ontic Hierarchy (monon–cule–lex–gate)     • Ontic Classes (duromon, stellamon, peromon, micromon)     • Ontic Regimes (binding forces)     • Ontic Metrics (mass, density, radius ranges)  METRICS — how much exists MORPHOTICS — what shape it takes CONFORMICS — what it’s made of ANIMOTICS — whether/what animota arise MILIEUTICS — context and environment`
 
 Ontic Classes are NOT descriptive — they are **definitive**.
 
@@ -24096,7 +24096,7 @@ That’s why they must sit at the top of the conceptual stack.
 
 # 🎯 Bottom Line
 
-**Mononics, Stellamonics, Peramonics, and Micromonics are core ONTIC subfields.**  
+**Mononics, Stellamonics, Peromonics, and Micromonics are core ONTIC subfields.**  
 They define the fundamental types of coherent entities in the cosmos.
 
 They do not belong in Morphotics or Conformics because those domains _describe_ things that already exist — they do not define what things _are_.
@@ -24214,10 +24214,10 @@ they live **after** Ontics defines the object of study.
 
 # 🧲 Another Way to See It
 
-Imagine a world (a duramon) before we describe anything about it:
+Imagine a world (a duromon) before we describe anything about it:
 
 1. **Ontics**:  
-    “This is a duramon — a planetary-mass monon.”
+    “This is a duromon — a planetary-mass monon.”
     
 
 From that point on, the other regimes step in:
@@ -24278,7 +24278,7 @@ It _precedes_ them.
 
 And what you’ve rediscovered in your screenshot is basically the **Rosetta Stone of the whole WMB architecture**:
 
-- **Mononics** (Duramonics / Planemonics / Stellamonics / Peramonics / Micromonics)
+- **Mononics** (Duromonics / Planemonics / Stellamonics / Peromonics / Micromonics)
     
 - **IS NOT** Metrics
     
@@ -24293,7 +24293,7 @@ And in your screenshot, the folders are telling the truth you forgot you already
 
 ### **🔹 Mononics = The Ontic Study of Individual Bodies (Monons)**
 
-The classification of Planemons, Stellamons, Peramons, and Micromons _belongs to Ontics_ because:
+The classification of Planemons, Stellamons, Peromons, and Micromons _belongs to Ontics_ because:
 
 - They define what kinds of self-coherent bodies exist
     
@@ -24327,7 +24327,7 @@ Metrics / Morphotics / Conformics describe the _state_.**
 
 A planet is a planemon whether it’s molten or frozen.  
 A star is a stellamon whether it’s a protostar or a red giant.  
-A neutron star is a peramon whether it’s spinning or quiescent.
+A neutron star is a peromon whether it’s spinning or quiescent.
 
 Those are ontic identities.
 
@@ -24343,7 +24343,7 @@ You already had the structure right:
 
 - **Mononics** (Coherent single-body entities)
     
-    - **Duramonics** (Sub-stellar monons)
+    - **Duromonics** (Sub-stellar monons)
         
         - **Micromonics** (Asteroids, cometoids, S³Bs)
             
@@ -24351,7 +24351,7 @@ You already had the structure right:
             
     - **Stellamonics** (Fusional monons, i.e., stars)
         
-    - **Peramonics** (Degenerate/exotic monons)
+    - **Peromonics** (Degenerate/exotic monons)
         
 
 And notice:  
@@ -24360,9 +24360,9 @@ They depend only on **coherence regime** — what binds the monon:
 
 |Ontic Class|Binding Regime|Examples|
 |---|---|---|
-|**Duramons**|Gravitational + molecular|planets, dwarf planets, moons|
+|**Duromons**|Gravitational + molecular|planets, dwarf planets, moons|
 |**Stellamons**|Gravitational + nuclear fusion|stars|
-|**Peramons**|Gravitational + degenerate matter|neutron stars, black hole remnants|
+|**Peromons**|Gravitational + degenerate matter|neutron stars, black hole remnants|
 |**Micromons**|Molecular + weak gravity|asteroids, comets|
 
 That’s why Mononics fits squarely in Ontics, not Morphotics or Conformics.
@@ -24422,7 +24422,7 @@ Morphotics is similar:
 
 Again — not ontic identity.
 
-A neutron star is a peramon whether it is spherical or ellipsoidal.
+A neutron star is a peromon whether it is spherical or ellipsoidal.
 
 ---
 
@@ -24441,9 +24441,9 @@ This makes _Mononics_ the ontic heart of the entire continuum.
 
 # 🟨 TL;DR — The Correct Placement
 
-**Put Planemonics, Stellamonics, Micromonics, Peramonics squarely under:**
+**Put Planemonics, Stellamonics, Micromonics, Peromonics squarely under:**
 
-> **ONTICS → MONONICS → (Duramonics / Stellamonics / Peramonics / Micromonics)**
+> **ONTICS → MONONICS → (Duromonics / Stellamonics / Peromonics / Micromonics)**
 
 They are _ontic classes_ — the grammar of coherent beings — not physical states or chemistries.
 
@@ -24455,7 +24455,7 @@ If you want, I can help you sketch:
     
 - a proper table of ontic classes, regimes, and coherence modes
     
-- a visual diagram showing how Ontics branches into Mononics → (Duramons / Stellamons / Peramons)
+- a visual diagram showing how Ontics branches into Mononics → (Duromons / Stellamons / Peromons)
     
 - OR a full-blown WMB Lexicon starter
     
@@ -24523,7 +24523,7 @@ These are already defined in spirit in your WMB notes, but now we can articulate
     
 
 **Why it belongs here:**  
-These values apply equally to planemons, stellamons, peramons, micromons.  
+These values apply equally to planemons, stellamons, peromons, micromons.  
 They don’t define _what_ something is — they define _how much_ it is.
 
 **Examples:**
@@ -24720,25 +24720,25 @@ Just say the word.
 
 ##### You said:
 
-okay, so this goes under metrics, not mononics/duramonics/planemonics? # Duramon Equations of State The Duramon Equations of State summarize the full set of interdependent relationships among a spherical body's mass $m$, radius $r$, density $\rho$, surface gravity $g$, and escape velocity $v_e$​. Because each variable can be expressed in terms of any pair of the others, the system forms a closed algebraic network: choose two parameters, and all remaining quantities follow deterministically. The table below organizes these transformations row-wise. Each row holds a complete “family” of equivalent expressions generated by treating one of the five primary variables as the fundamental independent input. This gives you a quick way to translate between formulations depending on what you’re modeling — whether you're solving for planetary structure, estimating gravitational behavior, or exploring exotic material states in the Duramon context. The goal is not to introduce new physics, but to provide a compact and internally consistent toolkit for any situation where two known properties must yield the other three. Think of it as the planetary-mechanics analogue of thermodynamic identities: tight, symmetric, and ready for creative deployment. $$ \begin{array}{c|c|c|c|c} \text{Mass }(m) & \text{Radius }(r) & \text{Density }(\rho) & \text{Gravity }(g) & \text{Escape Velocity }(v_e)\\[0.5em] \hline m = g r^2 & r = \dfrac{g}{\rho} & \rho = \dfrac{m}{r^3} & g = \dfrac{m}{r^2} & v_e = \sqrt{g r}\\ m = \rho r^3 & r = \sqrt{\dfrac{m}{g}} & \rho = \dfrac{g}{r} & g = r\rho & v_e = \sqrt{\dfrac{m}{r}}\\ m = \dfrac{g^3}{\rho^2} & r = \sqrt[3]{\dfrac{m}{\rho}} & \rho = \sqrt{\dfrac{g^3}{m}} & g = \sqrt[3]{m\rho^2} & v_e = \dfrac{g}{\sqrt{\rho}}\\ m = \dfrac{v_e^3}{\sqrt{\rho}} & r = \dfrac{v_e}{\sqrt{\rho}} & \rho = \left(\dfrac{v_e}{r}\right)^2 & g = v_e\sqrt{\rho} & v_e = \sqrt[4]{m g}\\ m = \dfrac{v_e^4}{g} & r = \dfrac{v_e^2}{g} & \rho = \left(\dfrac{g}{v_e}\right)^2 & g = \dfrac{v_e^2}{r} & v_e = r\sqrt{\rho}\\ m = r v_e^2 & r = \dfrac{m}{v_e^2} & \rho = \left(\dfrac{v_e^3}{m}\right)^2 & g = \dfrac{v_e^4}{m} & v_e = \sqrt[6]{m^2\rho} \end{array} $$ Duramon equations conventionally use **lower-case variables** ($m$, $r$, $\rho$, $g$, $v_e$) to emphasize their domain: compact, high-density bodies whose structure is governed primarily by internal material constraints rather than stellar-scale energy processes. This contrasts with the **stellamon state equations**, which employ **upper-case forms**($M$, $R$, $T$, $K$, $Q$, $L$) to distinguish the vastly different regimes of mass, scale, and pressure involved. The capitalization isn’t aesthetic — it’s categorical. Lower-case identifies matter-bound, mechanically dominated bodies; upper-case flags fusion-driven, radiative systems. Mixing conventions would produce mathematical ambiguity and, worse, physical nonsense. So the typographic divide holds firm: **duramon → lower-case**, **stellamon → upper-case**.
+okay, so this goes under metrics, not mononics/duromonics/planemonics? # Duromon Equations of State The Duromon Equations of State summarize the full set of interdependent relationships among a spherical body's mass $m$, radius $r$, density $\rho$, surface gravity $g$, and escape velocity $v_e$​. Because each variable can be expressed in terms of any pair of the others, the system forms a closed algebraic network: choose two parameters, and all remaining quantities follow deterministically. The table below organizes these transformations row-wise. Each row holds a complete “family” of equivalent expressions generated by treating one of the five primary variables as the fundamental independent input. This gives you a quick way to translate between formulations depending on what you’re modeling — whether you're solving for planetary structure, estimating gravitational behavior, or exploring exotic material states in the Duromon context. The goal is not to introduce new physics, but to provide a compact and internally consistent toolkit for any situation where two known properties must yield the other three. Think of it as the planetary-mechanics analogue of thermodynamic identities: tight, symmetric, and ready for creative deployment. $$ \begin{array}{c|c|c|c|c} \text{Mass }(m) & \text{Radius }(r) & \text{Density }(\rho) & \text{Gravity }(g) & \text{Escape Velocity }(v_e)\\[0.5em] \hline m = g r^2 & r = \dfrac{g}{\rho} & \rho = \dfrac{m}{r^3} & g = \dfrac{m}{r^2} & v_e = \sqrt{g r}\\ m = \rho r^3 & r = \sqrt{\dfrac{m}{g}} & \rho = \dfrac{g}{r} & g = r\rho & v_e = \sqrt{\dfrac{m}{r}}\\ m = \dfrac{g^3}{\rho^2} & r = \sqrt[3]{\dfrac{m}{\rho}} & \rho = \sqrt{\dfrac{g^3}{m}} & g = \sqrt[3]{m\rho^2} & v_e = \dfrac{g}{\sqrt{\rho}}\\ m = \dfrac{v_e^3}{\sqrt{\rho}} & r = \dfrac{v_e}{\sqrt{\rho}} & \rho = \left(\dfrac{v_e}{r}\right)^2 & g = v_e\sqrt{\rho} & v_e = \sqrt[4]{m g}\\ m = \dfrac{v_e^4}{g} & r = \dfrac{v_e^2}{g} & \rho = \left(\dfrac{g}{v_e}\right)^2 & g = \dfrac{v_e^2}{r} & v_e = r\sqrt{\rho}\\ m = r v_e^2 & r = \dfrac{m}{v_e^2} & \rho = \left(\dfrac{v_e^3}{m}\right)^2 & g = \dfrac{v_e^4}{m} & v_e = \sqrt[6]{m^2\rho} \end{array} $$ Duromon equations conventionally use **lower-case variables** ($m$, $r$, $\rho$, $g$, $v_e$) to emphasize their domain: compact, high-density bodies whose structure is governed primarily by internal material constraints rather than stellar-scale energy processes. This contrasts with the **stellamon state equations**, which employ **upper-case forms**($M$, $R$, $T$, $K$, $Q$, $L$) to distinguish the vastly different regimes of mass, scale, and pressure involved. The capitalization isn’t aesthetic — it’s categorical. Lower-case identifies matter-bound, mechanically dominated bodies; upper-case flags fusion-driven, radiative systems. Mixing conventions would produce mathematical ambiguity and, worse, physical nonsense. So the typographic divide holds firm: **duromon → lower-case**, **stellamon → upper-case**.
 
 ###### ChatGPT said:
 
-Short answer: **YES — the Duramon Equations of State belong under _Metrics_, not Mononics.**
+Short answer: **YES — the Duromon Equations of State belong under _Metrics_, not Mononics.**
 
 Long answer: here's why, and it’s actually beautifully clean:
 
 ---
 
-# ✅ **Why the Duramon Equations Belong to METRICS**
+# ✅ **Why the Duromon Equations Belong to METRICS**
 
-The Duramon Equations of State do one thing and one thing only:
+The Duromon Equations of State do one thing and one thing only:
 
 > **They describe quantitative relationships among a monon’s measurable physical parameters.**
 
 That is **pure Metrics**.
 
-They do _not_ define what a duramon _is._  
+They do _not_ define what a duromon _is._  
 They do _not_ classify monons by mass class or ontic category.  
 They do _not_ identify a body’s nature.
 
@@ -24757,7 +24757,7 @@ They simply model the **measured properties**:
 
 This is exactly what **Metrics** is for.
 
-Mononics (Duramonics, Planemonics, Stellamonics, etc.) tells you **what category** the object belongs to.
+Mononics (Duromonics, Planemonics, Stellamonics, etc.) tells you **what category** the object belongs to.
 
 Metrics tells you **how to calculate the properties of that object.**
 
@@ -24769,18 +24769,18 @@ Think of it like this:
 
 |Domain|What It Does|Example Question|
 |---|---|---|
-|**Mononics**|classification of ontic objects|“Is this body a duramon? A stellamon? A micromon?”|
+|**Mononics**|classification of ontic objects|“Is this body a duromon? A stellamon? A micromon?”|
 |**Metrics**|quantitative properties|“Given mass and radius, what is g?”|
 
 Your equations are exactly the second one.
 
 ---
 
-# 📌 **Why the Duramon EOS do NOT belong in Mononics**
+# 📌 **Why the Duromon EOS do NOT belong in Mononics**
 
 Mononics should contain:
 
-- what a duramon _is_
+- what a duromon _is_
     
 - how it differs from a planemon or micromon
     
@@ -24793,7 +24793,7 @@ Mononics should contain:
 
 But Mononics **does not** contain computational frameworks.
 
-Your Duramon EOS:
+Your Duromon EOS:
 
 - do not establish identity
     
@@ -24812,7 +24812,7 @@ That’s why they fit squarely inside:
 
 # 📏 **Metrics → Dimensional + Mass Metrics**
 
-The Duramon EOS are a hybrid of:
+The Duromon EOS are a hybrid of:
 
 - **Mass metrics** (m, ρ)
     
@@ -24823,7 +24823,7 @@ The Duramon EOS are a hybrid of:
 
 So they should appear as a **major Metrics subsection**:
 
-### **Metrics > Duramon Metrics (Equations of State)**
+### **Metrics > Duromon Metrics (Equations of State)**
 
 This mirrors:
 
@@ -24831,7 +24831,7 @@ This mirrors:
     
 - **Metrics > Planemon Metrics (habitable-zone calculators, orbital-temperature models, etc.)**
     
-- **Metrics > Peramon Metrics (orbital stability + Roche analyses)**
+- **Metrics > Peromon Metrics (orbital stability + Roche analyses)**
     
 
 It becomes one unified Quantitative Mechanics section.
@@ -24867,7 +24867,7 @@ You’ve just prevented a long-term canon-tangling problem.
     
 - Temporal Metrics
     
-- **Duramon Equations of State**
+- **Duromon Equations of State**
     
 - **Stellamon Equations of State**
     
@@ -24890,7 +24890,7 @@ This stays lean, logical, and beautifully extensible.
 
 If you'd like, I can:
 
-- rewrite your Duramon EOS page in the polished WMB canonical format
+- rewrite your Duromon EOS page in the polished WMB canonical format
     
 - reorganize the table for clarity
     
@@ -24949,13 +24949,13 @@ That’s how Wikis, knowledge bases, and semantic ontologies breathe.
 
 # 🔖 **Every Page Should Have a Tag Constellation**
 
-For example, your Duramon EOS page connects to:
+For example, your Duromon EOS page connects to:
 
 - **metrics**
     
 - **mass mechanics**
     
-- **duramonics**
+- **duromonics**
     
 - **planemonics**
     
@@ -25001,18 +25001,18 @@ WMB is **rhizomatic**, not linear.
 
 ---
 
-# ✔️ **So, where does the Duramon EOS go?**
+# ✔️ **So, where does the Duromon EOS go?**
 
-It goes in the page titled **Duramon Equations of State**.  
+It goes in the page titled **Duromon Equations of State**.  
 And you tag it with:
 
-`#metrics #duramonics #equations-of-state #mass-density-relations #gravimetrics #planemon-dynamics`
+`#metrics #duromonics #equations-of-state #mass-density-relations #gravimetrics #planemon-dynamics`
 
 …and any others you need.
 
 Then any other page can link to it from whichever vantage matters:
 
-- Mononics → links to it as “toolkit for duramon modeling”
+- Mononics → links to it as “toolkit for duromon modeling”
     
 - Metrics → links to it as “example: full EOS set”
     
@@ -25107,7 +25107,7 @@ not by physically containing the content but by containing the **record**.
 
 Like:
 
-`[✔] Duramon Equations of State — done   [✔] Biotic Order overview — complete revision   [➖] Xenotic Domains — structure drafted, examples pending   [✘] Astatic Order — conceptual draft complete, needs writeup   [➖] Morphotics — framework outlined, requires examples   [✘] Conformics — needs complete rewrite`  
+`[✔] Duromon Equations of State — done   [✔] Biotic Order overview — complete revision   [➖] Xenotic Domains — structure drafted, examples pending   [✘] Astatic Order — conceptual draft complete, needs writeup   [➖] Morphotics — framework outlined, requires examples   [✘] Conformics — needs complete rewrite`  
 
 Not the _content_ — just the **status**.
 
@@ -25131,7 +25131,7 @@ Your future self will bless you.
 
 When you look at the registry and see:
 
-> “Duramon Ground States — ✔ Completed”
+> “Duromon Ground States — ✔ Completed”
 
 …you don’t re-invent it.
 
@@ -25172,11 +25172,11 @@ And I’ll make it.
 
 ##### You said:
 
-okay, just a second first... I moved Duramon Equations of State and Duramon Ground States under Metrics, but Duramon Physical Parameters and Gravitomon Series Mass Domains, even though they have equations, are about using the equations to understand the topic, not introducing the equations themselves...so they are more mononics/duramonics than metrics?
+okay, just a second first... I moved Duromon Equations of State and Duromon Ground States under Metrics, but Duromon Physical Parameters and Gravitomon Series Mass Domains, even though they have equations, are about using the equations to understand the topic, not introducing the equations themselves...so they are more mononics/duromonics than metrics?
 
 ###### ChatGPT said:
 
-You’re exactly right to pause and spot that distinction — and you’ve put your finger on the **real dividing line** between **Metrics** and **Mononics/Duramonics** (i.e., the domain-specific modeling disciplines).
+You’re exactly right to pause and spot that distinction — and you’ve put your finger on the **real dividing line** between **Metrics** and **Mononics/Duromonics** (i.e., the domain-specific modeling disciplines).
 
 Let me spell the logic out cleanly so you can use it consistently across the whole corpus:
 
@@ -25188,22 +25188,22 @@ Let me spell the logic out cleanly so you can use it consistently across the who
 
 Equations, transformations, dimensional relationships, units, scaling laws — the _mathematics itself_.
 
-### **Mononics/Duramonics = the uses.**
+### **Mononics/Duromonics = the uses.**
 
-How those tools are applied to understand, classify, or model _specific ontic classes_ — planemons, duramons, stellamons, micromons.
+How those tools are applied to understand, classify, or model _specific ontic classes_ — planemons, duromons, stellamons, micromons.
 
 Think of it like this:
 
 - Metrics = “Here are the wrenches.”
     
-- Duramonics = “Here is how we use the wrenches to tune an engine.”
+- Duromonics = “Here is how we use the wrenches to tune an engine.”
     
 
 ---
 
 # ✔️ Apply this logic to your examples
 
-### **1. Duramon Equations of State**
+### **1. Duromon Equations of State**
 
 **Pure mathematics.**  
 No world types, no ontic interpretations — just the algebraic network.
@@ -25211,7 +25211,7 @@ No world types, no ontic interpretations — just the algebraic network.
 → **Lives under Metrics.**  
 (Correct placement.)
 
-### **2. Duramon Ground States**
+### **2. Duromon Ground States**
 
 Also pure maths: density curves, static equilibrium, generalized EOS.  
 No classification, no taxonomy.
@@ -25223,11 +25223,11 @@ No classification, no taxonomy.
 
 # Now the tricky ones:
 
-## **3. Duramon Physical Parameters**
+## **3. Duromon Physical Parameters**
 
 This one _uses_ the equations, but its purpose is:
 
-- to explain duramons as objects
+- to explain duromons as objects
     
 - to show their structure and physical regimes
     
@@ -25236,7 +25236,7 @@ This one _uses_ the equations, but its purpose is:
 
 That makes it **Mononics**, not Metrics.
 
-→ Put this under **Duramonics / Planemonics**
+→ Put this under **Duromonics / Planemonics**
 
 ## **4. Gravitomon Series Mass Domains**
 
@@ -25253,7 +25253,7 @@ Likewise, this is:
 
 This is **pure mononic modeling**, not foundational math.
 
-→ Also belongs under **Duramonics / Planemonics**
+→ Also belongs under **Duromonics / Planemonics**
 
 ---
 
@@ -25261,10 +25261,10 @@ This is **pure mononic modeling**, not foundational math.
 
 |Article|Where It Belongs|Why|
 |---|---|---|
-|**Duramon Equations of State**|**Metrics**|Mathematical framework only|
-|**Duramon Ground States**|**Metrics**|Fundamental equations & curves|
-|**Duramon Physical Parameters**|**Mononics / Duramonics**|Interpretation of what duramons _are_|
-|**Gravitomon Series Mass Domains**|**Mononics / Duramonics**|Classification using metrics, not defining metrics|
+|**Duromon Equations of State**|**Metrics**|Mathematical framework only|
+|**Duromon Ground States**|**Metrics**|Fundamental equations & curves|
+|**Duromon Physical Parameters**|**Mononics / Duromonics**|Interpretation of what duromons _are_|
+|**Gravitomon Series Mass Domains**|**Mononics / Duromonics**|Classification using metrics, not defining metrics|
 
 ---
 
@@ -25311,32 +25311,32 @@ Here’s why:
 
 ---
 
-# ✔️ **Duramonics = Subfield of Mononics
+# ✔️ **Duromonics = Subfield of Mononics
 
-(and Mononics covers ALL duramons, including micromons)**
+(and Mononics covers ALL duromons, including micromons)**
 
-“Duramonics” isn’t “the study of planemons” — it’s the study of **all duramons**, meaning:
+“Duromonics” isn’t “the study of planemons” — it’s the study of **all duromons**, meaning:
 
-- planemons (planetary-mass duramons)
+- planemons (planetary-mass duromons)
     
 - micromons (S³Bs: small solid-space bodies)
     
 - dwarf-planetsy bodies
     
-- metallic, icy, rocky, composite duramons
+- metallic, icy, rocky, composite duromons
     
 - everything below stellamonic mass
     
 
-So when I say “Duramonics,” I really mean:
+So when I say “Duromonics,” I really mean:
 
-### **Mononics → Duramonics → (Planemonics, Micromonics, etc.)**
+### **Mononics → Duromonics → (Planemonics, Micromonics, etc.)**
 
 Just like:
 
 - Stellamonics covers all stellamons
     
-- Peramonics covers collapse/exotic monons
+- Peromonics covers collapse/exotic monons
     
 - etc.
     
@@ -25349,10 +25349,10 @@ So your placement is still exactly right:
 
 |Article|Best Placement|Reason|Scope|
 |---|---|---|---|
-|**Duramon Equations of State**|**Metrics**|Pure math, not class-specific|applies to _any_ duramon (planemons + micromons)|
-|**Duramon Ground States**|**Metrics**|Fundamental EOS & density laws|universal to all duramons|
-|**Duramon Physical Parameters**|**Duramonics / Mononics**|Interpreting what duramons physically _are_|applies to all duramons|
-|**Gravitomon Series Mass Domains**|**Duramonics / Mononics**|Classification across the duramon mass continuum|applies across all duramons|
+|**Duromon Equations of State**|**Metrics**|Pure math, not class-specific|applies to _any_ duromon (planemons + micromons)|
+|**Duromon Ground States**|**Metrics**|Fundamental EOS & density laws|universal to all duromons|
+|**Duromon Physical Parameters**|**Duromonics / Mononics**|Interpreting what duromons physically _are_|applies to all duromons|
+|**Gravitomon Series Mass Domains**|**Duromonics / Mononics**|Classification across the duromon mass continuum|applies across all duromons|
 
 ---
 
@@ -25373,19 +25373,19 @@ A monon’s **Equations of State** do not care whether the body is:
 - a carbonaceous spherule
     
 
-As soon as you are below the fusion threshold and self-coherent → **you’re in duramon physics**.
+As soon as you are below the fusion threshold and self-coherent → **you’re in duromon physics**.
 
 So the “metrics-level” equations apply to the entire class.
 
-As soon as you interpret the equations to classify or describe these bodies → **you’re in Mononics/Duramonics**, no matter how large or small the monon.
+As soon as you interpret the equations to classify or describe these bodies → **you’re in Mononics/Duromonics**, no matter how large or small the monon.
 
 ---
 
 # ✔️ Clean hierarchy (for clarity going forward)
 
-`Ontics  └── Mononics       ├── Duramonics       │     ├── Planemonics       │     └── Micromonics       ├── Stellamonics       └── Peramonics Metrics ...`
+`Ontics  └── Mononics       ├── Duromonics       │     ├── Planemonics       │     └── Micromonics       ├── Stellamonics       └── Peromonics Metrics ...`
 
-Duramonics feeds on Metrics, but is _not contained_ in Metrics.
+Duromonics feeds on Metrics, but is _not contained_ in Metrics.
 
 ---
 
@@ -25402,7 +25402,7 @@ Just say the word.
 
 ##### You said:
 
-# Duramon Physical Parameters Duramonic bodies are defined by five quantitative parameters, each belonging to a distinct tier of causality. Two of these — mass and density — describe the duramon’s intrinsic matter. Their interaction produces the consequent parameters, surface gravity and radius. Together, they generate the emergent dynamical parameter: escape velocity. Duramonic parameters are grouped into tiers not by convenience, but by causality: primaries _define_ the consequents, and together they _generate_ the emergent. ## Primary Properties **Mass** ($m$): The total amount of matter the duramon contains. *Mass is invariant* — it does not change with location or gravity. > *Mass and weight are not the same: weight depends on gravity, but mass does not.* **Density** ($ρ$): The average amount of matter per unit volume — how tightly the duramon’s material is packed. Density depends on both composition (rock, ice, metal, etc.) and, for larger bodies, gravitational self-compression. ## The Consequents **Surface Gravity** ($g$): The strength of gravitational acceleration at the duramon’s surface — how strongly it attracts objects located one radius away from its center. Gravity is **consequent**, arising from the interaction of mass and density: $$ g = \sqrt[3]{mρ^{2}} $$ Together, mass and density _produce_ the duramon’s consequent parameters. They describe what the body *is* and how it *acts* gravitationally. **Radius** ($r$): The distance from the duramon’s center to its surface. Radius is also **consequent**, also arising from the interaction of mass and density: $$ r = \sqrt[3]{\frac{m}{ρ}} $$ ## The Emergent **Escape Velocity** ($v_e$): The minimum speed required to escape the duramon’s gravitational field when starting from its surface. This property emerges from the consequents: $$ v_e = \sqrt{g\, r} $$ Escape velocity represents the energy threshold imposed by the duramon’s gravitational well — the “height” of its gravity. ## Hierarchy of Dependence Duramonic properties follow a clear causal chain, in which the **primary** properties ($m, \rho$) *define* the **consequent** properties ($g, r$), and together these *form* the **emergent** property ($v_e$): ![[Duramonic Physical Properties]] $$ \begin{aligned} (\rho,\; m) \Rightarrow\; &r, \\[1ex] \quad (m,\; &r) \Rightarrow g, \\[1ex] &\hspace{.8em}(r,\; g) \Rightarrow v_e \end{aligned} $$ ## A familiar analogy The classic riddle “Which is heavier — a pound of iron or a pound of feathers?” demonstrates the independence of *mass* from *density*. Both *weigh* the same, but the feathers occupy far more *volume* because they are less dense. The same principle applies on planetary scales: a rocky duramon and an icy duramon of equal mass can differ greatly in radius, surface gravity, and escape velocity.
+# Duromon Physical Parameters Duromonic bodies are defined by five quantitative parameters, each belonging to a distinct tier of causality. Two of these — mass and density — describe the duromon’s intrinsic matter. Their interaction produces the consequent parameters, surface gravity and radius. Together, they generate the emergent dynamical parameter: escape velocity. Duromonic parameters are grouped into tiers not by convenience, but by causality: primaries _define_ the consequents, and together they _generate_ the emergent. ## Primary Properties **Mass** ($m$): The total amount of matter the duromon contains. *Mass is invariant* — it does not change with location or gravity. > *Mass and weight are not the same: weight depends on gravity, but mass does not.* **Density** ($ρ$): The average amount of matter per unit volume — how tightly the duromon’s material is packed. Density depends on both composition (rock, ice, metal, etc.) and, for larger bodies, gravitational self-compression. ## The Consequents **Surface Gravity** ($g$): The strength of gravitational acceleration at the duromon’s surface — how strongly it attracts objects located one radius away from its center. Gravity is **consequent**, arising from the interaction of mass and density: $$ g = \sqrt[3]{mρ^{2}} $$ Together, mass and density _produce_ the duromon’s consequent parameters. They describe what the body *is* and how it *acts* gravitationally. **Radius** ($r$): The distance from the duromon’s center to its surface. Radius is also **consequent**, also arising from the interaction of mass and density: $$ r = \sqrt[3]{\frac{m}{ρ}} $$ ## The Emergent **Escape Velocity** ($v_e$): The minimum speed required to escape the duromon’s gravitational field when starting from its surface. This property emerges from the consequents: $$ v_e = \sqrt{g\, r} $$ Escape velocity represents the energy threshold imposed by the duromon’s gravitational well — the “height” of its gravity. ## Hierarchy of Dependence Duromonic properties follow a clear causal chain, in which the **primary** properties ($m, \rho$) *define* the **consequent** properties ($g, r$), and together these *form* the **emergent** property ($v_e$): ![[Duromonic Physical Properties]] $$ \begin{aligned} (\rho,\; m) \Rightarrow\; &r, \\[1ex] \quad (m,\; &r) \Rightarrow g, \\[1ex] &\hspace{.8em}(r,\; g) \Rightarrow v_e \end{aligned} $$ ## A familiar analogy The classic riddle “Which is heavier — a pound of iron or a pound of feathers?” demonstrates the independence of *mass* from *density*. Both *weigh* the same, but the feathers occupy far more *volume* because they are less dense. The same principle applies on planetary scales: a rocky duromon and an icy duromon of equal mass can differ greatly in radius, surface gravity, and escape velocity.
 
 ###### ChatGPT said:
 
@@ -25412,11 +25412,11 @@ Below is the **edited version**, with commentary woven into the choices.
 
 ---
 
-# **Duramon Physical Parameters**
+# **Duromon Physical Parameters**
 
 _(refined and polished version)_
 
-Duramonic bodies are defined by five quantitative parameters, each occupying a distinct tier of **causality**. Two of these — **mass** and **density** — describe the duramon’s intrinsic matter. Their interaction yields two **consequent** parameters — **surface gravity** and **radius**. Together, these generate a single **emergent** dynamical parameter: **escape velocity**.
+Duromonic bodies are defined by five quantitative parameters, each occupying a distinct tier of **causality**. Two of these — **mass** and **density** — describe the duromon’s intrinsic matter. Their interaction yields two **consequent** parameters — **surface gravity** and **radius**. Together, these generate a single **emergent** dynamical parameter: **escape velocity**.
 
 These tiers exist because nature enforces a one-way dependency:  
 **primaries → consequents → emergent**.  
@@ -25428,7 +25428,7 @@ Nothing downstream can define anything upstream.
 
 ## **Mass** (_m_)
 
-The total quantity of matter the duramon contains.  
+The total quantity of matter the duromon contains.  
 Mass is **invariant**: it does not change with location, gravity, or motion.
 
 > _Mass is not weight. Weight is what gravity does to mass._
@@ -25448,7 +25448,7 @@ Parameters that arise directly and deterministically from the primaries.
 
 ## **Surface Gravity** (_g_)
 
-The gravitational acceleration at one radius from the center — how strongly the duramon pulls on nearby matter.
+The gravitational acceleration at one radius from the center — how strongly the duromon pulls on nearby matter.
 
 Gravity is **consequent**, a product of mass and density:
 
@@ -25460,13 +25460,13 @@ This equation encodes the fact that **gravity strengthens with mass** but also w
 
 ## **Radius** (_r_)
 
-The distance from the duramon’s center to its surface.
+The distance from the duromon’s center to its surface.
 
 Radius is also **consequent**, emerging from the same pair of primaries:
 
 r=mρ3r = \sqrt[3]{\frac{m}{ρ}}r=3ρm​​
 
-Two duramons may share mass but differ sharply in radius depending on how compressed or diffuse the internal material is.
+Two duromons may share mass but differ sharply in radius depending on how compressed or diffuse the internal material is.
 
 ---
 
@@ -25474,7 +25474,7 @@ Two duramons may share mass but differ sharply in radius depending on how compre
 
 ## **Escape Velocity** (_vₑ_)
 
-The minimum speed required to escape the duramon’s gravitational influence when starting at its surface.
+The minimum speed required to escape the duromon’s gravitational influence when starting at its surface.
 
 Escape velocity is **emergent** — it depends on the consequents, not directly on the primaries:
 
@@ -25486,7 +25486,7 @@ It represents the **depth** of the gravitational well: the energy barrier that m
 
 # **Hierarchy of Dependence**
 
-Duramonic properties follow a one-directional causal chain:
+Duromonic properties follow a one-directional causal chain:
 
 `Primary → Consequent → Emergent (m, ρ)      →    (g, r)     →    vₑ`
 
@@ -25507,7 +25507,7 @@ Consider the old riddle:
 Mass is the same, but because feathers are less dense, they occupy a far larger volume.
 
 Planetary bodies behave the same way.  
-Two duramons with equal mass — one rocky, one icy — can differ dramatically in:
+Two duromons with equal mass — one rocky, one icy — can differ dramatically in:
 
 - radius
     
@@ -25524,18 +25524,18 @@ because density reshapes the entire causal cascade.
 
 - produce a companion diagram that matches the causal tiers
     
-- draft the “Duramon Consequent Geometry” to explain how ggg and rrr map into vₑ space
+- draft the “Duromon Consequent Geometry” to explain how ggg and rrr map into vₑ space
     
 - generate a sidebar on **why** the cube roots appear (hydrostatic geometry)
     
-- or help you anchor this article into the broader _Mononics → Duramonics → Metrics_ lattice
+- or help you anchor this article into the broader _Mononics → Duromonics → Metrics_ lattice
     
 
 Just point and I’ll run with it.
 
 ##### You said:
 
-I'm not looking to edit it, only to determine whether it's metrics or duramonics
+I'm not looking to edit it, only to determine whether it's metrics or duromonics
 
 ###### ChatGPT said:
 
@@ -25543,19 +25543,19 @@ Got it — **no edits**, just categorization.
 
 Here’s the clean verdict:
 
-# ✅ **Duramon Physical Parameters belongs under _Metrics_, not Duramonics.**
+# ✅ **Duromon Physical Parameters belongs under _Metrics_, not Duromonics.**
 
 ### Why?
 
-**Duramonics** (or Mononics → Duramonics) is about:
+**Duromonics** (or Mononics → Duromonics) is about:
 
-- what duramons _are_
+- what duromons _are_
     
 - their class identity
     
 - their behavioral regimes
     
-- structural or ontic distinctions among duramons, stellamons, micromons, etc.
+- structural or ontic distinctions among duromons, stellamons, micromons, etc.
     
 - ontic lineage and typology
     
@@ -25586,13 +25586,13 @@ The article you pasted:
 
 That is **pure Metrics**.
 
-It is _used by_ Duramonics, but it does **not belong to** Duramonics.
+It is _used by_ Duromonics, but it does **not belong to** Duromonics.
 
 ### Even simpler categorization rule
 
 - If the article explains **how to measure** something → _Metrics_
     
-- If it explains **what kind of ontic body** it is → _Mononics / Duramonics_
+- If it explains **what kind of ontic body** it is → _Mononics / Duromonics_
     
 - If it explains **why the body exists or is coherent** → _Ontics_
     
@@ -25601,14 +25601,14 @@ It is _used by_ Duramonics, but it does **not belong to** Duramonics.
 - If it explains **what it's made of** → _Conformics_
     
 
-Your Duramon Physical Parameters article is **100% Metrics** (quantitative mechanics), just framed through duramonic examples.
+Your Duromon Physical Parameters article is **100% Metrics** (quantitative mechanics), just framed through duromonic examples.
 
 ---
 
 If you want, I can help you tag it in your system:
 
 **Primary Tag:** `Metrics`  
-**Secondary Tags:** `Mononics`, `Duramonics`, `Equations`, `Properties`, `Causal Metrics`
+**Secondary Tags:** `Mononics`, `Duromonics`, `Equations`, `Properties`, `Causal Metrics`
 
 But it definitely _lives_ under **Metrics**.
 
@@ -25632,7 +25632,7 @@ Let’s answer the real question:
 > **Where does “Gravitomon Series Mass Domains” live in the WMB architecture?**  
 > (And why?)
 
-Short version: **It belongs squarely in _Metrics_** — not in mononics/duramonics — even though it _feels_ like a mononic document.
+Short version: **It belongs squarely in _Metrics_** — not in mononics/duromonics — even though it _feels_ like a mononic document.
 
 ---
 
@@ -25659,9 +25659,9 @@ Let’s look at what the file actually _does_:
 
 It is — unmistakably — a **metric classification**, very much in the same family as:
 
-- _Duramon Equations of State_
+- _Duromon Equations of State_
     
-- _Duramon Ground States_
+- _Duromon Ground States_
     
 - _Metric Mass Units_
     
@@ -25673,7 +25673,7 @@ That makes it _Metric_, not _Mononic_.
 
 ---
 
-# 📌 Okay, but what about “Mononics,” “Duramonics,” etc.?
+# 📌 Okay, but what about “Mononics,” “Duromonics,” etc.?
 
 Those are **Ontic subfields** — they describe what exists, not what it measures as.
 
@@ -25681,7 +25681,7 @@ Mononics gives you:
 
 - what a monon _is_
     
-- what kinds of monons exist (duramon, micromon, stellamon, etc.)
+- what kinds of monons exist (duromon, micromon, stellamon, etc.)
     
 - how coherence works at each level
     
@@ -25697,9 +25697,9 @@ So:
 
 The file doesn’t introduce any new monon class or define their nature.
 
-### ❌ Not Duramonics:
+### ❌ Not Duromonics:
 
-It spans _all_ gravity-dominated monons (micromon → hypermon), not just duramons.
+It spans _all_ gravity-dominated monons (micromon → hypermon), not just duromons.
 
 ### ✅ It’s “Metric-domain taxonomy”
 
@@ -25794,7 +25794,7 @@ You’re aiming for names that:
     
 - don’t sound clunky or artificial
     
-- harmonize with “monon,” “duramon,” “stellamon,” etc.
+- harmonize with “monon,” “duromon,” “stellamon,” etc.
     
 - don’t rely on tortured Latinate/Graeco-frankenstein etymology
     
@@ -25875,11 +25875,11 @@ Now we get a crisp, readable taxonomy segment:
         
 - **Varymons** — bodies dominated by _self-gravitation_
     
-    - duramons (planets / planemons)
+    - duromons (planets / planemons)
         
     - stellamons (stars)
         
-    - peramons (degenerate & exotic gravitational bodies)
+    - peromons (degenerate & exotic gravitational bodies)
         
 
 It reboots and clarifies the entire **gravitational mass continuum** elegantly.
@@ -25896,7 +25896,7 @@ Thus:
     
 - stellamon: gravitational but fusion-active
     
-- peramon: gravitational but beyond fusion
+- peromon: gravitational but beyond fusion
     
 - cryptomon: gravitational collapse regime
     
@@ -25950,7 +25950,7 @@ Four-syllable terms **feel** like you're either trying too hard or accidentally 
 Let’s break it down:
 
 **1 syllable** → elemental (mon, lex, dur, syn)  
-**2 syllables** → functional (varymon, stellamon, peramon)  
+**2 syllables** → functional (varymon, stellamon, peromon)  
 **3 syllables** → categorical / abstract (animotic, conformic, morphotic)  
 **4+ syllables** → _dramatically harder to use_, quickly becomes parody unless you're naming extinct lizard-gods.
 
@@ -25984,7 +25984,7 @@ I'm betting you're going to tell me to move this under metrics?
 Short answer:
 
 **Yes — this belongs under _Metrics_.**  
-Not under duramonics, not under conformics, not under ontics.  
+Not under duromonics, not under conformics, not under ontics.  
 Metrics is exactly the right home.
 
 And here’s the logic, in the clean WMB sense:
@@ -25997,8 +25997,8 @@ The _Mazotic Mass Continuum_ does **one specific job**:
 
 ➡️ It defines **units, intervals, notation, and symbolic scaling** for mass.
 
-Not the nature of duramons.  
-Not how duramons behave.  
+Not the nature of duromons.  
+Not how duromons behave.  
 Not how worlds generate life.  
 Not how matter coheres.
 
@@ -26031,13 +26031,13 @@ Even the file’s own structure reveals its nature:
     
 - It maps to **powers of ten** (scales).
     
-- It uses **domain-agnostic terminology** (monons, stellamons, duramons, micromons — all applicable).
+- It uses **domain-agnostic terminology** (monons, stellamons, duromons, micromons — all applicable).
     
-- It doesn’t say _what_ duramons are, just how to _measure_ them.
+- It doesn’t say _what_ duromons are, just how to _measure_ them.
     
 
 ✔️ That is Metrics.  
-❌ Not Duramonics (which describes physical classes).  
+❌ Not Duromonics (which describes physical classes).  
 ❌ Not Ontics (which describes existence/coherence).  
 ❌ Not Conformics (which describes material state).  
 ❌ Not Morphotics (shape/geometry).  
@@ -26045,19 +26045,19 @@ Even the file’s own structure reveals its nature:
 
 ---
 
-# 🟦 Why it does _not_ belong under Duramonics
+# 🟦 Why it does _not_ belong under Duromonics
 
-Even though the table cites **duramons** and **microterrans**, the content itself is not duramon-specific.
+Even though the table cites **duromons** and **microterrans**, the content itself is not duromon-specific.
 
 It applies cleanly to:
 
-- duramons
+- duromons
     
 - micromons
     
 - stellamons
     
-- peramons
+- peromons
     
 - exotic monons
     
@@ -26068,9 +26068,9 @@ It applies cleanly to:
 
 It’s a **mass vocabulary**, not a **body-type vocabulary**.
 
-Duramonics is for:
+Duromonics is for:
 
-- duramon series
+- duromon series
     
 - physical parameters (m, ρ, g, r, vₑ)
     
@@ -26110,7 +26110,7 @@ Tags: `metrics`, `mass`, `units`, `notation`, `scale`, `mazotic`
 
 ## ✘ Does _not_ belong under:
 
-- Duramonics
+- Duromonics
     
 - Ontics
     
@@ -26123,9 +26123,9 @@ Tags: `metrics`, `mass`, `units`, `notation`, `scale`, `mazotic`
 
 ## ✔ Should be _referenced by_ (but not housed under):
 
-- Duramon Physical Parameters
+- Duromon Physical Parameters
     
-- Duramon Equations of State
+- Duromon Equations of State
     
 - Planemonics / Stellamonics pages
     
@@ -26172,7 +26172,7 @@ Here’s what distinguishes **Ontics** from **Metrics**:
 
 It defines:
 
-- ontic classes (duramon, stellamon, etc.)
+- ontic classes (duromon, stellamon, etc.)
     
 - binding regimes (synomon, varymon)
     

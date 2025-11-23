@@ -6,7 +6,7 @@ tags:
 #approx
 #conform
 #cosmo
-#duramon
+#duromon
 #gewe
 #interval
 #mass

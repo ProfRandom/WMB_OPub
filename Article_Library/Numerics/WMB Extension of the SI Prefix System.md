@@ -7,7 +7,7 @@ tags:
   - mazotic
   - mass
   - terran
-  - duramon
+  - duromon
   - monon
   - microterran
   - subscale
@@ -20,10 +20,10 @@ tags:
 vocabulary:
   - terran
   - microterran
-  - duramon
+  - duromon
   - scale
   - mazotic-domain
-  - duramon
+  - duromon
   - monon
 updated: 2025-11-17
 status: canonical

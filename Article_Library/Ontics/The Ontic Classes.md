@@ -4,9 +4,9 @@ tags:
   - ontic
   - coheromon
   - gravitomon
-  - duramon
-  - fusamon
-  - peramon
+  - duromon
+  - fusomon
+  - peromon
   - morphotype
 date: 2025-11-19
 ---
@@ -21,11 +21,11 @@ Monons first divide into **Synomons** (cohesion-bound) and **Varymons** (gravity
 Only _varymons_ admit Ontic Class distinctions, because these classes arise from **gravitational self-organization**, **compression physics**, and **fusion thresholds**.
 
 At the broadest gravitational scale, all **varymons** fall into one of three Ontic Classes:
-- **Duramons** — all varymons with masses below the stellar ignition threshold ($< 0.08$ ⊙).  
+- **Duromons** — all varymons with masses below the stellar ignition threshold ($< 0.08$ ⊙).  
     Includes every non-fusional body of mass $> 1 \times 10^{-6} \;\oplus$ : from brown dwarfs and planemons down to micromons.    
-- **Fusamons** — all varymons with masses in the stable hydrogen-fusion range ($0.08–300$ ⊙).  
+- **Fusomons** — all varymons with masses in the stable hydrogen-fusion range ($0.08–300$ ⊙).  
     Subdivided by the **stellar spectral-class system**, which defines their thermodynamic and photometric behavior.    
-- **Peramons** — all varymons whose masses exceed the upper stellar-stability limit ($> 300$ ⊙).  
+- **Peromons** — all varymons whose masses exceed the upper stellar-stability limit ($> 300$ ⊙).  
     These occupy the **trans-stellar regime** of radiative instability, pair-creation collapse, or exotic compact states.
 
 ## **Ontic Axis (Vertical)**

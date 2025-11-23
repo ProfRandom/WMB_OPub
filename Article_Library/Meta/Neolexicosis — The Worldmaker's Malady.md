@@ -20,7 +20,7 @@ It expresses a concept that real-world language either lacks entirely or handles
 To create precise, intuitive, reusable conceptual handles for worldmaking.
 
 **Examples:**
-- **Planemon, stellamon, duramon, peramon** — systematic mononic conformations.  
+- **Planemon, stellamon, duromon, peromon** — systematic mononic conformations.  
 - **Tempostat** — the calendrical zero-point.  
 - **Cascading Rounding Notation (CRN)** — a bespoke solution to a bespoke problem.  
 - **GEWE** — a narrative-coherence principle that deserved a name.  

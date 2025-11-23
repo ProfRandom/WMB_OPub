@@ -8,7 +8,7 @@ tags:
   - planemon
   - intermon
   - stellamon
-  - peramon
+  - peromon
   - hypermon
   - ultramon
   - mesomon
@@ -21,7 +21,7 @@ Taken together, the varymon series trace a continuous progression from **the sma
 
 > *(Note: cohesion-bound bodies below the gravimetric threshold—synomons—are not included in the varymon series.)*
 
-![[Varymon_Series_Mass_Domains.png]]
+![[Varymon_Series_Mass_Domains.png 15-09-50-523.jpg]]
 
 $$
 \begin{array}{l r r c l}
