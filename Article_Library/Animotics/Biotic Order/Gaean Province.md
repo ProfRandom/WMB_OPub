@@ -1,0 +1,53 @@
+## Gaean Province
+
+(Optimal Earthlike Worlds — the Habitat Ideal)
+m := ⟨1.00 ∧ 1.85⟩⨁
+ρ := ⟨0.85 ∧ 1.25⟩⨁
+g := ⟨0.85 ∧ 1.10⟩⨁
+r := ⟨0.90 ∧ 1.30⟩⨁
+vₑ := ⟨0.95 ∧ 1.20⟩⨁
+
+$$
+\text{GAEAN} := \left\{ (m, \rho) \in \mathbb{R}^2 \ \middle|\
+\begin{aligned}
+&1.00 ≤ \rho ≤ 1.25 \\
+&0.85 ≤ g(m, \rho) ≤ 1.10 \\
+&0.90 ≤ r(m, \rho) ≤ 1.30 \\
+&0.95 ≤ v_e(m, \rho) ≤ 1.20
+\end{aligned}
+\right\}
+$$
+> Gaeans form the **habitat-perfect subset** of the Geotic Domain.
+> Where Geotics are broadly Earthlike and comfortably habitable, **Gaeans are the apex** — worlds whose physical structure falls into the heart of human biomechanical and ecological preference.
+
+A Gaean world is:
+
+- **freely breathable**
+- **walkable without adaptation**    
+- **biomechanically effortless**    
+- **stable across geologic time**    
+- **instinctively familiar** even if alien in ecosystem
+    
+> **All Gaeans are Geotics.  
+> 	Only ~48.8% of Geotics are Gaeans.**
+
+Gaean = _the Earth-normal sweet spot of parameter space._
+
+![[Gaean Province by Domains.png]]
+
+## **How to Read This Chart**
+
+This chart shows **where Gaean worlds fall inside larger envelopes**, not the other way around.
+
+That is, the bars answer the question:
+
+> **“Of all Gaeans, what percentage also meet the criteria of each broader class?”**
+
+Because the **Biotic Order** is _much, much larger_ than the Gaean envelope, only a tiny fraction of all Biotic-compliant worlds qualify as Gaeans — but **every single Gaean is still part of the Biotic Order**.  
+
+The small percentage for “Biotic Order” therefore reflects the _narrowness of the Gaean slice_, not an exclusion from the parent class.
+
+In short:
+
+- **Small bar ≠ exclusion**    
+- **Small bar = Gaeans are a rare, narrow subset inside that much larger envelope**

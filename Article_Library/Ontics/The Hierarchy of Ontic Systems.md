@@ -45,8 +45,8 @@ flowchart TD
     classDef node fill:#0A0D2B,stroke:#8A8CE5,stroke-width:1px,color:#FFFFFF;
 
     M[Monon]:::node
-    C[Coheromon]:::node
-    G[Gravitomon]:::node
+    C[Synomon]:::node
+    G[Varymon]:::node
 
     M --> C
     M --> G
@@ -59,15 +59,15 @@ A **Monon** is any independent, self-coherent body: a planet, a star, a grain of
 It is the fundamental *unit of being* in the WMB ontology.
 
 Monons come in two structural forms:
-- **Coheromons** — bodies held together by *cohesion* (molecular bonding)
-- **Gravitomons** — bodies held together by *self-gravity*
+- **Synomons** — bodies held together by *cohesion* (molecular bonding)
+- **Varymons** — bodies held together by *self-gravity*
     
 This distinction defines the two great branches of mononic existence.
 
 |Tier|Full Form|Common Form|Binding Principle|Example|
 |:--|:--|:--|:--|:--|
 |**Monon**|—|–mon|Self-coherence|any singular body|
-> Monon is the umbrella class; specific binding regimes are defined under Coheromon and Gravitomon.
+> Monon is the umbrella class; specific binding regimes are defined under Synomon and Varymon.
 ## 2 · Cules — Unity by Likeness
 The suffix **–cule** (from *–culon*, “small body”) marks a directly bound group of **similar monons**.  
 
@@ -75,7 +75,7 @@ Cules are **homogeneous** systems: members of the *same* Mononic Class bound tog
 
 | Example             | Canonical Term             | Description                                            |
 | :------------------ | :------------------------- | :----------------------------------------------------- |
-| two planets         | **duacule < duaculon**     | binary pair of *gravitomons* (a classic double planet) |
+| two planets         | **duacule < duaculon**     | binary pair of *varymons* (a classic double planet) |
 | three stars         | **ternacule < ternaculon** | trinary of *stellamons*                                |
 | four or more        | **multicule < multiculon** | homogeneous multiple system                            |
 | spoken contractions | *quadrule*, *quinule*      | vowel–prefix elision for euphony                       |
@@ -121,11 +121,11 @@ Gates are **contextual collectives**: systems whose coherence arises not from di
 ## 5 · Summary Hierarchy
 | Level     | Full form → Common form | Binding principle | Composition            | Example                        |
 | :-------- | :---------------------- | :---------------- | :--------------------- | :----------------------------- |
-| **Monon** | — → –mon                | Self-coherence    | singular body          | coheromon, gravitomon          |
+| **Monon** | — → –mon                | Self-coherence    | singular body          | synomon, varymon          |
 | **Cule**  | –culon → –cule          | Likeness          | homogeneous grouping   | binary planets, trinary stars  |
 | **Lex**   | –lexon → –lex           | Connection        | heterogeneous grouping | star + planets, planet + moons |
 | **Gate**  | –gation → –gate         | Context           | collective field       | galaxy, cluster, filament      |
-> Monons divide into _Coheromons_ (cohesion-bound) and _Gravitomons_ (gravity-bound).  
+> Monons divide into _Synomons_ (cohesion-bound) and _Varymons_ (gravity-bound).  
 > Cules, Lexes, and Gates operate at system scales built from monons or higher aggregations.
 ## 6 · Conceptual Symmetry
 - **–Cule** = _unity by sameness_ (kinship)

@@ -16,23 +16,23 @@ All physical bodies (_monons_) in the WMB framework are described along two orth
 - their **Ontic Class**, which defines the degree of _gravity-dominated_ self-coherence, and
 - their **Morphological Character**, which defines material composition and structure.
 
-Monons first divide into **Coheromons** (cohesion-bound) and **Gravitomons** (gravity-bound).
+Monons first divide into **Synomons** (cohesion-bound) and **Varymons** (gravity-bound).
 
-Only _gravitomons_ admit Ontic Class distinctions, because these classes arise from **gravitational self-organization**, **compression physics**, and **fusion thresholds**.
+Only _varymons_ admit Ontic Class distinctions, because these classes arise from **gravitational self-organization**, **compression physics**, and **fusion thresholds**.
 
-At the broadest gravitational scale, all **gravitomons** fall into one of three Ontic Classes:
-- **Duramons** — all gravitomons with masses below the stellar ignition threshold ($< 0.08$ ⊙).  
+At the broadest gravitational scale, all **varymons** fall into one of three Ontic Classes:
+- **Duramons** — all varymons with masses below the stellar ignition threshold ($< 0.08$ ⊙).  
     Includes every non-fusional body of mass $> 1 \times 10^{-6} \;\oplus$ : from brown dwarfs and planemons down to micromons.    
-- **Fusamons** — all gravitomons with masses in the stable hydrogen-fusion range ($0.08–300$ ⊙).  
+- **Fusamons** — all varymons with masses in the stable hydrogen-fusion range ($0.08–300$ ⊙).  
     Subdivided by the **stellar spectral-class system**, which defines their thermodynamic and photometric behavior.    
-- **Peramons** — all gravitomons whose masses exceed the upper stellar-stability limit ($> 300$ ⊙).  
+- **Peramons** — all varymons whose masses exceed the upper stellar-stability limit ($> 300$ ⊙).  
     These occupy the **trans-stellar regime** of radiative instability, pair-creation collapse, or exotic compact states.
 
 ## **Ontic Axis (Vertical)**
 
 _Defines gravitational scale and self-coherence — how strongly a body’s gravity shapes its structure._
 
-- Applies **only to gravitomons**    
+- Applies **only to varymons**    
 - Ranges from micromons to hypermons    
 - Reflects internal pressure, compression, fusion onset, and relativistic collapse    
 - Field: **Mononics**
@@ -41,7 +41,7 @@ _Defines gravitational scale and self-coherence — how strongly a body’s grav
 
 _Defines material/structural composition — what the body is made of._
 
-- Applies to **both coheromons and gravitomons**    
+- Applies to **both synomons and varymons**    
 - Describes the dominant matter-regime: lithic, hydruric, cryic, metalluric, plasma, degenerate, etc.    
 - Field: **Morphotics**
 ## Definitions

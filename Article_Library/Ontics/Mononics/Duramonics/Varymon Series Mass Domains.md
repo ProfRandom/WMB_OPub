@@ -14,14 +14,14 @@ tags:
   - mesomon
 date: 2025-11-19
 ---
-# Gravitomon Series
-**Gravitomon Series** are tiered groupings of **gravity-dominated monons** arranged by characteristic **mass domain** and **structural regime**. Each series spans a range of magnitudes within which bodies share broadly similar self-gravity, internal structure, and formation behavior.
+varymon# Varymon Series
+**Varymon Series** are tiered groupings of **gravity-dominated monons** arranged by characteristic **mass domain** and **structural regime**. Each series spans a range of magnitudes within which bodies share broadly similar self-gravity, internal structure, and formation behavior.
 
-Taken together, the gravitomon series trace a continuous progression from **the smallest hydrostatic bodies** to **the largest theoretical self-gravitating objects**.
+Taken together, the varymon series trace a continuous progression from **the smallest hydrostatic bodies** to **the largest theoretical self-gravitating objects**.
 
-> *(Note: cohesion-bound bodies below the gravimetric threshold—coheromons—are not included in the gravitomon series.)*
+> *(Note: cohesion-bound bodies below the gravimetric threshold—synomons—are not included in the varymon series.)*
 
-![[gravitomon_Series_Mass_Domains.png]]
+![[Varymon_Series_Mass_Domains.png]]
 
 $$
 \begin{array}{l r r c l}
@@ -45,5 +45,5 @@ $$
 \end{array}
 $$
 
-Each gravitomon series marks a major **structural regime**: transitions between **lithic** (rock/ice), **volatile**, **metallic**, **gaseous**, **degenerate**, and **relativistic** states of matter. The series provide a scaffolding for the WMB’s **morphological**, **energetic**, and **habitability** classifications.
+Each varymon series marks a major **structural regime**: transitions between **lithic** (rock/ice), **volatile**, **metallic**, **gaseous**, **degenerate**, and **relativistic** states of matter. The series provide a scaffolding for the WMB’s **morphological**, **energetic**, and **habitability** classifications.
 
