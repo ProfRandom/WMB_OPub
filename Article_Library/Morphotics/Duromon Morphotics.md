@@ -8,8 +8,11 @@ tags:
   - somatic
 date: 2025-11-23
 ---
-# Monon Morphotics
+# Duromon Morphotics
 
+Duromons are the varymon mass classes:
+- Micromon
+- Minimon
 Mononic physical identity is classified along a **form axis** and a **material axis**.  
 These correspond to:
 
