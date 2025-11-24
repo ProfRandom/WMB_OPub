@@ -1,7 +1,6 @@
 ---
 title: Gravitomon Series Mass Domains
 tags:
-  - gravitomon
   - micromon
   - midimon
   - minimon
@@ -12,6 +11,7 @@ tags:
   - hypermon
   - ultramon
   - mesomon
+  - varymon
 date: 2025-11-19
 ---
 varymon# Varymon Series

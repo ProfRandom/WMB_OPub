@@ -6,7 +6,7 @@ tags:
   - geotic
   - telluric
   - xenotic
-  - Kybelic
+  - kybelic
 ---
 Order
 	Domain

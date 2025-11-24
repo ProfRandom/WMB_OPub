@@ -13,7 +13,6 @@ tags:
   - subscale
   - interval
   - metric
-  - conform
   - notation
   - reference
   - ontic

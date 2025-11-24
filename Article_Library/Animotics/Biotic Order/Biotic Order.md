@@ -1,10 +1,20 @@
+---
+title: Biotic Order
+tags:
+  - biotic
+  - animotics
+  - habitable
+  - parahabitable
+  - hospitable
+date: 2025-11-23
+---
 ## Biotic Order
 
-m := ⟨0.01 ∧ 10.00⟩⨁ 
-ρ := ⟨0.50 ∧ 7.00⟩⨁ 
-g := ⟨0.15 ∧ 8.00⟩⨁ 
-r := ⟨0.15 ∧ 3.00⟩⨁
-vₑ := ⟨0.20 ∧ 3.00⟩⨁
+m := (0.01 ·· 10.00)⨁ 
+ρ := (0.50 ·· 7.00)⨁ 
+g := (0.15 ·· 8.00)⨁ 
+r := (0.15 ·· 3.00)⨁
+vₑ := (0.20 ·· 3.00)⨁
 
 > **Biotics** are the full class of rocky, metallic, or icy solid-surface planemons.
 > This domain spans everything from Earthlike worlds to massive superterrestrials, frozen dwarfs, scorched tidally-locked crusts, and subplanetary bodies like Ganymede or Titan.

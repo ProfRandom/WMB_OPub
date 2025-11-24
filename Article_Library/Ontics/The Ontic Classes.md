@@ -2,8 +2,6 @@
 title: The Ontic Classes
 tags:
   - ontic
-  - coheromon
-  - gravitomon
   - duromon
   - fusomon
   - peromon

@@ -23,7 +23,7 @@ date: 2025-11-23
 
 Monons are **discrete, self-coherent bodies** — objects that maintain a distinct identity from their surroundings. They span an enormous continuum of masses and internal structures, from **synetically bound aggregates** (synomons) to **self-gravitating worlds** (duromons), **transitional fusors** (transomons), **full fusion stars** (fusomons), and **hypergravity objects** (peromons).
 
-**Mononics**, the study of mononic identity, organizes this continuum into **four superclasses**, each governed by distinct physical regimes:
+**Mononics**, the study of mononic identity, organizes this continuum into **five superclasses**, each governed by distinct physical regimes:
 1. **Synomons** — cohesion-dominated bodies    
 2. **Duromons** — matter-regime, gravity-shaped bodies    
 3. **Transomons** — transitional, hybrid bodies    
@@ -206,9 +206,10 @@ _Their morphotics involves spin, accretion, jet structure, and horizon dynamics.
     - Core seeds of hypermassive galaxies
 # Summary: The Mononics Identity Framework
 
-| **Superclass** | **Physics Regime**                      | **Identity System**                                                   | **Varymon Classes**  |
-| -------------- | --------------------------------------- | --------------------------------------------------------------------- | -------------------- |
-| **Duromons**   | Matter-state physics (solid/liquid/gas) | **Duramonic Morphotics** (Morphoforms + Somatypes)                    | Nanomon → Planemon   |
-| **Transomons** | Transitional substellar physics         | **Transamonic Morphotics** (hybrid duramonic + fusamonic)             | Intermon             |
-| **Fusomons**   | Stable hydrogen fusion                  | **Fusamonic Morphotics** (spectral classes, luminosity classes, etc.) | Stellamon            |
-| **Peromons**   | Hypergravity / relativistic identity    | **Peramonic Morphotics** (spin, accretion, jet-class)                 | Supra/Ultra/Hypermon |
+| Superclass | Physics Regime                                                                             | Identity System                                                                                       | Varymon / Monon Series                            |
+|------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| Synomons   | Cohesion-regime bodies (synetic binding; no self-gravitation)                              | Synomonics (cohesion, fragmentation, aggregation, space-weathering)                                   | None — below varymon threshold (<10⁻⁶ ⨁)          |
+| Duromons   | Matter-regime bodies (solid/liquid/ice/gas + self-gravitation)                             | Duramonic Morphotics (Morphoforms + Somatypes)                                                        | Micromon → Minimon → Midimon → Mesomon → Planemon |
+| Transomons | Transitional-regime bodies (hybrid duramonic–fusamonic behavior; partial fusion)           | Transamonic Morphotics (Deutertypes, hybridotypes, etc.)                                              | Intermon                                          |
+| Fusomons   | Fusion-regime bodies (stable hydrogen fusion)                                              | Fusamonic Morphotics (Spectral Class, Subtype, Luminosity Class, Variability Class, Population Group) | Stellamon                                         |
+| Peromons   | Hypergravity-regime bodies (relativistic mass, collapse structures, event-horizon physics) | Peramonic Morphotics (Spin class, Accretion Type, Horizonform, Jetform)                               | Supramon → Ultramon → Hypermon                    |
