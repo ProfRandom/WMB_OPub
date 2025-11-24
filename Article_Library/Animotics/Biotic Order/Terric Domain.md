@@ -17,8 +17,8 @@ $$
 \end{aligned}
 \right\}
 $$
-> **Terrics** are **habitable** planemons — solid-surface worlds whose physical and environmental conditions fall within the broad envelope compatible with **carbonic, water-solvent life**, including human physiology.
 
+> **Terrics** are **COH-amegic** planemons — solid-surface worlds whose physical and environmental conditions fall within the broad envelope compatible with **carbonic, water-solvent life**, including human physiology.
 ### Core Features
 - **Narrow density bounds** enforce a rocky–metallic–silicate structure typical of terrestrial worlds.    
 - **Mass and radius** are allowed more freedom, producing Terrics that range from light sub-Earths to heavy super-Earths.    

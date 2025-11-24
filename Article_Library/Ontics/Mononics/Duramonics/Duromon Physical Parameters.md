@@ -13,10 +13,28 @@ date: 2025-11-20
 ---
 # Duromon Physical Parameters
 
-Duromonic bodies are defined by five quantitative parameters, each belonging to a distinct tier of causality. Two of these — mass and density — describe the duromon’s intrinsic matter. Their interaction produces the consequent parameters, surface gravity and radius. Together, they generate the emergent dynamical parameter: escape velocity.
+m := (0.0018 ·· 4131.4)⨁ 
+ρ := (0.0272 ·· 2.18)⨁ 
+r := (0.0942 ·· 11.2)⨁
+g := (0.2041 ·· 24.5)⨁ 
+vₑ := (0.14 ·· 16.5)⨁
+
+$$
+\text{DUROMON} := \left\{
+\begin{aligned}
+	&0.0018 ≤ m ≤ 4131.4 \\
+	&0.0272 ≤ \rho ≤ 2.18 \\
+	&0.0942 ≤ r(m, \rho) ≤ 11.2 \\
+	&0.2041 ≤ g(m, r) ≤ 24.5 \\
+	&0.14 ≤ v_e(g, r) ≤ 16.5
+\end{aligned}
+\right.
+$$
+> **Note**: These bounds represent the physically realizable envelope for matter-regime worlds (duromons). Worlds below this space fall into synomonic behavior; above it, into transomonic or fusomonic physics.
+
+Duromons are matter-regime monons — bodies whose structure is dominated by classical matter physics and gravitational cohesion, spanning micromons through planemons to the upper limits of pre-degeneracy worlds.
 
 Duromonic parameters are grouped into tiers not by convenience, but by causality: primaries _define_ the consequents, and together they _generate_ the emergent.
-
 ## Primary Properties
 
 **Mass** ($m$):  
@@ -26,21 +44,7 @@ The total amount of matter the duromon contains.
 
 **Density** ($ρ$):  
 The average amount of matter per unit volume — how tightly the duromon’s material is packed. Density depends on both composition (rock, ice, metal, etc.) and, for larger bodies, gravitational self-compression.
-
-## The Consequents
-
-**Surface Gravity** ($g$):  
-The strength of gravitational acceleration at the duromon’s surface — how strongly it attracts objects located one radius away from its center.  
-
-Gravity is **consequent**, arising from the interaction of mass and density:
-
-$$
-g = \sqrt[3]{mρ^{2}}
-$$
-
-Together, mass and density _produce_ the duromon’s consequent parameters.
-
-They describe what the body *is* and how it *acts* gravitationally.
+## The Consequent
 
 **Radius** ($r$):  
 The distance from the duromon’s center to its surface.  
@@ -49,6 +53,21 @@ Radius is also **consequent**, also arising from the interaction of mass and den
 $$
 r = \sqrt[3]{\frac{m}{ρ}}
 $$
+
+## The Subsequent
+
+**Surface Gravity** ($g$):  
+The strength of gravitational acceleration at the duromon’s surface — how strongly it attracts objects located one radius away from its center.  
+
+Gravity is **subsequent**, arising from the interaction of mass and radius:
+
+$$
+g = \frac{m}{r^2}
+$$
+
+Together, mass and density _produce_ the duromon’s consequent parameters.
+
+They describe what the body *is* and how it *acts* gravitationally.
 ## The Emergent
 
 **Escape Velocity** ($v_e$):  
@@ -73,7 +92,10 @@ $$
  &\hspace{.8em}(r,\; g) \Rightarrow v_e
 \end{aligned}
 $$
-## A familiar analogy
+
+Together these five parameters define the **duromonic phase space**: the region of physical possibility for matter-regime monons.
+
+# A Familiar Analogy
 
 The classic riddle “Which is heavier — a pound of iron or a pound of feathers?” demonstrates the independence of *mass* from *density*.  
 

@@ -72,9 +72,9 @@ P(T | D) = 0.017553 \cdot 0.000025
 = 4.38825 \times 10^{-7}  
 ]
 
-### ⭐ **Terric worlds are 0.00004388% of all duromons**
+### ⭐ **Terric worlds are 0.0000351% of all duromons**
 
-≈ **1 in 2.28 million** duromons
+≈ **1 in 2.85 million** duromons
 
 ---
 
@@ -87,9 +87,9 @@ P(K | D) = 0.012126 \cdot 0.000025
 = 3.0315 \times 10^{-7}  
 ]
 
-### ⭐ **Kybelic worlds are 0.0000303% of all duromons**
+### ⭐ **Kybelic worlds are 0.0000243% of all duromons**
 
-≈ **1 in 3.30 million**
+≈ **1 in 4.12 million**
 
 ---
 
@@ -102,9 +102,9 @@ P(G | D) = 0.003312 \cdot 0.000025
 = 8.28 \times 10^{-8}  
 ]
 
-### ⭐ **Geotics are 0.00000828% of all duromons**
+### ⭐ **Geotics are 0.00000662% of all duromons**
 
-≈ **1 in 12.1 million**
+≈ **1 in 15.1 million**
 
 ---
 
@@ -117,9 +117,9 @@ P(A | D) = 0.001441 \cdot 0.000025
 = 3.6025 \times 10^{-8}  
 ]
 
-### ⭐ **Gaeans are 0.00000360% of all duromons**
+### ⭐ **Gaeans are 0.00000288% of all duromons**
 
-≈ **1 in 27.7 million**
+≈ **1 in 34.7 million**
 
 (Yes, Gaeans really are cosmically unicornish.)
 
@@ -127,13 +127,13 @@ P(A | D) = 0.001441 \cdot 0.000025
 
 # 🌌 **Summary (Fractions of All Duromons)**
 
-|Type|Fraction of Duromons|%|Odds|
-|---|---|---|---|
-|**Biotic**|2.5×10⁻⁵|0.0025%|1 in 40,000|
-|**Terric**|4.39×10⁻⁷|0.0000439%|1 in 2.28 million|
-|**Kybelic**|3.03×10⁻⁷|0.0000303%|1 in 3.30 million|
-|**Geotic**|8.28×10⁻⁸|0.00000828%|1 in 12.1 million|
-|**Gaean**|3.60×10⁻⁸|0.00000360%|1 in 27.7 million|
+| Type    | Fraction of Duromons | %          | Odds              |
+|---------|----------------------|------------|-------------------|
+| Biotic  | 2.0×10⁻⁵             | 0.002%     | 1 in 50,000       |
+| Terric  | 3.51×10⁻⁷            | 0.000035%  | 1 in 2.85 million |
+| Kybelic | 2.43×10⁻⁷            | 0.000024%  | 1 in 4.12 million |
+| Geotic  | 6.62×10⁻⁸            | 0.0000066% | 1 in 15.1 million |
+| Gaean   | 2.88×10⁻⁸            | 0.0000029% | 1 in 34.7 million |
 
 These are **fully consistent** with:
 
