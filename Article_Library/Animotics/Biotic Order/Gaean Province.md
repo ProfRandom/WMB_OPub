@@ -1,21 +1,22 @@
 ## Gaean Province
 
 (Optimal Earthlike Worlds — the Habitat Ideal)
-m := ⟨1.00 ∧ 1.85⟩⨁
-ρ := ⟨0.85 ∧ 1.25⟩⨁
-g := ⟨0.85 ∧ 1.10⟩⨁
-r := ⟨0.90 ∧ 1.30⟩⨁
-vₑ := ⟨0.95 ∧ 1.20⟩⨁
+m := (1.00 ·· 1.85)⨁
+ρ := (0.85 ·· 1.25)⨁
+r := (0.90 ·· 1.30)⨁
+g := (0.85 ·· 1.10)⨁
+vₑ := (0.95 ·· 1.20)⨁
 
 $$
-\text{GAEAN} := \left\{ (m, \rho) \in \mathbb{R}^2 \ \middle|\
+\text{GAEAN} := \left\{ 
 \begin{aligned}
-&1.00 ≤ \rho ≤ 1.25 \\
-&0.85 ≤ g(m, \rho) ≤ 1.10 \\
+&1.00 ≤ m ≤ 1.85 \\
+&0.85 ≤ \rho ≤ 1.25 \\
 &0.90 ≤ r(m, \rho) ≤ 1.30 \\
+&0.85 ≤ g(m, \rho) ≤ 1.10 \\
 &0.95 ≤ v_e(m, \rho) ≤ 1.20
 \end{aligned}
-\right\}
+\right.
 $$
 > Gaeans form the **habitat-perfect subset** of the Geotic Domain.
 > Where Geotics are broadly Earthlike and comfortably habitable, **Gaeans are the apex** — worlds whose physical structure falls into the heart of human biomechanical and ecological preference.

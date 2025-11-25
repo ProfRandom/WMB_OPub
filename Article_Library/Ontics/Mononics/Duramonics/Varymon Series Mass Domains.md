@@ -14,7 +14,7 @@ tags:
   - varymon
 date: 2025-11-19
 ---
-varymon# Varymon Series
+# Varymon Series
 **Varymon Series** are tiered groupings of **gravity-dominated monons** arranged by characteristic **mass domain** and **structural regime**. Each series spans a range of magnitudes within which bodies share broadly similar self-gravity, internal structure, and formation behavior.
 
 Taken together, the varymon series trace a continuous progression from **the smallest hydrostatic bodies** to **the largest theoretical self-gravitating objects**.

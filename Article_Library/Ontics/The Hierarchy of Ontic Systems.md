@@ -39,19 +39,6 @@ source: https://gitlab.com/WMBcanon/mononics
 
 Each regime represents a distinct **mode of coherence**, determined by the dominant physical interaction at its scale.  
 Together they form the backbone of **Ontic hierarchy**, linking the smallest bound particle to the largest self-coherent body.
-
-```mermaid
-flowchart TD
-    classDef node fill:#0A0D2B,stroke:#8A8CE5,stroke-width:1px,color:#FFFFFF;
-
-    M[Monon]:::node
-    C[Synomon]:::node
-    G[Varymon]:::node
-
-    M --> C
-    M --> G
-
-```
 ## 1 · Monons — The Singular
 
 A **Monon** is any independent, self-coherent body: a planet, a star, a grain of sand, or a drop of water.

@@ -29,9 +29,9 @@ Let’s do this cleanly.
 
 From your Monte Carlo (realistic duromonic envelope):
 
-### **P(Biotic | Duromon) = 0.000025**
+### **P(Biotic | Duromon) = 0.000335**
 
-(0.0025%)
+(0.0335%) = 1:2985
 
 From your earlier envelope overlap sampling:
 
@@ -72,9 +72,9 @@ P(T | D) = 0.017553 \cdot 0.000025
 = 4.38825 \times 10^{-7}  
 ]
 
-### ⭐ **Terric worlds are 0.0000351% of all duromons**
+### ⭐ **Terric worlds are 0.000588% of all duromons**
 
-≈ **1 in 2.85 million** duromons
+≈ **1 in 170000 duromons
 
 ---
 
@@ -87,9 +87,9 @@ P(K | D) = 0.012126 \cdot 0.000025
 = 3.0315 \times 10^{-7}  
 ]
 
-### ⭐ **Kybelic worlds are 0.0000243% of all duromons**
+### ⭐ **Kybelic worlds are 0.000406% of all duromons**
 
-≈ **1 in 4.12 million**
+≈ **1 in 246000
 
 ---
 
@@ -102,9 +102,9 @@ P(G | D) = 0.003312 \cdot 0.000025
 = 8.28 \times 10^{-8}  
 ]
 
-### ⭐ **Geotics are 0.00000662% of all duromons**
+### ⭐ **Geotics are 0.0001109% of all duromons**
 
-≈ **1 in 15.1 million**
+≈ **1 in 901000
 
 ---
 
@@ -117,9 +117,9 @@ P(A | D) = 0.001441 \cdot 0.000025
 = 3.6025 \times 10^{-8}  
 ]
 
-### ⭐ **Gaeans are 0.00000288% of all duromons**
+### ⭐ **Gaeans are 0.0000483% of all duromons**
 
-≈ **1 in 34.7 million**
+≈ **1 in 2.07 million
 
 (Yes, Gaeans really are cosmically unicornish.)
 
@@ -128,19 +128,17 @@ P(A | D) = 0.001441 \cdot 0.000025
 # 🌌 **Summary (Fractions of All Duromons)**
 
 | Type    | Fraction of Duromons | %          | Odds              |
-|---------|----------------------|------------|-------------------|
-| Biotic  | 2.0×10⁻⁵             | 0.002%     | 1 in 50,000       |
-| Terric  | 3.51×10⁻⁷            | 0.000035%  | 1 in 2.85 million |
-| Kybelic | 2.43×10⁻⁷            | 0.000024%  | 1 in 4.12 million |
-| Geotic  | 6.62×10⁻⁸            | 0.0000066% | 1 in 15.1 million |
-| Gaean   | 2.88×10⁻⁸            | 0.0000029% | 1 in 34.7 million |
+| ------- | -------------------- | ---------- | ----------------- |
+| Biotic  | 2.0×10⁻⁵             | 0.0335%    | 1 in 3000         |
+| Terric  | 3.51×10⁻⁷            | 0.000588%  | 1 in 170000       |
+| Kybelic | 2.43×10⁻⁷            | 0.000406%  | 1 in 246000       |
+| Geotic  | 6.62×10⁻⁸            | 0.0001109% | 1 in 901000       |
+| Gaean   | 2.88×10⁻⁸            | 0.0000483% | 1 in 2.07 million |
 
 These are **fully consistent** with:
 
-- the earlier Animotics classification
-    
-- the realistic duromonic physical envelope
-    
+- the earlier Animotics classification    
+- the realistic duromonic physical envelope    
 - the observed rarity of Earth-class worlds
     
 

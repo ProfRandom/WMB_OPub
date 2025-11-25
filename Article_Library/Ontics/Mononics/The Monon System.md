@@ -1,13 +1,13 @@
-# 🌍 THE MONON SYSTEM
+# 🌍 The Monon System
 
 A monon is any discrete, self-coherent natural object whose identity arises from a dominant physical regime — whether chemical, mechanical, gravitational, degeneracy-based, fusion-based, or relativistic.
 
 - For synomons → coherence is chemical / mechanical / electrostatic    
 - For varymons → coherence is transitional, mixed    
-- For duromons → coherence is gravitational + material physics    
-- For transomons → coherence is partially gravitational + partially thermonuclear / degeneracy    
-- For fusomons → coherence is gravitational but _structured by fusion_    
-- For peromons → coherence is gravitational + relativistic / degeneracy
+	- For duromons → coherence is gravitational + material physics    
+	- For transomons → coherence is partially gravitational + partially thermonuclear / degeneracy    
+	- For fusomons → coherence is gravitational but _structured by fusion_    
+	- For peromons → coherence is gravitational + relativistic / degeneracy
  
 This yields a fully formalized identity system organized into **four structural superclasses**, each defined by the dominant physical regime governing its internal structure and behavior:
 
@@ -18,21 +18,26 @@ This yields a fully formalized identity system organized into **four structural 
 Bodies that cohere via **chemical, mechanical, or electrostatic forces** rather than gravity.
 
 These include:
+- rubble    
+- large meteoroids    
+- proto-planetesimal fragments    
+- sub-kilometer to few-hundred-km aggregates    
+- erratics, unconsolidated clusters, and chemically bound bodies    
 
-- rubble piles
-    
-- large meteoroids
-    
-- proto-planetesimal fragments
-    
-- sub-kilometer to few-hundred-km aggregates
-    
-- erratics, unconsolidated clusters, and chemically bound bodies
-    
+Synomons are **true monons**, but not varymons or duromons — they occupy the _lowest physical regime_ of mononic identity.
+# 2. Varymons
+_All gravitationally-coherent monons_
 
-Synomons are **true monons**, but not varymons or duromons  
-— they occupy the _lowest physical regime_ of mononic identity.
-# 2. Duromons
+A **varymon** is any monon whose structural cohesion is dominated by **gravitation** rather than chemical or mechanical bonding.  
+Everything above the synomon regime is a varymon.
+
+This superclass contains four major subclasses, distinguished by the dominant internal physics shaping each regime:
+
+- **Duromons** — classical-matter varymons  
+- **Transomons** — partially degenerate varymons  
+- **Fusomons** — fusion-regime varymons  
+- **Peromons** — relativistic/exotic varymons
+## 2.1. Duromons
 ### _Matter-regime monons (0.0018 ⨁ → 4131.4 ⨁)_
 
 Bodies whose structure is dominated by **classical matter physics**:
@@ -44,13 +49,8 @@ Bodies whose structure is dominated by **classical matter physics**:
 - escape velocity    
 - non-fusion thermodynamics
     
-This superclass includes:
-- varymons (objects cohering due to gravity)    
-	- micromons, minimons, midimons, mesomons (varymons of lesser gravity regimes than classical "planets")
-	- planemons (the classical planet realm)    
-
 Duromons are where **Animotics** live.
-# 3. Transomons
+## 2.2. Transomons
 ### _Transitional monons (13 M♃ → 80 M♃)_
 
 Bodies bridging planetary and stellar physics, dominated by:
@@ -69,7 +69,7 @@ This superclass includes:
     - the entire L–T–Y dwarf continuum
     
 Transomons are the “liminal monons,” bridging duromons and fusomons.
-# 4. Fusomons
+## 2.3. Fusomons
 ### _Stellar monons (80 M♃ → ~300 M⊙)_
 
 Bodies defined by **sustained core hydrogen fusion**, including:
@@ -87,7 +87,7 @@ The fusomon system already has:
 - Solar Analogs/Cognates/Twins
     
 This is the most "borrowed-in" subsystem in WMB (with some tweaks).
-# 5. Peromons
+## 2.4. Peromons
 ### _Ultra-/Supermassive monons (> 1 megaterran)_
 
 Bodies whose structure is dominated by:

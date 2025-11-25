@@ -1,21 +1,21 @@
 ## Terric Domain
 
-m := ⟨0.30 ∧ 3.35⟩⨁
-ρ := ⟨0.85 ∧ 1.25⟩⨁
-g := ⟨0.60 ∧ 1.65⟩⨁
-r := ⟨0.60 ∧ 1.50⟩⨁
-vₑ := ⟨0.65 ∧ 1.50⟩⨁
+m := (0.30 ·· 3.35)⨁
+ρ := (0.85 ·· 1.25)⨁
+r := (0.60 ·· 1.50)⨁
+g := (0.60 ·· 1.65)⨁
+vₑ := (0.65 ·· 1.50)⨁
 
 $$
-\text{TERRIC} := \left\{ (m, \rho) \in \mathbb{R}^2 \ \middle|\
+\text{TERRIC} := \left\{ 
 \begin{aligned}
 &0.30 ≤ m ≤ 3.35 \\
 &0.85 ≤ \rho ≤ 1.25 \\
-&0.60 ≤ g(m, \rho) ≤ 1.65 \\
 &0.60 ≤ r(m, \rho) ≤ 1.50 \\
+&0.60 ≤ g(m, \rho) ≤ 1.65 \\
 &0.65 ≤ v_e(m, \rho) ≤ 1.50
 \end{aligned}
-\right\}
+\right.
 $$
 
 > **Terrics** are **COH-amegic** planemons — solid-surface worlds whose physical and environmental conditions fall within the broad envelope compatible with **carbonic, water-solvent life**, including human physiology.
