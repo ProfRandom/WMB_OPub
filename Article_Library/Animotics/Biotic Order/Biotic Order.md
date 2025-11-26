@@ -31,7 +31,7 @@ $$
 
 **Biotic** is the **parent order** of the **Terric Domain**, the **Geotic Realm**, and the **Gaean Province**.  All members of those narrower types are, by definition, **Biotic**.    
 
-Only about $1$ in $3,000$ ($0.00335$%) duramons are biotic worlds, and within the biotic order: 
+About $1$ in $9.6$ ($0.1037$%) duramons are biotic worlds, and within the biotic order: 
     - About $1.7$% of Biotics are in the broadest [[Terric Domain]] (parahabitable)        
     - The [[Geotic Realm]] (human-habitables) account for about $0.34$% of all Biotics (habitable)        
     - The [[Gaean Province]] (human-hospitable worlds) account for about $0.17$% of all Biotics (about half of all Geotics)        

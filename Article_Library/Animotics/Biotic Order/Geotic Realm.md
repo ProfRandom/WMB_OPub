@@ -19,7 +19,7 @@ $$
 $$
 
 ## Core Statistics
-- Geotics are exceptionally rare:  **0.0001109%** of all duromons (**1 in 901000).
+- Geotics are rare:  **0.00250%** of all duromons (**1 in 401).
    - They make up **0.33% of all Biotics** and **18.87% of the Terric Domain**.
 
 >**Geotics** are closer to  **Earthlike** — worlds whose physical properties cluster nearer those of Earth, offering **stable, moderate, and biocompatible environments** that support long-term carbonic life with minimal modification.
