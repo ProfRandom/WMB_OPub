@@ -1,13 +1,13 @@
 ![[_assets/diagrams/Excalidraw/Animotic Branches|700]]
 
-- Biotic Order
-	- Terric Domain (Parahabitable to Humans)
-		- Geotic Realm (Habitable to Humans)
-			- Gaean Province (Hospitable to Humans)
+- Biotic Order (minanthropic)
+	- Terric Domain (mesanthropic)
+		- Geotic Realm (maxanthropic)
+			- Gaean Province (melanthropic)
 				- Bacterial Kingdom
 				- Eukaryotic Kingdom
 				- Archaean Kingdom
-	- Kybelic Domain (Parahabitable to Humans)
+	- Kybelic Domain (melamegic)
 - Xenotic Order
 	- Nitrogenic Domain
 		- Ammonia-Solvent Life
@@ -22,7 +22,7 @@
 		- Molten Silicate Life
 		- Hybrid Si–C Life
 		- Crystalline Parasites
-	- Exotic Domain
+	- Halogenic Domain
 		- Fluorine-Solvent Life
 		- Phosphine-metabolic Life
 		- Chlorine-Solvent Life
