@@ -1,5 +1,10 @@
 ---
-title: ""
+title: Orbits, Thermozones, and Animozones
+tags:
+  - stars
+  - orbit
+  - nucleal
+  - perannual
 ---
 
 # The Nucleal Orbit

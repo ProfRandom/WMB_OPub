@@ -1,13 +1,7 @@
 ## Xenotic Order
 
-m := ⟨0.0001 ∧ 4131⟩⨁
-ρ := ⟨0.01 ∧ 7.00⟩⨁
-g := ⟨0.02 ∧ 60.00⟩⨁
-r := ⟨0.02 ∧ 11.00⟩⨁
-vₑ := ⟨0.02 ∧ 25.00⟩⨁
-
 $$
-\text{XENOTIC} := \left\{ (m, \rho) \in \mathbb{R}^2 \ \middle|\
+\text{XENOTIC} := \left\{
 \begin{aligned}
 &0.0001 ≤ m ≤ 4131 \\
 &0.01 ≤ \rho ≤ 7.00 \\
@@ -15,7 +9,7 @@ $$
 &0.02 ≤ r(m, \rho) ≤ 11.00 \\
 &0.02 ≤ v_e(m, \rho) ≤ 25.00
 \end{aligned}
-\right\}
+\right.
 $$
 > *Xenotics* are planemons whose environmental conditions may support **non-Earthlike life**, including **non-carbonic**, **non-water-based**, or otherwise exotic biochemistries. The term is not tied to physical parameters, but to the **biological strangeness** of the world's potential life-hosting capacity.
 

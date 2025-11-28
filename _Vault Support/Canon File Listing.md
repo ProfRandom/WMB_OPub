@@ -1,19 +1,24 @@
-
-- [ ] Gaean Province.md
-- [x] Animotic Branches.md
-- [x] Animotic Orders, Realms, and Provinces.md
+1. [x] Biotic Order.md
+2. [x] Terric Domain.md
+3. [x] Geotic Realm.md
+4. [x] Gaean Province.md
+5. [x] Kybelic Domain.md
 - [x] Animotics Tree.md
 - [x] Apparent and Absolute Magnitudes and the Distance Modulus.md
-- [x] Biotic Order.md
+- [x] Astatic Order.md
+- [x] Atmospherics.md
 - [x] Cascading Rounding Notation.md
+- [x] Climostatics.md
+- [x] COH Life (Carboxyhydroxyl Life).md
+- [x] Disclaimer.md
 - [x] Duromon Equations of State.md
 - [x] Duromon Ground States.md
 - [x] Duromon Morphotics.md
 - [x] Duromon Physical Parameters.md
 - [x] Ellipse Geometry Solver.md
+- [x] Fictional Planet Survey.md
 - [x] General Use Equations.md
-- [x] Geotic Realm.md
-- [x] Kybelic Domain.md
+- [x] Justifying Parahabital Parameter Limits.md
 - [x] Linear Equations.md
 - [x] Mazotic Mass Continuum.md
 - [x] Meta — The Philosophy of Coherence.md
@@ -24,23 +29,37 @@
 - [x] Neolexicosis — The Worldmaker's Malady.md
 - [x] Number Notation.md
 - [x] Number Range Notation.md
+- [x] Orbits, Thermozones, and Animozones.md
 - [x] Phonetic Pronunciation Guide.md
+- [x] Planemon Naked Eye Visibility.md
 - [x] Precision Inference Rules.md
 - [x] Principles — Integrity in Worldmaking.md
 - [x] Random Assignment Syntax.md
 - [x] Rational Approximation With Continued Fractions.md
+- [x] Relating Stellar Ages to Appearance and Evolution of Life.md
 - [x] Resultant.md
 - [x] Rules of Exponents.md
+- [x] Stellamons -- Equations of State.md
+- [x] Stellamons -- Habitable Zones of Giant Stars.md
+- [x] Stellamons -- Lifetime, Life, and Habitability.md
+- [x] Stellamons -- Luminosity Variation Over Time.md
+- [x] Stellamons -- Magnitude and the Distance Modulus.md
+- [x] Stellamons -- Orbital Habitability Index.md
+- [x] Stellamons -- Solar Analogs, Cognates, and Twins.md
+- [x] Stellamons -- Stars and Spectral Classes.md
+- [x] Stellamons -- Structure and Evolution.md
+- [x] Stellamons -- System Architecture.md
+- [x] Stellamons -- The Shortcomings of the Traditional Spectral Scale.md
 - [x] Temperature Scales.md
-- [x] Terric Domain.md
 - [x] The Anthropic Norm and the Mediocritic Principle.md
 - [x] The Euclidean Algorithm - Greatest Common Divisor.md
 - [x] The GEWE Corollary.md
 - [x] The Hierarchy of Ontic Systems.md
+- [x] The Monon System.md
 - [x] The Naked-Eye Limit of Object Visibility.md
 - [x] The Ontic Classes.md
 - [x] The Small-Angle Approximation.md
+- [x] Updated Biotic Phase Space.md
 - [x] Varymon Series Mass Domains.md
 - [x] WMB Extension of the SI Prefix System.md
 - [x] Xenotic Order.md
-

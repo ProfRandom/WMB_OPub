@@ -1,4 +1,4 @@
-# Tattooine (*Star Wars*)
+# Tatooine (*Star Wars*)
 
 |      |       |                                                                                 |
 | ---- | ----- | ------------------------------------------------------------------------------- |
@@ -108,6 +108,28 @@ Thus Vulcan’s sky is **not** the dramatic triple-sun vista often imagined in f
 It is the sky of a **single-sun desert world**, with two unusually bright companion stars that serve as **night beacons** rather than secondary suns.
 
 Culturally, this configuration invites metaphor. Vulcan astronomers study a sky where their “siblings” B and C are visible but remote — present, but distant, influencing neither life nor climate. This is a trinary system **in ontology**, but a **single-sun world in experience**.
+
+### ► **Brightness**
+- **40 Eridani B:** magnitude ~−7.3    
+- **40 Eridani C:** magnitude ~−6.3    
+- Both visible in daytime    
+- Both cast faint shadows at night
+### ► **Maximum Angular Separation ≈ 5 degrees**    
+- Wider than most constellations’ bright-star pairings    
+- Easily noticeable by eye
+### ► **Motion**
+- They form a **binary that opens and closes** over 252 years    
+- Separation oscillates from 0° → 5° → 0°    
+- The whole pattern drifts slowly over millennia    
+- They appear as a **fixed sky-feature** to cultural timeframes
+### ► **Cultural Imprint**
+To Vulcans:
+- They are “the Twin Lights”    
+- Ever-present, never-setting companions in the firmament    
+- Bright enough for early astronomers to map easily    
+- Yet astronomically irrelevant: no heat, no seasons, no tides    
+
+Which fits Vulcan philosophy _perfectly_:  Quiet, constant, distant, unchanging…  but undeniably present.
 
 ---
 # Arrakis

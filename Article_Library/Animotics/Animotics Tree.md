@@ -1,234 +1,315 @@
+---
+title: Animotic Tree
+tags:
+  - animotics
+  - gaean
+  - geotic
+  - telluric
+  - xenotic
+  - kybelic
+---
+# The Animotics Tree
 
-# 🌱 **THE ANIMOTIC ORDERS**
+![[_assets/diagrams/Excalidraw/Animotic Branches|700]]
 
-### (Biotic — Xenotic — Astatic)
+Vitality in the Worldmaking Basics (WMB) framework is not a single spectrum, but the intersection of **three distinct axes**:
 
-These are the _three great regimes of vitality_ in WMB, defined not by biology alone, but by the **deep conditions under which coherent, self-renewing order (animota)** can arise and persist.
+1. **Amegic Axis** — what *substrate* supports vitality  
+   (COH → xenochemical → nonchemical, etc.)
 
-Each Order expresses a different answer to a single question:
-	**“What does it take for the universe to become alive?”**
+2. **Anthropic Axis** — how compatible a world or organism is with  
+   **Earth-human physiology**  
+   (minanthropic → mesanthropic → maxanthropic → melanthropic)
 
-# 🟢 **1. The Biotic Order**
+3. **Morphotic Axis** — what *type of body or medium* the vitality inhabits  
+   (duromons, transomons, fusomons, plasmic regimes, field-coherent structures…)
 
-### _Vitality grounded in carbonic chemistry_
-
-**Definition**  
-The Biotic Order encompasses all animota whose vitality emerges from **carbon–oxygen molecular complexity**.  
-
-It is life as Earth understands it: metabolism through covalent carbon, solvent-mediated chemistry (primarily water), and information encoded in polymeric chains.
-
-**Biotic vitality requires:**
-
-- carbon–oxygen bonding as the structural backbone    
-- a liquid-phase solvent (usually water)    
-- temperature/pressure regimes that permit stable organic molecules    
-- a planetary environment capable of sustaining moderate entropy gradients    
-
-**Significance in WMB**  
-For worldbuilders, the Biotic Order defines **the recognizable, the relatable, the narratively grounded**.
-
-It houses Terric, Geotic, and Gaean worlds — places where carbonic chemistry does what we know it can do, and sometimes more.
-
-**What falls under this Order:**
-
-- Earth life    
-- all carbonic analogues (Terric → Geotic → Gaean)    
-- supercritical CO₂ biota    
-- methane-solvent carbonic life (Titanic analogues)    
-- any carbon-based organism that still depends on chemistry as its primary substrate
-    
-**Narrative stance**  
-	**Biotic = “life as we know it, expanded but not broken.”**
-
-# 🟣 **2. The Xenotic Order**
-
-### _Vitality redefined through non-carbonic chemistry_
-
-**Definition**  
-The Xenotic Order comprises animota whose vitality emerges from **alternative chemical regimes** — ammonia, methane, silicate, halogenic, metallic, cryogenic, or hybrid chemistries.
-
-They obey natural law, but rewrite the rules of metabolism, structure, memory, and growth.
-
-**Xenotic vitality requires:**
-
-- a solvent or reaction medium (NH₃, CH₄, N₂O, H₂, SiO, F₂, etc.)    
-- stable molecular complexity unfamiliar to carbonic norms    
-- thermodynamic windows that favor slow, stable, or high-energy exotic reactions    
-- an environment where information can be stored and transmitted chemically or structurally    
-
-**What falls under this Order:**
-
-- ammonia-based “ammoniac” biota    
-- hydrazinic, cyanogenic, and nitrosic chemistries    
-- hydrocarbon meta-chemistries    
-- silicate and silico-hydrocarbon hybrids    
-- chlorine-, fluorine-, and phosphine-based animota    
-- ionic or lattice-bound organisms    
-- anything chemically plausible but evolutionarily alien
-    
-
-**Why it matters**  
-The Xenotic Order is the **bridge** between the imaginable and the uncanny — where life is still legible as life, but the rules of biochemistry have been rewritten.
-
-**Narrative stance**  
-	**Xenotic = “life as the universe may know it, but we do not.”**
-
-# ⚫ **3. The Astatic Order**
-
-### _Vitality that transcends chemistry_
-
-**Definition**  
-The Astatic Order includes animota whose vitality is **not fundamentally chemical** — or for whom chemistry is optional, subordinate, or vestigial.
-
-These are beings whose coherence arises from:
-
-- plasma phenomena    
-- magnetospheric or electric-field structures    
-- degenerate-matter states    
-- informational or quantum-coherence systems    
-- gravitational or relativistic substrates    
-- exotic physics beyond molecular assemblages    
-
-**Astatic vitality requires:**
-
-- a medium capable of _field coherence_ rather than molecular stability    
-- feedback loops that maintain structure against entropy    
-- information carriers (charge, spin, field topology)    
-- environmental conditions hostile to chemical life but stable to energetic patterns
-    
-
-**What falls under this Order:**
-
-- plasma animota (star-corona “wisps”)    
-- magnetospheric vortices with memor    
-- degenerate-matter intelligences (neutronium lattice minds)    
-- informational-field organisms    
-- gravitational coherence beings (hypothetical)    
-- quantum condensate animota    
-- black-hole interior sapiences (purely speculative but allowed)
-    
-
-**Why it matters**  
-Astatic entities are not merely alien animochemistries — they are **alien modes of being**.
-
-They may not interact meaningfully with biotic or xenotic life, except as mysteries, myths, or unseen forces.
-
-**Narrative stance**  
-**Astatic = “life beyond chemology.”**  
-Not impossible — simply illegible.
-
-# 🔺 How They Relate
-
-Think of the Orders as a **three-tier emergence spectrum**:
-
-| Order       | Foundation              | Mode of Vitality          | Legibility            |
-| ----------- | ----------------------- | ------------------------- | --------------------- |
-| **Biotic**  | Carbon chemistry        | Molecular metabolism      | Fully legible         |
-| **Xenotic** | Alternative chemistry   | Non-carbonic metabolism   | Partially legible     |
-| **Astatic** | Non-chemical substrates | Field or exotic coherence | Barely or not legible |
-
-**Legibility** is the animotic equivalent of “Do we recognize this as alive?”
-
-# 🔧 The Design Philosophy (WMB Core Principle)
-
-**The Animotic Orders classify vitality not by what it looks like,  
-but by the _substrate that makes it possible_.**
-
-- Biotic: vitality **within** chemistry    
-- Xenotic: vitality **through** chemistry    
-- Astatic: vitality **beyond** chemistry    
-
-This lets WMB embrace:
-
-- Earth life    
-- alien-but-plausible life    
-- alien-beyond-recognition vitality  
-    …without forcing them into the same conceptual box.
-
-
-# Kybelic Domains
-
-
-
-# Xenotic
-## ❄️ **Nitrogenic Domain — Example Animotes**
-
-### **Ammoniac (Ammonia-Solvent Life)**
-**Cryo-Annelids** _(fictional)_  
-Flexible, filamentous worm-like animotes in sub-warm NH₃ seas. Use catalytic metal ions to maintain metabolic speed at low temps.
-### **Bihydrazinic (Hydrazine-Solvent Life)**
-**Zhúr Clouds** _(fictional)_  
-Vapor-phase, sheetlike microcolonies that float in hydrazine fogs. Chemical gradients allow slow drift and limited “phototaxis” toward heat.
-### **Bicyanogenetic (Cyanogen-Solvent Life)**
-**Squall-Cysts** _(fictional)_  
-Hard-shelled nodules with internal pressure differentials; crack open explosively during storms to disperse reactive spores.
-### **Binitrosic (Nitric-Oxide Chemistry)**
-**Ferrid Web-Constructors** _(Venus-analogue)_  
-Biofilms that weave iron-oxide strands into mesh to catch chemical aerosols. Analogous to terrestrial microbial mats but airborne.
-
-## 🌑 **Hydrogenic Domain — Example Animotes**
-
-### **Methanic (Methane-Solvent Life)**
-**Pelagids** _(fictional)_  
-Sack-like buoyant colonies that metabolize dissolved hydrocarbons. Use buoyancy cycling as slow locomotion.
-### **Animoheliogenic (Helium-based Ionic Life)**
-**Coronae Wisps** _(fictional)_  
-Ionic, partially coherent animotes living in the warm, moderate-pressure helium layers of gas giants. Not “beings” so much as persistent ionic eddies with memory-like state retention.
-### **Animoreducic (Hydrogen-Reduction Metabolism)**
-**Redox Veils** _(fictional)_  
-Ultra-light, sheetlike organisms suspended in tectonic vent plumes of cold hydrogen worlds. Extract energy directly from reducing gradients.
-
-## 🪨 **Silicate Domain — Example Animotes**
-
-### **Silicothermic (Molten Silicate Life)**
-**Mantle Striders** _(fictional)_  
-Macroscopic convection-riding organisms in magma seas. Maintain structural integrity via crystalline tension lattices.
-### **Silicohydrocarbonic (Hybrid Si–C Life)**
-**Carbosil Lace-Weavers** _(fictional)_  
-High-temp cliff-dwellers that extrude Si–C polymer webs. Use polymer surfaces as catalytic “gardens” to nurture sub-organisms.
-### **Crystalline Parasites**
-**Lattice Phages** _(fictional)_  
-Small, seedlike entities that insert into active silicate lattices and “rewrite” crystal growth patterns.
-## 🛸 **Exotic Domain — Example Animotes**
-
-### **Animofluoric (Fluorine-Solvent Life)**
-**Ferrofluoric Harvesters** _(fictional)_  
-Metal-hungry organisms that dissolve iron-rich rock using fluorine solvent. Heat-loving, mobile “pools” that migrate downslope.
-### **Animophosphoric (Phosphine-metabolic Life)**
-**Glowtides** _(fictional)_  
-Chemiluminescent, tidepool-dwelling animotes that use phosphine redox reactions to power slow movement and colony division.
-### **Animochloric (Chlorine-Solvent Life)**
-**Chlorine Reefers** _(fictional)_  
-Massive, sponge-like macrocolonies forming “reefs” in chlorine oceans. Produce tough chloride polymers analogous to coral skeletons.
+Animotics classifies *substrates of vitality*, not organisms, ecosystems, or biomes.  
+A planet or animote may occupy different positions on each axis simultaneously.  
+No single hierarchy can describe “life” — but together, the three axes give us a stable, coherent framework.
 
 ---
 
+# 🜁 **1. AMEGIC AXIS – The Substrate of Vitality**
 
-Animotics (root field)
-│
-├── Biotic Order (carbon-based vitality)
-│     └── Carbonic Domain
-│         ├── Water-Solvent Province
-│         ├── Supercritical CO₂ Province
-│         └── Hydrocarbon-Solvent Province
-│
-├── Xenotic Order (non-carbonic vitality)
-│     ├── Nitrogenic Domain
-│     │     ├── Ammoniac Province
-│     │     ├── Bihydrazinic Province
-│     │     ├── Bicyanogenic Province
-│     │     └── Binitrosic Province
-│     ├── Hydrogenic Domain
-│     │     ├── Methanic Province
-│     │     ├── Biheliogenic Province
-│     │     └── Animoreducic Province
-│     ├── Silicate Domain
-│     │     ├── Silicothermic Province
-│     │     ├── Silicohydrocarbonic Province
-│     │     └── Crystalline Parasitics
-│     └── Exotic Domain
-│           ├── Animofluoric Realm
-│           ├── Animophosphoric Realm
-│           └── Animochloric Realm
-│
-└── Astatic Order (incipient, extinct, proto-, or failed-vitality)
+The Amegic axis describes **what kind of medium** supports vitality or lifelike processes.
+
+## Levels of Amegicity
+In natural language:
+
+- **Minamegic:** Barely capable of supporting vitality (extremal, marginal, precarious)
+- **Mesamegic:** Capable of supporting robust vitality under moderate constraints
+- **Maxamegic:** Strong support for complex vitality across wide conditions
+- **Melamegic:** Exceptional vitality-support; super-amegic environments
+
+These do *not* assume Earthlike biochemistry. They measure the **capacity** of an environment to sustain organized, persistent, energy-cycling structures.
+
+---
+
+# 🌿 **The Biotic Order (COH-amegic)**
+
+> **Substrate:** Carbon–Oxygen–Hydrogen molecular systems (“COH”)  
+> **Distinction:** The only Amegic class capable of supporting Terran-type biochemistry.
+
+Biotics inherit the COH constraints:
+
+- liquid-phase solvent  
+- midrange temperatures  
+- silicate–metal worlds  
+- stable atmospheric cycling  
+
+The Biotic Order contains *all* Terric, Geotic, Gaean, and Kybelic planemons.
+
+### **Nested Anthropic Subdivisions**
+These subdivisions classify not the substrate, but **human physiological compatibility**:
+
+1. **Terric Domain** — mesanthropic  
+   - COH-compatible, parahabitable to humans  
+   - breathable or modifiable atmosphere likely  
+   - gravity tolerable (0.68–1.50g)  
+   - mass 0.40–2.35⨁  
+
+2. **Geotic Realm** — maxanthropic  
+   - broadly Earthlike  
+   - stable, moderate environments  
+   - gravity 0.76–1.40g  
+
+3. **Gaean Province** — melanthropic  
+   - “shirtsleeve” human worlds  
+   - gravity 0.90–1.10g  
+   - radius 0.74–1.33⨁  
+   - the planetary sweet spot
+
+### **Kybelic Domain — melamegic**
+A parallel Biotic domain:
+- high-mass COH worlds (1.0–2.0⨁)  
+- gravity trending high (1.10–1.40g)  
+- extremely robust biospheric potential  
+- *not* necessarily human-friendly  
+
+**Kybelics are morphotically Terric but animotically lateral** — a distinct branch, not a Terric subclass.
+
+---
+
+# 🧪 **2. XENOTIC ORDER — Non-COH Amegic Substrates**
+
+> **Substrate:** Non-COH chemistries capable of sustaining organized, energy-cycling structures.
+
+Xenotics include:
+- Ammonia-based life  
+- Methanogenic or hydrocarbon metabolisms  
+- Fluorine or halogen solvents  
+- Supercritical silicate-melt ecologies  
+- Crystalline or ionic lattice intelligences  
+
+### Physical Envelope
+Xenotics **do not share a universal physical range** the way Biotics do.  
+Their parameters can vary wildly:
+
+
+But these are descriptive, not prescriptive.  
+Every xenotic *domain* has its own chemophysical requirements.
+
+### Xenotic Domains
+- **Nitrogenic Domain**  
+- **Hydrogenic Domain**  
+- **Silicate Domain**  
+- **Exotic Domain**  
+(each with their own realms and provinces)
+
+Xenotics can be:
+- minamegic  
+- mesamegic  
+- maxamegic  
+- melamegic  
+
+Depending on how supportive their environments are for *their own* animochemistry.
+
+---
+
+# 🔱 **3. ASTATIC ORDER — Field-Based Animota**
+
+> **Substrate:** Plasma, magnetic fields, gravitational wells, or quantum structures.
+
+Astatics are the animota that:
+- have **no fixed mass**  
+- may have **no meaningful radius**  
+- may lack **surface gravity or escape velocity entirely**  
+- are governed by **field coherence**, not molecular chemistry  
+
+Astatics **do not obey duromonic equations**.
+
+Domains include:
+- **Noetheric Domain** (symmetry-coherent structures)  
+- **Plasmic Domain**  
+- **Magnetodyne Domain**  
+- **Cryolectric Domain**  
+- **Gravitoherent Domain**  
+- **Neutrinofluent Domain**  
+- **Planck Domain**  
+- **Animulsic Domain**  
+
+These are not “life” in the Terran sense.  
+They are **lifelike processes** emerging from:
+- plasma circulation  
+- magnetic flux architectures  
+- gravitational saddlepoints  
+- quantum-coherent states  
+- degenerate-matter boundary conditions  
+
+They are *fully animotic* but **not amegic in the COH sense**.
+
+---
+
+# 🌐 **4. The Dual-Axis Clarification**
+
+To prevent confusion:
+
+### **Amegic Axis** — What substrate can support vitality?
+- COH (Biotic)
+- Xenochemical (Xenotic)
+- Field-coherent (Astatic)
+
+### **Anthropic Axis** — How human-compatible is a COH-world?
+- minanthropic  
+- mesanthropic  
+- maxanthropic  
+- melanthropic  
+
+The anthro-axis **only applies to Biotics**.
+
+### **Morphotic Axis** — What kind of physical body/medium houses the animote?
+- Duromons (solid worlds)  
+- Transomons (brown dwarfs)  
+- Fusomons (stars)  
+- Peromons (supermassive)  
+- Astatics (non-solid, non-duromonic)  
+
+These axes are independent.
+
+A Kybelic world is:
+- Biotic (COH-amegic)  
+- melamegic (super-supportive of COH vitality)  
+- **but typically mesanthropic or minanthropic**  
+- morphotically Terric  
+
+A Gaean world is:
+- Biotic  
+- melanthropic  
+- mesamegic  
+- morphotically Terric  
+
+A Nitrogenic ammonia world might be:
+- Xenotic  
+- non-anthropic  
+- maxamegic  
+- morphotically Terric or Mesomonic  
+
+A magnetic auroral entity might be:
+- Astatic  
+- non-am egic  
+- melamegic (in its own domain)  
+- non-morphotic  
+
+---
+
+# 🧭 **5. The Canonical Animotics Tree (2025 Edition)**
+
+- Biotic Order (minanthropic)
+	- Terric Domain (mesanthropic)
+		- Geotic Realm (maxanthropic)
+			- Gaean Province (melanthropic)
+				- Bacterial Kingdom
+				- Eukaryotic Kingdom
+				- Archaean Kingdom
+	- Kybelic Domain (melamegic)
+- Xenotic Order
+	- Nitrogenic Domain
+		- Ammonia-Solvent Life
+		- Hydrazine-Solvent Life
+		- Cyanogen-Solvent Life
+		- Nitric-Oxide Chemistry
+	- Hydrogenic Domain
+		- Methane-Solvent Life
+		- Helium-based Ionic Life
+		- Hydrogen-Reduction Metabolism
+	- Silicate Domain
+		- Molten Silicate Life
+		- Hybrid Si–C Life
+		- Crystalline Parasites
+	- Halogenic Domain
+		- Fluorine-Solvent Life
+		- Phosphine-metabolic Life
+		- Chlorine-Solvent Life
+- Astatic Order
+	- Noetheric Domain
+		- Penrose Realm
+		- Topological Realm
+			- Witten Province
+	- Plasmic Domain
+		- Coronal Realm
+		- Arcbound Realm
+		- Auroral Realm
+		- Prominence Realm
+	- Magnetodyne Domain
+		- Fluxline Realm
+		- Syncline Realm
+		- Magnetotidal Realm
+		- Dipolar Realm
+			- Monopolar Province
+			- Flux-Cusp Province
+			- Reconnection Province
+			- Polar Funnel Province
+	- Cryolectric Domain
+		- Superfluidic Realm
+		- Condensate Realm
+		- Lattice-Coherent Realm
+	- Gravitoherent Domain
+		- Saddlepoint Realm
+			- L1-Saddle Province
+			- Lagrange Province
+		- Tidal Shear Realm
+			- Roche Province
+		- Microwell Realm
+			- Wormhole Province
+	- Neutrinofluent Domain
+		- Oscillant Realm
+		- Cascadent Realm
+		- Shadow Realm
+	- Planck Domain
+		- Quantumherent Realm
+			- Superpositional Province
+			- Feynmann Province
+			- Entanglement Province
+			- Qubitonic Province
+	- Animulsic Domain
+		- Degenerate Realm
+			- Fermi Province
+			- Heisenberg Province
+			- Quarkyonic Province
+		- Schwarzschild Realm
+			- Einstein Province
+			- Horizon Province
+			- Photon-Sphere Province
+			- Falling-Light Province
+			- Hawking Province
+			- Conformal Province
+		- Kerronic Realm
+			- Ergospheric Province
+			- Frame-Drag Province
+
+
+---
+
+# 🏁 **Summary for WMB Users**
+
+- **Biotic = COH-life substrate**  
+- **Terric–Geotic–Gaean = human-comfort axis within COH-life**  
+- **Kybelic = superhabitable COH-worlds (not a comfort class)**  
+- **Xenotic = all non-COH chemistries capable of vitality**  
+- **Astatic = all field, plasma, quantum, and non-matter animota**  
+- **Amegic terms (min/mes/max/melamegic)** measure vitality potential  
+- **Anthropic terms (min/mes/max/melanthropic)** measure human suitability  
+
+Everything is now cleanly separated, fully canonical, and future-proof.
+
