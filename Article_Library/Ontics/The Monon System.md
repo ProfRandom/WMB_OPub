@@ -1,3 +1,14 @@
+---
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: <%* tp.file.creation_date("YYYY-MM-DD") %>
+updated: <%tp.date.now("YYYY-MM-DD") %>
+summary: ""
+---
+ 
+
 # 🌍 The Monon System
 
 A monon is any discrete, self-coherent natural object whose identity arises from a dominant physical regime — whether chemical, mechanical, gravitational, degeneracy-based, fusion-based, or relativistic.

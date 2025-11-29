@@ -1,11 +1,14 @@
 ---
-title: Stellamons -- Habitable Zones of Giant Stars
-tags:
-  - stellamon
-  - stars
-  - habitable
-date: 2025-11-27
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: <%* tp.file.creation_date("YYYY-MM-DD") %>
+updated: <%tp.date.now("YYYY-MM-DD") %>
+summary: ""
 ---
+ 
+
 # 'Habitable Zones' of Giant Stars
 
 Remember that although the habitable zone limits are *calculated* using the luminosity of the star, they are *measured* in distance from its **center of mass**. Thus, a giant star like Aldebaran, with a radius of $44.2$⊙ and a luminosity of $439$⊙, will have much larger fundamental orbits than the Sun.

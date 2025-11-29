@@ -1,3 +1,14 @@
+---
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: 2025-11-28
+updated: 2025-11-28
+summary: ""
+---
+ 
+
 # Relating Stellar Ages to Appearance and Evolution of Life
 
 The earliest fossils of complex multicellular life appear about **600 million years ago**, and the earliest fossils widely accepted as animals are from the phylum _Cnidaria_† — marine species that show up in the record around **580 million years ago** during the late Ediacaran, just before the Cambrian Explosion. Taking the accepted age of the Earth as **4.56 billion years**, this means Earth was about **4.0 billion years old** (~88% of its present age) before complex life began to appear.

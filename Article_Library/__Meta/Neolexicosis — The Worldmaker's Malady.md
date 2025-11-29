@@ -1,12 +1,14 @@
 ---
-title: Neolexicosis — The Worldmaker's Malady
-tags:
-  - GEWE
-  - sanc
-  - anthropic
-  - mediocritic
-concepts: neolex, exolex, insulex
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: 2025-11-28
+updated: 2025-11-28
+summary: ""
 ---
+ 
+
 # 🧩 The Three Lexical Orders of WMB
 
 WMB draws its vocabulary from three distinct “lexical orders,” each reflecting a different relationship between language and worldmaking intent. This taxonomy explains *how* terms enter the corpus and *why* they take the forms they do.

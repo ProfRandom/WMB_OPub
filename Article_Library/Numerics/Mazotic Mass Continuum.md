@@ -1,37 +1,14 @@
 ---
-title: Mazotic Mass Continuum
-summary: Defines symbolic and numerical mass intervals relative to Earth mass (⨁), including the microterran subscale for small-mass bodies.
-domain:
-category: nomenclature
-tags:
-  - mazotic
-  - mass
-  - terran
-  - duromon
-  - monon
-  - microterran
-  - subscale
-  - interval
-  - metric
-  - notation
-  - reference
-  - ontic
-vocabulary:
-  - terran
-  - microterran
-  - duromon
-  - scale
-  - mazotic-domain
-  - duromon
-  - monon
-updated: 2025-11-17
-status: canonical
-version: 1.1
-related:
-contributors:
-  - M. Conrad
-source:
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: 
+updated: 2025-11-28
+summary: ""
 ---
+ 
+
 # Mazotic Mass Continuum
 
 ## Introduction

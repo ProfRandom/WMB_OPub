@@ -1,12 +1,14 @@
 ---
-title: Stars and Spectral Classes
-tags:
-  - stars
-  - stellamon
-  - spectral_class
-  - spectral_type
-date: 2025-11-27
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: <%* tp.file.creation_date("YYYY-MM-DD") %>
+updated: <%tp.date.now("YYYY-MM-DD") %>
+summary: ""
 ---
+ 
+
 # Stellar Parametrics
 
 Stellamons (stars), like duromons, have a basic set of parameters that describe them:

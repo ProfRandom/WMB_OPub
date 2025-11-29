@@ -1,9 +1,14 @@
 ---
-title: The Euclidean Algorithm
-tags:
-  - math
-concepts: Least Common Multiple, Greatest Common Divisor, Remainder, Modulo Arithmatic
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: <%* tp.file.creation_date("YYYY-MM-DD") %>
+updated: <%tp.date.now("YYYY-MM-DD") %>
+summary: ""
 ---
+ 
+
 # The Euclidean Algorithm
 
 The Euclidean Algorithm provides an elegant and efficient (if somewhat involved) way to compute the greatest common divisor (GCD) of two integers.  This is especially useful for simplifying ratios or finding integer relationships when work with synodic systems

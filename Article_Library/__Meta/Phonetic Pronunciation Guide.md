@@ -1,21 +1,16 @@
 ---
-title: Meta 0 — WCB Pronunciation Guide (Architect’s Appendix)
-summary: Provides a pronunciation key for WCB neolexes and transliterations, establishing consistent phonetic conventions across the Canon.
-domain: meta
-category: appendix
-function: meta
-tags: [language, pronunciation, phonetic, appendix]
-vocabulary: [pronunciation, phoneme, transliteration, neolex]
-updated: 2025-11-01
-reviewed: null
-status: canonical
-version: 1.0
-related: [Meta 0 — Article Structure and Editing, Architect’s Appendix]
-contributors: [M. Conrad]
-license: "CC BY-SA 4.0"
-source: ""
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: 2025-11-28
+updated: 2025-11-28
+summary: ""
 ---
-# WCB Pronunciation Guide
+ 
+
+
+# WMB Pronunciation Guide
 
 | Symbol     | Sound                | Example                             |
 | ---------- | -------------------- | ----------------------------------- |

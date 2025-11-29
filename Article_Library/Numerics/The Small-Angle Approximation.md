@@ -1,9 +1,14 @@
 ---
-title: The Small-Angle Approximation
-tags:
-  - math
-concepts: Small-Angle Approximation, Apparent Diameter, Angular Size
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: <%* tp.file.creation_date("YYYY-MM-DD") %>
+updated: <%tp.date.now("YYYY-MM-DD") %>
+summary: ""
 ---
+ 
+
 ## The Small Angle Approximation
 When the apparent angular size ($\theta$) of an object (or the distance between two objects) in the sky is small — typically less than 10° — the sine and tangent of $\theta$ are nearly equal to $\theta$ itself when measured in radians:
 

@@ -1,9 +1,14 @@
 ---
-title: Precision Inference Rules
-tags:
-  - math
-concepts: Precision, Significant Digits, Significance, Decimals
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: <%* tp.file.creation_date("YYYY-MM-DD") %>
+updated: <%tp.date.now("YYYY-MM-DD") %>
+summary: ""
 ---
+ 
+
 # Precision Inference Rule #1
 In enumerations of values, all numbers should be shown to the decimal precision of the most precise member of the set.
 

@@ -1,9 +1,14 @@
 ---
-title: The Naked-Eye Limit of Object Visibility
-tags:
-  - math
-concepts: Naked-Eye, Absolute Magnitude, Apparent Magnitude, Distance Modulus, Magnitude, Luminosity, Albedo
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: <%* tp.file.creation_date("YYYY-MM-DD") %>
+updated: <%tp.date.now("YYYY-MM-DD") %>
+summary: ""
 ---
+ 
+
 # The Naked-Eye Limit of Object Visibility
 
 Even without a telescope, the human eye is a sensitive instrument.  

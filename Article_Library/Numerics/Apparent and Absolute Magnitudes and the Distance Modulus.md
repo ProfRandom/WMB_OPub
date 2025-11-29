@@ -1,9 +1,14 @@
 ---
-title: Apparent and Absolute Magnitudes and the Distance Modulus
-tags:
-  - math
-concepts: Apparent Magnitude, Absolute Magnitude, Distance Modulus, Magnitude, Luminosity
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: 2025-11-28
+updated: 2025-11-28
+summary: ""
 ---
+ 
+
 # Stellar Magnitude and The Distance Modulus
 You've probably encountered the term _magnitude_ in relation to stars before, perhaps even heard mention of the two types: _absolute magnitude (M)_ and _apparent magnitude (m)_.  Simply put, a star's **absolute magnitude** is how visibly bright it actually is, and its **apparent magnitude** is how bright it appears.
 

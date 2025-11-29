@@ -1,9 +1,16 @@
 ---
-title: Number Range Notation
-tags:
-  - math
-concepts: inclusive range, exclusive range
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: 
+updated: 2025-11-28
+summary: ""
 ---
+ 
+
+ 
+
 # Number Range Notation
 
 WMB employs a compressed symbolic notation for expressing range relationships, logical connections, and modal constraints. This keeps all operations in a consistent visual and syntactic format. The sections below define these conventions in both rendered and plaintext forms (when needed).

@@ -1,12 +1,14 @@
 ---
-title: Micromon Morphotics
-tags:
-  - morphotic
-  - morphotype
-  - micromon
-  - microterran
-date: 2025-11-23
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: 2025-11-28
+updated: 2025-11-28
+summary: ""
 ---
+ 
+
 # Micromon Morphotics
 Micromons (Small Stellar System Bodies; S³B) are distinct from planemons (planetary-mass objects) and stellamons (stellar-mass objects), such as asteroids, comets, Trojans, KBOs, TNOs, etc.  This classification provides clear compositional and structural categories for micromon-scale bodies in stellar systems.
 

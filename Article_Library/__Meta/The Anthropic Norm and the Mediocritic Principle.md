@@ -1,19 +1,14 @@
 ---
-title: 🌌 The Anthropic Norm & the Mediocritic Principle of State
-summary: Defines the Anthropic Norm — the modal, not mean, foundation of cosmic and worldmaking coherence — and the Mediocritic Principle that governs the distribution of stable states in the universe.
-tags:
-  - meta
-  - cosmo
-  - philosophy
-  - anthropic
-  - norm
-  - mediocritic
-date: 2025-11-13
-status: canonical
-version: 1
-related:
-  - The SANC Philosophy
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: 2025-11-28
+updated: 2025-11-28
+summary: ""
 ---
+ 
+
 
 > [!axiom] **The Anthropic Norm**  
 > The universe sustains coherence not through extremes, but through the dominance of median, persistent states of matter and energy.  

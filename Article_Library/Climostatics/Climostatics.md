@@ -1,3 +1,14 @@
+---
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: 2025-11-28
+updated: 2025-11-28
+summary: ""
+---
+ 
+
 # WMB Global Biomic Lexicon Ordered Cold → Hot (Latitudinal Gradient)
 
 ## ❄️ COLD / HIGH-LATITUDE ZONE

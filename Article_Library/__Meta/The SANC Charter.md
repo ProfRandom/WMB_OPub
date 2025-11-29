@@ -2,8 +2,6 @@
 title: 🔑 The SANC Charter
 summary: Defines the four operational forms of SANC — Science-Adjacent, Notationally Clear, and Self-Adjusting — the core methodological philosophy of WCB.
 tags:
-  - sanc
-  - GEWE
 date: 2025-11-13
 status: canonical
 version: 1

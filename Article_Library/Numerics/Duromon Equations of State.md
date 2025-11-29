@@ -1,17 +1,14 @@
 ---
-title: Planemon Equations of State
-tags:
-  - planemon
-  - mass
-  - radius
-  - escape_velocity
-  - surface_gravity
-  - gravity
-  - density
-  - equations
-  - equations_of_state
-date: 2025-11-20
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: 2025-11-28
+updated: 2025-11-28
+summary: ""
 ---
+ 
+
 # Duromon Equations of State
 
 The Duromon Equations of State can be arranged into a fully symmetric algebraic network: any two parameters determine the other three. This is mathematically true and occasionally useful — especially for inversion problems or exotic boundary cases.

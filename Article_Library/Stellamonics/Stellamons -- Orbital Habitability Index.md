@@ -1,13 +1,14 @@
 ---
-title: Stellamons -- Orbital Habitability Index
-tags:
-  - index
-  - habitability
-  - orbit
-  - stellamon
-  - stars
-date: 2025-11-27
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: <%* tp.file.creation_date("YYYY-MM-DD") %>
+updated: <%tp.date.now("YYYY-MM-DD") %>
+summary: ""
 ---
+ 
+
 # Orbital Habitability Index (OHI)
 
 The Orbital Habitability Index (OHI) is a measure of how likely a planemon is to be habitable based on its orbit, with the nucleal orbit assumed to be 100% habitable and orbits closer-in and farther-out becoming progressively less habitable. It is calculated using one of two equations, depending on whether the orbit in question is *intranucleal* or *extranucleal*:

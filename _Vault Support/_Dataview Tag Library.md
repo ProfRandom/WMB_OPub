@@ -1,9 +1,8 @@
 ---
-Aliases:
-  - "#math"
 title: Dataview Tag Library
 date: 2025-11-19
 ---
+
 ```dataview
 TABLE WITHOUT ID tag AS "Tag"
 FROM ""

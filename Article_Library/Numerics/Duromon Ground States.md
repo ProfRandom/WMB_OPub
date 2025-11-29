@@ -1,14 +1,14 @@
 ---
-title: Duromon Ground States
-tags:
-  - planemon
-  - gravity
-  - surface_gravity
-  - escape_velocity
-  - mass
-  - density
-date: 2025-11-20
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: 2025-11-28
+updated: 2025-11-28
+summary: ""
 ---
+ 
+
 # Duromon Ground States
 When any single duromon parameter is normalized to $1$, the remaining variables collapse into simple power-law relationships. These “ground states” reveal the symmetry structure of the duromon system: which quantities scale together, which invert each other, and which collapse into equality under specific constraints. Each case below assumes one core variable is set to unity and derives the resulting canonical forms for the others.
 

@@ -1,13 +1,16 @@
 ---
-title: Number Notation
-tags:
-  - metric
-  - prefix
-  - mass_domain
-  - engineering
-  - notation
-  - math
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: 
+updated: 2025-11-28
+summary: ""
 ---
+ 
+
+ 
+
 # Number Notation
 ## Prefixes
 WMB uses the standard SI prefixes ([Metric prefix](https://en.wikipedia.org/wiki/Metric_prefix)) for number magnitudes:

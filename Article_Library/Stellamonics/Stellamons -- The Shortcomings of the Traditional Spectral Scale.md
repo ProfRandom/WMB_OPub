@@ -1,6 +1,14 @@
 ---
-aliases:
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: <%* tp.file.creation_date("YYYY-MM-DD") %>
+updated: <%tp.date.now("YYYY-MM-DD") %>
+summary: ""
 ---
+ 
+
 # The Shortcomings of the Traditional Spectral Scale
 
 The classWMBl stellar spectral sequence — O, B, A, F, G, K, M — originated as a cataloging system based on observed absorption lines in starlight. It was never designed to be linear, complete, or even particularly rational. And it shows.

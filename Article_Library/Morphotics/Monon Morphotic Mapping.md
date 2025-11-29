@@ -1,22 +1,14 @@
 ---
-title: Duromon Morphotic Mapping
-tags:
-  - morphotic
-  - Morphoform
-  - nanomon
-  - micromon
-  - minimon
-  - midimon
-  - mesomon
-  - planemon
-  - stellamon
-  - peromon
-  - supramon
-  - ultramon
-  - hypermon
-  - transomon
-date: 2025-11-23
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: 2025-11-28
+updated: 2025-11-28
+summary: ""
 ---
+ 
+
 # Monon Morphotic Mapping
 **Monon Morphotic Mapping** describes *where* morphotypes become meaningful across the mass–complexity continuum of monons. It does **not** define the morphotypes themselves—those live in **Duromon Morphotics**. Instead, this article maps the transitions between monon classes and identifies the regimes in which Lithiform, Rheiform, Aeriform, and Ulsiform structures can arise.
 ## Overview

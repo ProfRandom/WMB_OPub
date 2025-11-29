@@ -1,3 +1,14 @@
+---
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: 2025-11-28
+updated: 2025-11-28
+summary: ""
+---
+ 
+
 # Justifying Parahabitable Parameter Limits
 
 This envelope is not intended to describe strict Gaean-level habitability. Instead, it marks a **flexible but centered band** in which human life can be sustained or engineered, and where ecological and technological systems remain stable without extreme compensatory measures. It reflects not only biological tolerance but **civilizational viability**—balancing survivability, mobility, infrastructure, and long-term planemon stability.

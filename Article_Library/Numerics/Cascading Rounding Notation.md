@@ -1,9 +1,14 @@
 ---
-title: Cascading Rounding Notation
-tags:
-  - math
-concepts: Rounding
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: 2025-11-28
+updated: 2025-11-28
+summary: ""
 ---
+ 
+
 # 1. Purpose & Scope
 
 **Cascading Rounding Notation (CRN)** is a lightweight, human-friendly method

@@ -1,9 +1,14 @@
 ---
-title: Linear Equations
-tags:
-  - math
-concepts: Point-Slope, Slope-Intercept,
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: 
+updated: 2025-11-28
+summary: ""
 ---
+ 
+
 ## 📈 Point–Slope of a Line
 Given two points:
 

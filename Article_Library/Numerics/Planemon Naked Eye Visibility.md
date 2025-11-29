@@ -1,9 +1,14 @@
 ---
-title: Planemon Naked Eye Visibility
-tags:
-  - albedo
-  - planemon
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: <%* tp.file.creation_date("YYYY-MM-DD") %>
+updated: <%tp.date.now("YYYY-MM-DD") %>
+summary: ""
 ---
+ 
+
 # Naked-Eye Visibility
 Different sized non-luminous bodies with different albedos are easier or harder to see with the naked eye depending on distance from the illuminating source, the source's brightness, and the distance between the reflecting object and the observer. This is relationship is captured in:
 

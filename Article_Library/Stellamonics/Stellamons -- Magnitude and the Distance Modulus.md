@@ -1,13 +1,14 @@
 ---
-title: Stellamons -- Magnitude and the Distance Modulus
-tags:
-  - stars
-  - stellamon
-  - magnitude
-  - absolute_magnitude
-  - apparent_magnitude
-  - luminosity
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: <%* tp.file.creation_date("YYYY-MM-DD") %>
+updated: <%tp.date.now("YYYY-MM-DD") %>
+summary: ""
 ---
+ 
+
 # Stellar Magnitude and The Distance Modulus
 You've probably encountered the term *magnitude* in relation to stars before, perhaps even heard mention of the two types: *absolute magnitude (M)* and *apparent magnitude (m)*. Simply put, a star's **absolute magnitude** is how visibly bright it actually is, and its **apparent magnitude** is how bright it appears.
 ## The History of Magnitudes

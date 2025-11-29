@@ -1,13 +1,14 @@
 ---
-title: The Ontic Classes
-tags:
-  - ontic
-  - duromon
-  - fusomon
-  - peromon
-  - morphotype
-date: 2025-11-19
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: <%* tp.file.creation_date("YYYY-MM-DD") %>
+updated: <%tp.date.now("YYYY-MM-DD") %>
+summary: ""
 ---
+ 
+
 # The Ontic Classes
 
 All physical bodies (_monons_) in the WMB framework are described along two orthogonal axes:

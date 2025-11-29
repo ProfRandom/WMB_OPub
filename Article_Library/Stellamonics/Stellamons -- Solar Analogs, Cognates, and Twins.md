@@ -1,12 +1,14 @@
 ---
-title: Solar Analogs, Cognates, and Twins
-tags:
-  - analog
-  - cognate
-  - twin
-  - stellamon
-  - stars
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: <%* tp.file.creation_date("YYYY-MM-DD") %>
+updated: <%tp.date.now("YYYY-MM-DD") %>
+summary: ""
 ---
+ 
+
 # Solar Analogs, Cognates, and Twins
 
 The published literature often speaks of *solar analog* stars, but tends to be distressingly vague about exactly what the term means. Generally speaking, it means *a star very much like the Sun*.  For our purposes we have our own definitions, based on *orbits* and the animozones. But, first, a survey of existing terminology.

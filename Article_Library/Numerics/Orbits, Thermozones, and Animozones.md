@@ -1,11 +1,13 @@
 ---
-title: Orbits, Thermozones, and Animozones
-tags:
-  - stars
-  - orbit
-  - nucleal
-  - perannual
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: <%* tp.file.creation_date("YYYY-MM-DD") %>
+updated: <%tp.date.now("YYYY-MM-DD") %>
+summary: ""
 ---
+ 
 
 # The Nucleal Orbit
 The average distance from Earth to the Sun — about $1.496 \times 10^8$ km — is defined as one **astronomical unit (AU)**. Due to Earth’s slightly elliptical orbit, this distance varies by approximately ±2.5 million km between Earth's closest approach to and farthest distance from the Sun.

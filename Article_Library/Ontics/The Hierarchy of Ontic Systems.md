@@ -1,27 +1,14 @@
 ---
-title: The Hierarchy of Ontic Systems
-summary: Defines the canonical suffixes –mon, –cule, –lex, and –gate as a hierarchy of coherence from singular bodies to vast aggregates.
-domain: Mononics
-category: Framework
-tags:
-  - monon
-  - cule
-  - lex
-  - gate
-  - ontology
-  - systems
-  - hierarchy
-updated: 2025-10-25
-status: canonical
-version: 1
-related:
-  - Monons 1 — Framework and Equations
-  - Binaries 2 — Star Systems
-  - Meta 1 — Principles
-contributors:
-  - M. Conrad
-source: https://gitlab.com/WMBcanon/mononics
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: <%* tp.file.creation_date("YYYY-MM-DD") %>
+updated: <%tp.date.now("YYYY-MM-DD") %>
+summary: ""
 ---
+ 
+
 
 # 🪐 The Hierarchy of Mononic Systems
 

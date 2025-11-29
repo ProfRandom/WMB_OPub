@@ -1,13 +1,14 @@
 ---
-title: Monon Morphotics
-tags:
-  - monon
-  - morphotic
-  - morphotype
-  - somatype
-  - somatic
-date: 2025-11-23
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: 2025-11-28
+updated: 2025-11-28
+summary: ""
 ---
+ 
+
 # Duromon Morphotics
 **Duromon Morphotics** defines the structural morphotypes and somatypes expressed by duromonic bodies—objects large enough to support differentiation, sustained internal energetics, and coherent phase domains.
 

@@ -1,19 +1,14 @@
 ---
-title: Gravitomon Series Mass Domains
-tags:
-  - micromon
-  - midimon
-  - minimon
-  - planemon
-  - intermon
-  - stellamon
-  - peromon
-  - hypermon
-  - ultramon
-  - mesomon
-  - varymon
-date: 2025-11-19
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: <%* tp.file.creation_date("YYYY-MM-DD") %>
+updated: <%tp.date.now("YYYY-MM-DD") %>
+summary: ""
 ---
+ 
+
 # Varymon Series
 **Varymon Series** are tiered groupings of **gravity-dominated monons** arranged by characteristic **mass domain** and **structural regime**. Each series spans a range of magnitudes within which bodies share broadly similar self-gravity, internal structure, and formation behavior.
 

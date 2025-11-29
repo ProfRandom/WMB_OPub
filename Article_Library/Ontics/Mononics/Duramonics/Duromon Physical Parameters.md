@@ -1,16 +1,14 @@
 ---
-title: Duromon Physical Parameters
-tags:
-  - duromon
-  - parameter
-  - mass
-  - radius
-  - escape_velocity
-  - density
-  - gravity
-  - surface_gravity
-date: 2025-11-20
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: <%* tp.file.creation_date("YYYY-MM-DD") %>
+updated: <%tp.date.now("YYYY-MM-DD") %>
+summary: ""
 ---
+ 
+
 # Duromon Physical Parameters
 
 m := (0.000001 ·· 4131.4)⨁ 

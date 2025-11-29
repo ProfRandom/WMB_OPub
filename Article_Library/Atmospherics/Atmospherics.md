@@ -1,3 +1,14 @@
+---
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: 2025-11-28
+updated: 2025-11-28
+summary: ""
+---
+ 
+
 # **Atmospherics: Planetary Atmospheric Behavior States**
 
 Atmospherics describe **how a planet’s atmosphere behaves**, independent of its Climostatic (biomic) state. These modifiers characterize storminess, circulation energy, and the general _temperament_ of the weather.

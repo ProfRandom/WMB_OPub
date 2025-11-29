@@ -1,17 +1,14 @@
 ---
-title: Stellamons -- Equations of State
-tags:
-  - stellamon
-  - stars
-  - equations
-  - mass
-  - radius
-  - luminosity
-  - lifetime
-  - temperature
-  - kelvin
-date: 2025-11-27
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: <%* tp.file.creation_date("YYYY-MM-DD") %>
+updated: <%tp.date.now("YYYY-MM-DD") %>
+summary: ""
 ---
+ 
+
 # Stellamon Parameters
 A regularized set of empirical relationships can be used to estimate any stellar parameter from the others.
 

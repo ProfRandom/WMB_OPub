@@ -1,3 +1,16 @@
+---
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: 2025-11-28
+updated: 2025-11-28
+summary: ""
+---
+ 
+
+
+
 1. Meta
 2. Ontics
 3. Metrics

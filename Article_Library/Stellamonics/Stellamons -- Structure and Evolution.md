@@ -1,9 +1,14 @@
 ---
-title: Stellamons -- Structure and Evolution
-tags:
-  - stars
-date: 2025-11-27
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: <%* tp.file.creation_date("YYYY-MM-DD") %>
+updated: <%tp.date.now("YYYY-MM-DD") %>
+summary: ""
 ---
+ 
+
 # 🌈 Spectral Branch (Temperature / Spectrum)
 
 Focus: **What the star *is*, by surface temperature and spectral features**

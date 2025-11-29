@@ -1,10 +1,14 @@
 ---
-Title: Ellipse Geometry Solver
-tags:
-  - math
-  - meta
-  - sanc
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: <%* tp.file.creation_date("YYYY-MM-DD") %>
+updated: <%tp.date.now("YYYY-MM-DD") %>
+summary: ""
 ---
+ 
+
 # 🧭 Ellipse Geometry Solver
 
 This reference provides a complete algebraic toolkit for solving any ellipse — geometric or orbital — from any two independent parameters. All terms match the diagram above.  
