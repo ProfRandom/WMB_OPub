@@ -99,3 +99,5 @@ When the conceptual load exceeds the expressiveness of ordinary terminology, **n
 
 
 [^1]: Greek: *néo-* “new” + *léxis* “word.”
+
+[[Foundations]]

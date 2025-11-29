@@ -7,6 +7,19 @@ created: 2025-11-28
 updated: 2025-11-28
 summary: ""
 ---
+> [!quote]
+> > “The universe is not only stranger than we imagine;
+> > it is stranger than we are able to imagine.”
+> > — J. B. S. Haldane (paraphrased for modern audiences)
+> > 
+
+> > Wimby adopts this as a principle.
+> > 
+> > We map the parts we can understand, we scaffold the parts we can use, and we leave the rest open to invention.
+> > 
+> > Worldmaking thrives not by pretending the cosmos is simple, but by navigating what can be known — and playing generously with the rest.
+
+---
 # 🧩 GEWE — Good Enough for Worldmaking Efforts
 
 ## 🧩 Definition  
@@ -105,3 +118,8 @@ When story, character, emotion, theme, symbolism, cadence, or gameplay would suf
 
 Let [[Cascading Rounding Notation]] handle the numeric honesty.  
 Let **GEWE** protect the narrative truth.
+
+But remember that though you are the first-and-final arbiter, you still have a responsibility to your milieu.  Check out [[To GEWE or Not To GEWE]] for some advice.
+
+
+[[Foundations]]

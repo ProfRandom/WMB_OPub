@@ -63,14 +63,7 @@ Everything in Phase I of Wimby is meant to give you:
 
 You can read Wimby front to back, or wander through it like a forest of ideas — every page stands alone, but each link leads deeper.
 
-> [!important]
-> “The universe is not only stranger than we imagine;
-> it is stranger than we are able to imagine.”
-> — J. B. S. Haldane (paraphrased for modern audiences)
-> 
-> Wimby adopts this as a principle.
-> We map the parts we can understand, we scaffold the parts we can use, and we leave the rest open to invention.
-> Worldmaking thrives not by pretending the cosmos is simple, but by navigating what can be known — and playing generously with the rest.
-
 **Start where you like.  
 The world you make will take you the rest of the way.**
+
+[[Foundations]]

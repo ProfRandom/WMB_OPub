@@ -1,0 +1,154 @@
+/* ============================================================
+   SIDEBAR SUBTITLE
+   ============================================================ */
+.site-body-left-column-site-name::after {
+  content: "A System for Building Coherent Fictional Fictional Worlds";
+  display: block;
+  font-size: 0.85em;
+  opacity: 0.8;
+  margin-top: 4px;
+  margin-left: 4px;
+}
+
+/* ============================================================
+   HEADER COLORS (PUBLISH)
+   BLACK in light mode / WHITE in dark mode
+   ============================================================ */
+
+:root {
+  --wmb-header-light: #000000;
+  --wmb-header-dark: #FFFFFF;
+}
+
+html.theme-light, html.theme-light body {
+  --wmb-header-color: var(--wmb-header-light);
+}
+
+html.theme-dark, html.theme-dark body {
+  --wmb-header-color: var(--wmb-header-dark);
+}
+
+.page-container .markdown-rendered h1,
+.page-container .markdown-rendered h2,
+.page-container .markdown-rendered h3,
+.page-container .markdown-rendered h4,
+.page-container .markdown-rendered h5,
+.page-container .markdown-rendered h6,
+.page-title {
+  color: var(--wmb-header-color) !important;
+  font-weight: normal !important;  /* your preference */
+}
+
+/* Prevent header links from turning blue */
+.markdown-rendered h1 a,
+.markdown-rendered h2 a,
+.markdown-rendered h3 a,
+.markdown-rendered h4 a,
+.markdown-rendered h5 a,
+.markdown-rendered h6 a {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+/* ============================================================
+   LINK COLORS (PUBLISH)
+   ============================================================ */
+
+.markdown-rendered a {
+  color: #56B4E9 !important;   /* WCB_Cyan */
+}
+
+.markdown-rendered a:hover {
+  color: #099E73 !important;   /* WCB_Green */
+}
+
+.markdown-rendered a:visited {
+  color: #56B4E9!important;   /* WCB_Violet */
+}
+
+.markdown-rendered a:active,
+.markdown-rendered a:focus {
+  color: #E69F00 !important;   /* WCB_Orange */
+}
+
+/* ============================================================
+   LIVE PREVIEW TEXT EMPHASIS (EDITOR ONLY)
+   ============================================================ */
+
+body {
+    --inline-title-color: #0072B2 !important; /* WCB_Blue */
+    --inline-title-font: "Calibri", sans-serif !important;
+    --inline-title-size: 36px;
+    --inline-title-weight: bold;
+
+    --header-font-family: "Calibri", sans-serif;
+    --h1-size: 28px;
+    --h2-size: 26px;
+    --h3-size: 24px;
+    --h4-size: 22px;
+    --h5-size: 20px;
+    --h6-size: 18px;
+    --head-deco: none;
+}
+
+/* Prevent bold headers in editor */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal !important;
+}
+
+/* Inline title (editor only) */
+.cm-s-obsidian .inline-title {
+    color: var(--inline-title-color);
+    font-family: var(--inline-title-font);
+    font-size: var(--inline-title-size);
+    font-style: italic !important;
+    font-weight: var(--inline-title-weight) !important;
+    text-decoration: none !important;
+}
+
+/* Bold text in Live Preview */
+.cm-s-obsidian span.cm-strong {
+    color: #E69F00 !important;  /* WCB_Orange */
+    font-weight: bold !important;
+}
+
+/* Italic text in Live Preview */
+.cm-s-obsidian span.cm-em {
+    color: #CC79A7 !important;  /* WCB_Violet */
+    font-style: italic !important;
+}
+
+/* Bold + Italic text in Live Preview */
+.cm-s-obsidian span.cm-strong.cm-em {
+    color: #099E73 !important; /* WCB_Green */
+    font-weight: bold !important;
+    font-style: italic !important;
+}
+
+/* Editor headers (use black/white by inheriting the global value) */
+.cm-s-obsidian .cm-header-1 { font-family: var(--header-font-family) !important; font-size: var(--h1-size) !important; }
+.cm-s-obsidian .cm-header-2 { font-family: var(--header-font-family) !important; font-size: var(--h2-size) !important; }
+.cm-s-obsidian .cm-header-3 { font-family: var(--header-font-family) !important; font-size: var(--h3-size) !important; }
+.cm-s-obsidian .cm-header-4 { font-family: var(--header-font-family) !important; font-size: var(--h4-size) !important; }
+.cm-s-obsidian .cm-header-5 { font-family: var(--header-font-family) !important; font-size: var(--h5-size) !important; }
+.cm-s-obsidian .cm-header-6 { font-family: var(--header-font-family) !important; font-size: var(--h6-size) !important; }
+
+/* ============================================================
+   TABLES — PUBLISH & EDITOR
+   ============================================================ */
+
+.markdown-preview-view table,
+.markdown-preview-view th,
+.markdown-preview-view td {
+    border: 2px solid !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+
+.cm-s-obsidian .HyperMD-table,
+.cm-s-obsidian .HyperMD-table-td,
+.cm-s-obsidian .HyperMD-table-th {
+    border: 2px solid !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}

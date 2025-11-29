@@ -34,7 +34,7 @@ To that end:
 - **Approximate:** When precision matters, we keep it; when approximation suffices, we mark it — explicitly.  
   - This leads to a companion rule:  
     [[The GEWE Corollary]] — **Good Enough for Worldmaking Efforts**  
-    > Think of **GEWE** as the *WMB GUI* 😉 — the friendly interface between rigor and play.  
+    > Think of **GEWE** as the ***WMB GUI*** 😉 — the friendly interface between rigor and play.  
 - **Notationally Clear:** Symbols remain consistent, legible, and reusable across all modules.
 
 > [!axiom] **Clarity sustains coherence.**  
@@ -81,3 +81,5 @@ Worlds are living systems; their models should breathe.
 > 3. Sufficient And Necessary Constructs → *Build no clockwork where a sundial will do.*  
 > 4. Self-Adjusting, Non-Coercive → *Coherence, not control.*
 
+
+[[Foundations]]

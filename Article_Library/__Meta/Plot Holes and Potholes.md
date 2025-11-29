@@ -39,7 +39,7 @@ A **pothole** is a *logosic inconsistency* — a fracture in the physics, constr
 - The story ceases to feel discoverable; it starts to feel contrived.
 
 ### Prevention
-Plot holes close easily when the creator honors the same **[[The SANC Charter]]** that governs WMB worldcraft:
+Plot holes close easily when the creator honors the same **[[The SANC Charter|SANC Charter]]** that governs WMB worldcraft:
 - keep the chain of events **Sufficient and Necessary** — every action must have a reason *and* a result,  
 - verify cause, consequence, and chronology,  
 - and use **revision** the way physics uses conservation — nothing disappears without leaving a trace.
@@ -52,3 +52,4 @@ Together they form the dual obligations of **World*making****:
 - one to the *mythosic weave* of narrative,  
 - the other to the *logosic fabric* of the cosmos itself.
 
+[[Foundations]]
