@@ -49,7 +49,7 @@ This superclass contains four major subclasses, distinguished by the dominant in
 - **Fusomons** — fusion-regime varymons  
 - **Peromons** — relativistic/exotic varymons
 ## 2.1. Duromons
-### _Matter-regime monons (0.0018 ⨁ → 4131.4 ⨁)_
+### _Matter-regime monons (0.0018 ⨁ → 1590 ⨁)_
 
 Bodies whose structure is dominated by **classical matter physics**:
 - density    
@@ -61,25 +61,34 @@ Bodies whose structure is dominated by **classical matter physics**:
 - non-fusion thermodynamics
     
 Duromons are where **Animotics** live.
-## 2.2. Transomons
-### _Transitional monons (13 M♃ → 80 M♃)_
+## 2.2. Mesomons (1590⨁ → 4131⨁; 5♃ → 13♃)
+
+This superclass includes:
+- transimons
+	- electron-degenerate bodies with constant radius
+- intermons    
+	- deuterium-fusors    
+	- non-hydrogenic fusors
+	    - the entire L–T–Y dwarf continuum
+    
+Mesomons are the “liminal monons,” bridging duromons and fusomons.
+
+### _Transimon (1590 ⨁ → 4131⨁; 5 M♃ → 13 M♃)_
+
+Bodies bridging planetary and brown-dwarf physics, dominated by:
+- electron degeneracy pressure,    
+- deep convective envelopes,    
+
+### _Intermons (13 M♃ → 80 M♃)_
 
 Bodies bridging planetary and stellar physics, dominated by:
 - partial fusion,    
-- electron degeneracy pressure,    
 - deep convective envelopes,    
 - brown-dwarf thermodynamics,    
 - and non-hydrogen catalytic fusion episodes.
     
 They “borrow rules” from both duromonic and fusomonic regimes.
 
-This superclass includes:
-- intermons    
-- deuterium-fusors    
-- non-hydrogenic fusors
-    - the entire L–T–Y dwarf continuum
-    
-Transomons are the “liminal monons,” bridging duromons and fusomons.
 ## 2.3. Fusomons
 ### _Stellar monons (80 M♃ → ~300 M⊙)_
 

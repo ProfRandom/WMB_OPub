@@ -25,18 +25,20 @@ $$
 & \textbf{Max. Mass}
 & \textbf{Range}\;(\oplus) \\
 \hline
-\text{micromon}  & 0.000001\oplus     & 0.00001\oplus  & (10^{-6} \cdot\cdot\; 10^{-5}) \\
-\text{minimon}  & 0.00001\oplus     & 0.0001\oplus  & (10^{-5} \cdot\cdot\; 10^{-4}) & \\
-\text{midimon}   & 0.0001\oplus      & 0.001\oplus   & (10^{-4} \cdot\cdot\; 10^{-3}) \\
-\text{mesomon}   & 0.001\oplus        & 0.01\oplus     & (10^{-3} \cdot\cdot\; 10^{-2})  \\
-\textbf{planemon} & 0.01\oplus        & 4,131\oplus~(13\;♃) & (10^{-2} \cdot\cdot\; 10^{3})  \\
-\text{intermon}  & 4,131\oplus~(13\;♃)         & 25,308\oplus~(80\;♃) & (10^{3} \cdot\cdot\; 10^{5})  \\
+\text{hypermon}  & 3,000,000,000\,\odot & 3,000,000,000,000\,\odot & (10^{15} \cdot\cdot\; 10^{18})  \\
+\text{ultramon}  & 3,000,000\,\odot & 3,000,000,000\,\odot & (10^{12} \cdot\cdot\; 10^{15})  \\
+\text{supramon}  & 10,000,000\oplus~(300\,\odot) & 3,000,000\,\odot & (10^{7} \cdot\cdot\; 10^{12})  \\
 \hline
 \text{stellamon} & 25,308\oplus~(80\;♃) & 10,000,000\oplus~(300\,\odot) & (10^{5} \cdot\cdot\; 10^{7})  \\
 \hline
-\text{supramon}  & 10,000,000\oplus~(300\,\odot) & 3,000,000\,\odot & (10^{7} \cdot\cdot\; 10^{12})  \\
-\text{ultramon}  & 3,000,000\,\odot & 3,000,000,000\,\odot & (10^{12} \cdot\cdot\; 10^{15})  \\
-\text{hypermon}  & 3,000,000,000\,\odot & 3,000,000,000,000\,\odot & (10^{15} \cdot\cdot\; 10^{18})  \\
+\text{intermon}  & 4,131\oplus~(13\;♃)         & 25,308\oplus~(80\;♃) & (10^{3} \cdot\cdot\; 10^{5})  \\
+\text{transimon}  & 1590\oplus~(5\;♃)         & 4131\oplus~(80\;♃) & (10^{3} \cdot\cdot\; 10^{3})  \\
+\hline
+\textbf{planemon} & 0.01\oplus        & 1590\oplus~(5\;♃) & (10^{-2} \cdot\cdot\; 10^{3})  \\
+\text{metamon}   & 0.001\oplus        & 0.01\oplus     & (10^{-3} \cdot\cdot\; 10^{-2})  \\
+\text{midimon}   & 0.0001\oplus      & 0.001\oplus   & (10^{-4} \cdot\cdot\; 10^{-3}) \\
+\text{minimon}  & 0.00001\oplus     & 0.0001\oplus  & (10^{-5} \cdot\cdot\; 10^{-4}) & \\
+\text{micromon}  & 0.000001\oplus     & 0.00001\oplus  & (10^{-6} \cdot\cdot\; 10^{-5}) \\
 \end{array}
 $$
 
