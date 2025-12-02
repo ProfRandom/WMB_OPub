@@ -13,11 +13,11 @@ summary: ""
 
 |      |       |                                                                                 |
 | ---- | ----- | ------------------------------------------------------------------------------- |
-| m⨁   | 0.674 |                                                                                 |
-| r⨁ → | 0.821 | 5232.5 km ([Wookiepedia — Tatooine](https://starwars.fandom.com/wiki/Tatooine)) |
-| ρ⨁   | 1.218 | 6.716 g/cm³                                                                     |
-| g⨁ → | 1     | (assumed from on-screen depictions)                                             |
-| vₑ⨁  | 0.906 |                                                                                 |
+| m♁   | 0.674 |                                                                                 |
+| r♁ → | 0.821 | 5232.5 km ([Wookiepedia — Tatooine](https://starwars.fandom.com/wiki/Tatooine)) |
+| ρ♁   | 1.218 | 6.716 g/cm³                                                                     |
+| g♁ → | 1     | (assumed from on-screen depictions)                                             |
+| vₑ♁  | 0.906 |                                                                                 |
 
 **Ontic Type:** Lithiform  
 **Climostatic:** Saharic  
@@ -36,18 +36,18 @@ summary: ""
 
 |      |        |             |                |
 | ---- | ------ | ----------- | -------------- |
-| m⨁   | 1.5911 |             |                |
-| r⨁ → | 1.0661 | 6792 km     | Mass Trek Wiki |
-| ρ⨁   | 1.3132 | 7.241 g/cm³ |                |
-| g⨁ → | 1.4    |             | Mass Trek Wiki |
-| vₑ⨁  | 1.2217 |             |                |
+| m♁   | 1.5911 |             |                |
+| r♁ → | 1.0661 | 6792 km     | Mass Trek Wiki |
+| ρ♁   | 1.3132 | 7.241 g/cm³ |                |
+| g♁ → | 1.4    |             | Mass Trek Wiki |
+| vₑ♁  | 1.2217 |             |                |
 Orbital Period: C = 250.1 days; 0.685 y
 Semi-major Axis: α = 0.777 AU; 1.228N; Z₃ — Solarazone
-Flux: 0.663⨁
+Flux: 0.663♁
 
 ## Explaining Vulcan's Saharic Climostate
 
-Vulcan occupies the **Solarazone (Z₃)** of its parent star — a region that should produce **temperate, Earthlike conditions**. With an insolation of only **0.663⨁**, Vulcan should be cooler than Earth, not hotter. Its desert climate therefore **cannot** be explained by orbit alone. Vulcan is Saharic not because of where it orbits 40 Eridani A, but because of how its _local_* geophysical and atmospheric systems behave.
+Vulcan occupies the **Solarazone (Z₃)** of its parent star — a region that should produce **temperate, Earthlike conditions**. With an insolation of only **0.663♁**, Vulcan should be cooler than Earth, not hotter. Its desert climate therefore **cannot** be explained by orbit alone. Vulcan is Saharic not because of where it orbits 40 Eridani A, but because of how its _local_* geophysical and atmospheric systems behave.
 
 Several reinforcing factors drive Vulcan toward global aridity:
 ### 1. Zero Obliquity (0° Tilt) ([Vulcan_(Planet) — Mass Trek Wiki](https://masstrek.fandom.com/wiki/Vulcan_(Planet)))
@@ -322,11 +322,11 @@ This is where world*crafting* sometimes takes a backseat to world*building*: whe
 
 | Parameter | Value  | Absolute    | Units                       |
 | --------- | ------ | ----------- | --------------------------- |
-| **m⨁**    | 1.601  | —           | Earth masses                |
-| **r⨁ →**  | 1.5123 | 9635        | km                          |
-| **ρ⨁**    | 0.4629 | 2.552       | g/cm³                       |
-| **g⨁ →**  | 0.70   | (estimated) | —                           |
-| **vₑ⨁**   | 1.0289 | —           | escape velocity (Earth = 1) |
+| **m♁**    | 1.601  | —           | Earth masses                |
+| **r♁ →**  | 1.5123 | 9635        | km                          |
+| **ρ♁**    | 0.4629 | 2.552       | g/cm³                       |
+| **g♁ →**  | 0.70   | (estimated) | —                           |
+| **vₑ♁**   | 1.0289 | —           | escape velocity (Earth = 1) |
 | **C**     | 463 d  | 1.2676 y    | orbital period              |
 
 ## Orbital Position
@@ -346,7 +346,7 @@ $$
 Insolation (stellar flux relative to Earth):
 
 $$
-\beta = \frac{1.213}{1.1914^2} = 0.8549\odot
+\beta = \frac{1.213}{1.1914^2} = 0.8549⊙
 $$
 
 Thus, Kamino receives **≈85.5%** of Earth’s solar flux — consistent with a **cool, ocean-moderated, hypertempestal storm world** orbiting just outside the G0.5V nucleal orbit.

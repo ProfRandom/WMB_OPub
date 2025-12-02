@@ -148,7 +148,7 @@ So, a star's **Absolute magnitude** is how bright the star *would appear to us i
 The general equation relating **absolute magnitude** ($M$) to [[Stellamons -- Equations of State|stellar luminosity]] in stellar units is:
 
 $$
-M = M_⊙ - 2.5\; log_{10}(L)
+M = M\!⊙ - 2.5\; log_{10}(L)
 $$
 Where:
 - $L$ = the star's luminosity in solar units.

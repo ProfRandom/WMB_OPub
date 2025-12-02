@@ -67,7 +67,7 @@ These subdivisions classify not the substrate, but **human physiological compati
    - COH-compatible, parahabitable to humans  
    - breathable or modifiable atmosphere likely  
    - gravity tolerable (0.68–1.50g)  
-   - mass 0.40–2.35⨁  
+   - mass 0.40–2.35♁  
 
 2. **Geotic Realm** — maxanthropic  
    - broadly Earthlike  
@@ -77,12 +77,12 @@ These subdivisions classify not the substrate, but **human physiological compati
 3. **Gaean Province** — melanthropic  
    - “shirtsleeve” human worlds  
    - gravity 0.90–1.10g  
-   - radius 0.74–1.33⨁  
+   - radius 0.74–1.33♁  
    - the planetary sweet spot
 
 ### **Kybelic Domain — melamegic**
 A parallel Biotic domain:
-- high-mass COH worlds (1.0–2.0⨁)  
+- high-mass COH worlds (1.0–2.0♁)  
 - gravity trending high (1.10–1.40g)  
 - extremely robust biospheric potential  
 - *not* necessarily human-friendly  

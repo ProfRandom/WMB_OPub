@@ -44,14 +44,14 @@ $$
 - From Greek *xenos* (ξένος): “stranger,” “foreigner,” “outsider.” 
 - Xenotic worlds are those where **life is not just different — it is alien**.
 **Parameter Notes**:
-- **Mass (⨁):** from sublunar pebbles to brown dwarf threshold. 
-- **Density (⨁):** from hydrogen-ice slushes to ultra dense crystal-metallic cores. 
-- **Gravity (⨁):** ~0.02⨁ (Mars-like) up to ~60⨁ (felt at inner gas dwarf surfaces). 
+- **Mass (♁):** from sublunar pebbles to brown dwarf threshold. 
+- **Density (♁):** from hydrogen-ice slushes to ultra dense crystal-metallic cores. 
+- **Gravity (♁):** ~0.02♁ (Mars-like) up to ~60♁ (felt at inner gas dwarf surfaces). 
 	- Spans everything from fragile ultralow-gravity cometary clumps to neutronium-crusted compact objects just short of degeneracy collapse.
 	- This definition also accommodates highly stratified gas layers (e.g. floatable biospheres in Saturnian-class or puffy hot-Neptune exotics).
 	- Any values beyond this envelope cross into **ulsic** or **hypotheticals**: black holes, quark matter, etc.
-- **Radius (⨁):** up to 11⨁ to accommodate inflation-limited gas giants and Super-Jupiters.
+- **Radius (♁):** up to 11♁ to accommodate inflation-limited gas giants and Super-Jupiters.
 	- Frequently exceeded by puffy planemons due to close proximity to their stars inflating their atmospheres.
-- **Escape Velocity (⨁):** capped at 25⨁ ≈ 280 km/s, brushing the domain of hot-start brown dwarfs.
+- **Escape Velocity (♁):** capped at 25♁ ≈ 280 km/s, brushing the domain of hot-start brown dwarfs.
 
 > These are **not bound by Earth-normal biology**. They simply represent physically plausible, self-cohering planemon-scale entities where exotic life — as chemistry permits — might arise.

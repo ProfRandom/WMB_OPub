@@ -263,7 +263,7 @@ The perannual orbit in this system is at $A = 0.969\;AU$.
 $$
 \begin{aligned}
 L &= 0.696 \\[1ex]
-T &= \sqrt[7.6]{L} = \sqrt[7.6]{0.696} = 0.953\odot \\[1ex]
+T &= \sqrt[7.6]{L} = \sqrt[7.6]{0.696} = 0.953⊙ \\[1ex]
 K &= 5800T = 5800(0.953) = 5529.92 \quad \text{Spectral Class G: κ = 6000; þ = 100} \\[2em]
 S &= \dfrac{\kappa - K}{100} = \dfrac{6000 - 5529.92}{100} = \dfrac{470.08}{100} = 4.701\\
 \end{aligned}

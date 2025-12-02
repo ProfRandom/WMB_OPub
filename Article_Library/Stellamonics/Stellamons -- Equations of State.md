@@ -91,7 +91,7 @@ $$
 ## Parameter Calculation Precedence
 The above being the case, there is a "best" order for calculating stellar parameters when starting from any given parameter (though it is always best start with *K* or *T* whenever possible).
 
-> All parameters (except $K$) are expressed in Solar-relative units; that is, $T = 1\odot$ for $5800$ K, $R = 1\odot$ for the solar radius, etc.
+> All parameters (except $K$) are expressed in Solar-relative units; that is, $T = 1⊙$ for $5800$ K, $R = 1⊙$ for the solar radius, etc.
 
 #### Starting with Temperature ($T$) or ($K$)
 **Primary dependency chain**: $T/K \rightarrow R \rightarrow L \rightarrow M \rightarrow Q$

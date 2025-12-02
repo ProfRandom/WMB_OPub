@@ -28,19 +28,19 @@ Morphotic expression maps onto the **Duromon** class and its internal mass subcl
 ### **Duromon Subclasses (Mass-Based)**
 Within the *Duromon* superclass, morphotics expresses itself through the following mass regimes:
 
-- **Micromons** — 10⁻⁶–10⁻⁵ ⨁  
+- **Micromons** — 10⁻⁶–10⁻⁵♁  
   Dust-to-boulder scale; no stable differentiation
 
-- **Minimons** — 10⁻⁴ ⨁  
+- **Minimons** — 10⁻⁴♁  
   Small minor bodies; weak early morphotics
 
-- **Midimons** — 10⁻³ ⨁  
+- **Midimons** — 10⁻³♁  
   Major minor bodies; first reliable differentiation
 
-- **Mesomons** — 10⁻² ⨁  
+- **Mesomons** — 10⁻²♁  
   Dwarf-planemons; stable lithic crusts and internal layering
 
-- **Planemons** — 10⁻¹–10¹ ⨁  
+- **Planemons** — 10⁻¹–10¹♁  
   Full planetary bodies; complete morphotic maturation
 
 Morphotics applies **only** within the Duromon family.  

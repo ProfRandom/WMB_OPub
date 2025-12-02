@@ -24,7 +24,7 @@ This yields a fully formalized identity system organized into **four structural 
 
 # 1. Synomons
 
-### _Sub-duramonic, pre-gravitational monons (< 10⁻⁶ ⨁)_
+### _Sub-duramonic, pre-gravitational monons (< 10⁻⁶♁)_
 
 Bodies that cohere via **chemical, mechanical, or electrostatic forces** rather than gravity.
 
@@ -49,7 +49,7 @@ This superclass contains four major subclasses, distinguished by the dominant in
 - **Fusomons** — fusion-regime varymons  
 - **Peromons** — relativistic/exotic varymons
 ## 2.1. Duromons
-### _Matter-regime monons (0.0018 ⨁ → 1590 ⨁)_
+### _Matter-regime monons (0.0018♁ → 1590♁)_
 
 Bodies whose structure is dominated by **classical matter physics**:
 - density    
@@ -61,7 +61,7 @@ Bodies whose structure is dominated by **classical matter physics**:
 - non-fusion thermodynamics
     
 Duromons are where **Animotics** live.
-## 2.2. Mesomons (1590⨁ → 4131⨁; 5♃ → 13♃)
+## 2.2. Mesomons (1590♁ → 4131♁; 5♃ → 13♃)
 
 This superclass includes:
 - transimons
@@ -73,7 +73,7 @@ This superclass includes:
     
 Mesomons are the “liminal monons,” bridging duromons and fusomons.
 
-### _Transimon (1590 ⨁ → 4131⨁; 5 M♃ → 13 M♃)_
+### _Transimon (1590♁ → 4131♁; 5 M♃ → 13 M♃)_
 
 Bodies bridging planetary and brown-dwarf physics, dominated by:
 - electron degeneracy pressure,    

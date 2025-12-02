@@ -58,7 +58,7 @@ Where:
 
 ## Naked-Eye Albedo Scaling for Giant Planets
 
-This is based on the fact that a Jupiter-sized planet becomes too dim to see with the naked eye at distances farther than $19$ AU for a star with the Sun's Luminosity ($L\odot$). For stars with luminosities different than the Sun's, $L$ is expressed in solar units.
+This is based on the fact that a Jupiter-sized planet becomes too dim to see with the naked eye at distances farther than $19$ AU for a star with the Sun's Luminosity ($L⊙$). For stars with luminosities different than the Sun's, $L$ is expressed in solar units.
 
 $$
 \begin{array}{ll}
@@ -74,7 +74,7 @@ Where:
 - $R$ = radius of planet in terrans
 
 ## Naked-Eye Albedo Scaling for Terrestrial Planets
-This is based on the fact that an Earth-sized planet becomes too dim to see with the naked eye at distances farther than $2$ AU for a star with the Sun's Luminosity ($L\odot$). For stars with luminosities different than the Sun's, $L$ is expressed in solar units.
+This is based on the fact that an Earth-sized planet becomes too dim to see with the naked eye at distances farther than $2$ AU for a star with the Sun's Luminosity ($L⊙$). For stars with luminosities different than the Sun's, $L$ is expressed in solar units.
 
 $$
 \begin{array}{ll}

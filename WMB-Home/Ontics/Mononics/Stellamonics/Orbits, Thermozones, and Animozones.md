@@ -318,7 +318,7 @@ $$
 > 🔍 **Takeaways**:
 > >The *perannual orbit* defines the location in any star system where a planemon would complete one sidereal Earth year.
 > >It may be closer-in than the nucleal orbit (**intranucleal**) or farther out than the nucleal orbit (**extranucleal**).
-> >If it is ever *the same as the nucleal orbit*, then the star(s)' mass(es) must be $M = 1⊙$, and — ideally — the planemon's mass must be $m = 1⨁$.
+> >If it is ever *the same as the nucleal orbit*, then the star(s)' mass(es) must be $M = 1⊙$, and — ideally — the planemon's mass must be $m = 1♁$.
 > >Unlike the *nucleal orbit* (which depends on *stellar irradiance*), the perannual orbit *depends only the mass of the system* — and serves as a *temporal* rather than *thermal* reference point.
 
 As shown above, the *distance* of any orbit can be calculated from the period and the masses via:
@@ -350,7 +350,7 @@ $$
 	N = \sqrt{L}
 $$
 
-Where *L* = Luminosity of the star(s) as expressed in Solar units, ⊙
+Where *L* = Luminosity of the star(s) as expressed in Solar units,⊙
 
 - **Perannual Orbit**: that orbit (expressed in AU) which has an orbital period of exactly one sidereal Earth year, calculated by:
 

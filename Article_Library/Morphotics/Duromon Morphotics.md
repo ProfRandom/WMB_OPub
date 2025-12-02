@@ -18,7 +18,7 @@ This article explains **what** Lithiform, Rheiform, Aeriform, and Ulsiform morph
 ## 1. Lithiform
 Rock–metal bodies with solid crusts, differentiated mantles, metallic cores, and stable tectonic potential.
 ### Key Traits
-- Density: **0.85–1.25 ⨁**  
+- Density: **0.85–1.25♁**  
 - Silicate mantle + iron core  
 - Supports long-term tectonics in mid-mass ranges  
 - Only morphotype capable of Terric/Kybelic/Geotic/Gaean classifications  
@@ -63,17 +63,17 @@ Somatypes refine the descriptive power of morphotypes without redefining them.
 Density determines **material class**, not habitability class. The band:
 
 $$
-\rho \in (0.85 \cdot\cdot\; 1.25)\oplus
+\rho \in (0.85 \cdot\cdot\; 1.25)♁
 $$
 
  — defines **Lithiforms**, the *only* bodies capable of sustaining Terric, Kybelic, Geotic, or Gaean characteristics.
 
-### Below 0.85 ⨁
+### Below 0.85♁
 - Volatile-rich  
 - Weakly differentiated  
 - Icy slush, cryorheiform bodies  
 - Not parahabitable
-### Above 1.25 ⨁
+### Above 1.25♁
 - Metal-heavy  
 - Thin mantles, stagnant-lid tectonics  
 - Gravimetrically harsh  

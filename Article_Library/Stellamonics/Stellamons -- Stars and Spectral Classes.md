@@ -217,7 +217,7 @@ $$
 
 **Working The Other Direction**
 
-Let us say that Essem has a near neighbor, Essel, and we know that its relative temperature is $T = 0.876\odot$.  What is its spectral type?
+Let us say that Essem has a near neighbor, Essel, and we know that its relative temperature is $T = 0.876⊙$.  What is its spectral type?
 
 First, convert $T$ to $K$ by:
 

@@ -52,7 +52,7 @@ $$
 \begin{aligned}
 L &= k \times M^{1.5}\;, \text{where } k=1.12 \times10^3 \\[1em]
 &\text{or} \\
-L_{Edd} &= 3.2 \times 10^4 \left(\dfrac{M_*}{M_⊙}\right)L\odot \quad \text{(The Eddington Limit)} 
+L_{Edd} &= 3.2 \times 10^4 \left(\dfrac{M_*}{M⊙}\right)L\!⊙ \quad \text{(The Eddington Limit)} 
 \end{aligned}
 $$
 In our case the equations return:
