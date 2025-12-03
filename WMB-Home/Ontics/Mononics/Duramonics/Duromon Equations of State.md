@@ -7,8 +7,6 @@ created: 2025-11-28
 updated: 2025-11-28
 summary: ""
 ---
- 
-
 # Duromon Equations of State
 
 The Duromon Equations of State can be arranged into a fully symmetric algebraic network: any two parameters determine the other three. This is mathematically true and occasionally useful — especially for inversion problems or exotic boundary cases.
@@ -78,10 +76,10 @@ $$
 
 
 **Note:**  
-Every formula in the table is algebraically valid, but WMB assumes and teaches the causal chain as shown above in Equation Set 1.
+Every formula in the table is algebraically valid, but WMB assumes and recommends the causal chain as shown above in Equation Set 1.
 
 Use the symmetric identities when necessary, but rely on the causal hierarchy for constructive worldbuilding.
 
 Duromon equations conventionally use **lower-case variables** ($m$, $\rho$, $r$, $g$, $v_e$) to emphasize their domain: compact, high-density bodies whose structure is governed primarily by internal material constraints rather than stellar-scale energy processes. This contrasts with the **stellamon state equations**, which employ **upper-case forms**($M$, $R$, $T$, $K$, $Q$, $L$) to distinguish the vastly different regimes of mass, scale, and pressure involved.
 
-The capitalization isn’t aesthetic — it’s categorical. Lower-case identifies matter-bound, mechanically dominated bodies; upper-case flags fusion-driven, radiative systems. Mixing conventions would produce mathematical ambiguity and, worse, physical nonsense. So the typographic divide holds firm: **duromon, transomon** → lower-case, **fusomon, peromon** → upper-case.
+The capitalization isn’t aesthetic — it’s categorical. Lower-case identifies matter-bound, mechanically dominated bodies; upper-case flags fusion-driven, radiative systems. Mixing conventions would produce mathematical ambiguity and, worse, physical nonsense. So the typographic divide holds firm: **duromon, mesomon** → lower-case, **fusomon, peromon** → upper-case.

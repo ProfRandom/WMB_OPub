@@ -7,8 +7,6 @@ created: 2025-11-28
 updated: 2025-11-28
 summary: ""
 ---
- 
-
 # Duromon Ground States
 When any single duromon parameter is normalized to $1$, the remaining variables collapse into simple power-law relationships. These “ground states” reveal the symmetry structure of the duromon system: which quantities scale together, which invert each other, and which collapse into equality under specific constraints. Each case below assumes one core variable is set to unity and derives the resulting canonical forms for the others.
 
@@ -21,7 +19,7 @@ When any single duromon parameter is normalized to $1$, the remaining variables 
 Each block below lists the simplified relationships among the remaining parameters when one is set to $1$.  
 
 **To calculate a specific value, just locate the line beginning with the variable you want to compute.**
-## Mass: $m = 1$
+## When Mass: $m = 1$
 
 $$
 \begin{aligned}
@@ -33,23 +31,30 @@ v_e &=\sqrt{\dfrac{1}{r}}=\sqrt[4]{g}=\sqrt[6]{\rho}
 \end{aligned}
 $$
 
-
-## Density: $\rho = 1$
+## When Radius: $r = 1$
 
 $$
 \begin{aligned}
-r &= g = v_e = \sqrt[3]{m} \\[0.5ex]
+m &=g=\rho=v_e^2 \\[0.5ex]
+v_e &=\sqrt{g}=\sqrt{\rho}=\sqrt{m}
+\end{aligned}
+$$
+
+
+> > **Note**: When $r = 1$, the values of **mass** ($m$), **gravity** ($g$), and **density** ($\rho$) are all numerically equal. The **escape velocity** ($v_e$) is the square-root of any of them.
+
+## When Density: $\rho = 1$
+
+$$
+\begin{aligned}
 m &=r^3=g^3=v_e^3 \\[0.5ex]
-g &=r=\sqrt[3]{m}=v_e \\[0.5ex]
-v_e &=g=r=\sqrt[3]{m}
+r &= g = v_e = \sqrt[3]{m} \\[0.5ex]
 \end{aligned}
 $$
 
 > > **Note**: When **ρ = 1**, the values of **radius** (*r*), **gravity** (*g*), and **escape velocity** (*vₑ*) are all numerically equal. The **mass** (*m​*) is the cube of any of them.
 
-
-
-## Gravity: $g = 1$
+## When Gravity: $g = 1$
 
 $$\begin{aligned}
 m &=r^2=\dfrac{1}{\rho^2}=v_e^4 \\[0.5ex]
@@ -60,7 +65,7 @@ v_e &=\sqrt{r}=\dfrac{1}{\sqrt{\rho}}=\sqrt[4]{m}
 $$
 
 
-## Escape Velocity: $v_e = 1$
+## When Escape Velocity: $v_e = 1$
 
 $$
 \begin{aligned}
@@ -72,13 +77,3 @@ g &=\sqrt{\rho}=\dfrac{1}{r}=\dfrac{1}{m}
 $$
 
 
-## Radius: $r = 1$
-
-$$
-\begin{aligned}
-m &=g=\rho=v_e^2 \\[0.5ex]
-v_e &=\sqrt{g}=\sqrt{\rho}=\sqrt{m}
-\end{aligned}
-$$
-
-> > **Note**: When $r = 1$, the values of **mass** ($m$), **gravity** ($g$), and **density** ($\rho$) are all numerically equal. The **escape velocity** ($v_e$) is the square-root of any of them.

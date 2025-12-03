@@ -8,11 +8,9 @@ updated: 2025-11-30
 summary: ""
 ---
 ## Stellamonic Equations of State
-A regularized set of empirical relationships can be used to estimate any stellar parameter from the others — assuming a Main Sequence **blackbody**-like star (see [[Sidebar — What Is The Main Sequence]]).
+A regularized set of empirical relationships can be used to estimate any stellar parameter from the others — assuming a Main Sequence **blackbody**-like star.
 
-> **Keppy**: And a **blackbod**y is...?
-
-Excellent question!  A **blackbody** is an **idealized physical object** that:
+A **blackbody** is an **idealized physical object** that:
 1. **Absorbs all** incoming electromagnetic radiation — no reflection, no transmission.
 2. **Emits radiation** purely based on its temperature — not its material, shape, or color.
 3. Emits a **perfectly smooth, continuous spectrum** (a "thermal spectrum").
@@ -21,6 +19,7 @@ In short:
 > A blackbody is the theoretical gold standard for radiant heat emission — a perfect radiator and absorber.
 
 #### Why "Blackbody" Matters Here
+
 Most stars (especially Main Sequence stars) behave **approximately like blackbodies**, meaning their energy output can be modeled using **temperature alone**. This makes them excellent candidates for:
 - **Temperature-based modeling**
 - **Color-temperature mapping** (blue = hotter, red = cooler)
@@ -29,43 +28,47 @@ Most stars (especially Main Sequence stars) behave **approximately like blackbod
 	- planemons, dust clouds, and even stars aren’t *perfect* blackbodies.
 	- Real objects have an **emissivity** ϵ between 0 and 1:
 
-$$ F = \varepsilon \sigma T^4$$
+$$
+F = \varepsilon\,\sigma\,T^4
+$$
+
 - But stars are close enough that the **blackbody approximation works very well**.
-
-> **Hippy**: Sorry you asked, Keplarius?
-
-Yes, that's a bit technical and complicated, but it's also extremely *important* to what comes next.
 
 Here are the promised equations:
 
 $$
 \begin{array}{c|c|c|c}
 \text{Temperature} &\text{Mass} &\text{Radius} &\text{Lifetime} \\[0.1em]
-\text{(T)} &\text{(M)} &\text{(R)} & \text{($Q$)} \\[0.5em] 
+\text{(T)} &\text{(M)} &\text{(R)} & \text{($V$)} \\[0.5em] 
 \hline
-T=\sqrt[1.98]{M} & M=\sqrt[0.9]{R} & R=M^{0.9} & Q=M^{-2.5} \\[0.5em]
-T=\sqrt[1.8]{R} & M=T^{1.98} & R=T^{1.8} & Q \approx \sqrt[-0.36]{R} \\[0.5em]
-T=Q^{-0.2} & M=Q^{-0.4} & R=Q^{-0.36} & Q=T^{-5}
+T=\sqrt[1.98]{M} & M=\sqrt[0.9]{R} & R=M^{0.9} & V=M^{-2.5} \\[0.5em]
+T=\sqrt[1.8]{R} & M=T^{1.98} & R=T^{1.8} & V \approx \sqrt[-0.36]{R} \\[0.5em]
+T=V^{-0.2} & M=V^{-0.4} & R=V^{-0.36} & V=T^{-5}
 \end{array}
 $$
+
 > > **NOTE**:
-> > All of the above equations are *approximations*; stars are a much more variable set of objects (after all, they're mostly gas and plasma, so fluid dynamics plays a major role in their characteristics).  These equations work **best *in general* for main sequence stars** of all classes.
+> > All of the above equations are *approximations*; stars are a much more variable set of objects (after all, they're mostly gas and plasma, so fluid dynamics plays a major role in their characteristics).
+> > 
+> > These equations work **best *in general* for main sequence stars** of all classes.
 
-> **Keppy**: You said Luminosity was the second most important parameter for stars, but it doesn't appear in the table...?
-
-Well spotted, Keppy!  There's a reason.
 ### The Stefan-Boltzmann Law
+
 The Stefan-Boltzmann Law is a formulation that relates the **luminosity** of any luminous object to its **temperature** and **surface area**:
 
 $$
-L = 4 \pi R^2 \sigma T^4
+L = 4 \pi R^2 \sigma K^4
 $$
+
 Where:
 - $4 \pi R^2$  = the surface area of the body
-- $T$ = is the temperature of the body in Kelvin
+- $K$ = is the *absolute* temperature of the body in Kelvin
+	- $T$ in the Stefan–Boltzmann equation means _Kelvin temperature_ (Wimby is filing a formal complaint to the estates of both Great Men over this 😉)    
+	- WMB’s $T$ means _solar-normalized temperature_    
+	- therefore WMB uses $K$ for the absolute temperature in this one equation
 - $σ$ = the Stefan-Boltzmann constant
 	- $\sigma = 5.670374419 \times 10^{-8} W m^{-2}K^{-4}$
-		- **Watts** per square meter per Kelvin to the fourth power 1 K⁴
+		- **Watts** per square meter per Kelvin to the fourth power K⁴
 		- It tells you how much **radiant energy per second** (i.e., power) is emitted by a **1 square meter** portion of a **perfect blackbody** at **1 K⁴**.
 
 And this is why we needed the quick aside into the term "blackbody" earlier.
@@ -73,17 +76,18 @@ And this is why we needed the quick aside into the term "blackbody" earlier.
 In worldmaking terms, we can simplify the Stefan-Boltzmann equation to:
 
 $$
-\dfrac{L_s}{L_{Sun}} = \left(\dfrac{R_s}{R_{Sun}}\right)^2 \left(\dfrac{K_s}{K_{Sun}}\right)^4
+\dfrac{L_a}{L_s} = \left(\dfrac{R_a}{R_s}\right)^2 \left(\dfrac{K_a}{K_s}\right)^4
 $$
-Where:
-- $L_S$ = the absolute luminosity of the star
-- $L_{Sun}$ = the absolute luminosity of the Sun
-- $R_S$ = the absolute radius of the star
-- $R_{Sun}$ = the absolute radius of the Sun
-- $K_S$ = the Kelvin temperature of the star
-- $K_{Sun}$ = the Kelvin temperature of the Sun
 
-Because the form $\dfrac{X_s}{X_{Sun}}$ is the standard for converting a parameter to solar units, and $T = \dfrac{K_s}{K_{Sun}}$, this equation becomes:
+Where:
+- $L_a$ = the absolute luminosity of the star (Watts)
+- $L_s$ = the absolute luminosity of the Sun (Watts)
+- $R_a$ = the absolute radius of the star (meters)
+- $R_s$ = the absolute radius of the Sun (meters)
+- $K_a$ = the **Kelvin** temperature of the star
+- $K_s$ = the **Kelvin** temperature of the Sun
+
+When all the ratios are reduced to solar units, the equation simplifies to:
 
 $$
 \begin{aligned}
@@ -92,13 +96,19 @@ R &= \dfrac{\sqrt{L}}{T^2}, \qquad
 T = \sqrt[4]{\dfrac{L}{R^2}}
 \end{aligned}
 $$
+
+Where:
+- $L$ = luminosity in solar units
+- $R$ = radius in solar units
+- $T$ = temperature in solar units
+
 ## Parameter Calculation Precedence
 The above being the case, there is a "best" order for calculating stellar parameters when starting from any given parameter (though it is always best start with *K* or *T* whenever possible).
 
-> All parameters (except K) are expressed in Solar-relative units; that is, T = 1⊙ for 5800 K, R = 1⊙ for the solar radius, etc.
+> All parameters (except K) are expressed in Solar-relative units; that is, $T = 1\,s$ for $5800$ K, $R = 1\, s$ for the solar radius, etc.
 
 #### Starting with Temperature (*T*) or (*K*)
-**Primary dependency chain**: T/K → R → L → M → Q
+**Primary dependency chain**: T/K → R → L → M → V
 
 $$
 \begin{aligned}
@@ -106,11 +116,11 @@ T &= \dfrac{K}{5800} \quad or \quad K = 5800T \\
 R &= T^{1.8} \\
 L &= R^2T^4 \\
 M &= T^{1.98} \quad or \quad M = \sqrt[0.9]{R} \\
-Q &= T^{-5} \quad or \quad Q = M^{-2.5}
+V &= T^{-5} \quad or \quad V = M^{-2.5}
 \end{aligned}
 $$
 #### Starting with Mass (*M*)
-**Primary dependency chain**: M → T/K → R → L → Q
+**Primary dependency chain**: M → T/K → R → L → V
 
 $$
 \begin{aligned}
@@ -118,11 +128,11 @@ T &= \sqrt[1.98]{M} \\
 K &= 5800T \\
 R &= T^{1.8} \quad or \quad R = M^{0.9} \\
 L &= R^2T^4 \\
-Q &= T^{-5} \quad or \quad Q = M^{-2.5}
+V &= T^{-5} \quad or \quad V = M^{-2.5}
 \end{aligned}
 $$
 #### Starting with Radius (*R*)
-**Primary dependency chain**: R → T → K → L → M → Q
+**Primary dependency chain**: R → T → K → L → M → V
 
 $$
 \begin{aligned}
@@ -130,11 +140,11 @@ T &= \sqrt[1.8]{R} \\
 K &= 5800T \\
 L &= R^2T^4 \\
 M &= T^{1.98} \\
-Q &= T^{-5} \quad or \quad Q = M^{-2.5}
+V &= T^{-5} \quad or \quad V = M^{-2.5}
 \end{aligned}
 $$
 #### Starting With Luminosity (*L*)
-**Primary dependency chain**: L → T → K → R → M → Q
+**Primary dependency chain**: L → T → K → R → M → V
 
 $$
 \begin{aligned}
@@ -142,18 +152,18 @@ T &= \sqrt[7.6]{L} \\
 K &= 5800T \\
 R &= T^{1.8} \\
 M &= T^{1.98} \\
-Q &= T^{-5} \quad or \quad Q = M^{-2.5}
+V &= T^{-5} \quad or \quad V = M^{-2.5}
 \end{aligned}
 $$
-#### Starting with Lifetime (Q)
+#### Starting with Lifetime (V)
 **As soon as you assume you'd never want to do this, you'll find a case for doing it.**
-**Primary dependency chain**: Q → T → K → R → L → M
+**Primary dependency chain**: V → T → K → R → L → M
 
 $$
 \begin{aligned}
-T &= Q^{-0.2} \\
+T &= V^{-0.2} \\
 K &= 5800 T \\
-R &= Q^{-0.36} \\
+R &= V^{-0.36} \\
 L &= R^2 T^4 \\
 M &= \sqrt[3]{L}
 \end{aligned}
@@ -165,36 +175,34 @@ The Standard Parameter Equations:
 $$
 \begin{array}{c|c|c|c}
 \text{Temperature} &\text{Mass} &\text{Radius} &\text{Lifetime} \\[0.1em]
-\text{(T)} &\text{(M)} &\text{(R)} & \text{($Q$)} \\[0.5em] 
+\text{(T)} &\text{(M)} &\text{(R)} & \text{($V$)} \\[0.5em] 
 \hline
-T=\sqrt[1.98]{M} & M=\sqrt[0.9]{R} & R=M^{0.9} & Q=M^{-2.5} \\[0.5em]
-T=\sqrt[1.8]{R} & M=T^{1.98} & R=T^{1.8} & Q \approx \sqrt[-0.36]{R} \\[0.5em]
-T=Q^{-0.2} & M=Q^{-0.4} & R=Q^{-0.36} & Q=T^{-5}
+T=\sqrt[1.98]{M} & M=\sqrt[0.9]{R} & R=M^{0.9} & V=M^{-2.5} \\[0.5em]
+T=\sqrt[1.8]{R} & M=T^{1.98} & R=T^{1.8} & V \approx \sqrt[-0.36]{R} \\[0.5em]
+T=V^{-0.2} & M=V^{-0.4} & R=V^{-0.36} & V=T^{-5}
 \end{array}
 $$
-… *generally* work well for most **Main Sequence** stars, but a survey of known stars in the Solar neighborhood —
 
-> **Hippy**: "Wha–"
-
-… *which is too complex and extensive to detail here* — suggests that *modest* adjustments to a couple of key exponents yield parameter equations that better reflect observed stellar characteristics. Since worldmaking prioritizes plausible-world construction over strict theoretical purity, these revised values offer better performance across the mass range of interest.
+… *generally* work well for most **Main Sequence** stars, but a survey of known stars in the Solar neighborhood suggests that *modest* adjustments to a couple of key exponents yield parameter equations that better reflect observed stellar characteristics. Since worldmaking prioritizes plausible-world construction over strict theoretical purity, these revised values offer better performance across the mass range of interest.
 
 ### Modified Parameters Table
 #### Main Sequence Stellar Equations of State
+
 $$
 \begin{array}{c|c|c|c|c}
 \text{Temperature} &\text{Mass} &\text{Radius} &\text{Lifetime} & \text{Luminosity} \\[0.1em]
-\text{(T)} &\text{(M)} &\text{(R)} & \text{($Q$)} &\text{(L)} \\[0.5em] 
+\text{(T)} &\text{(M)} &\text{(R)} & \text{($V$)} &\text{(L)} \\[0.5em] 
 \hline
-T=\sqrt{M} & M=\sqrt[0.9]{R} & R=M^{0.9} & Q=M^{-2.5} & L = M^{3.8} \\[0.5em]
-T=\sqrt[1.8]{R} & M=T^{1.98} & R=T^{1.8} & Q \approx \sqrt[-0.36]{R} & L \approx R^{4.\bar{2}} \\[0.5em]
-T=Q^{-0.2} & M=Q^{-0.4} & R=Q^{-0.36} & Q=T^{-5} & L = T^{7.6} \\[0.5em]
-T= \sqrt[7.6]{L} & M = \sqrt[3.8]{L} & R \approx \sqrt[4.\bar{2}]{L} & Q = L^{-1.52} & L = \sqrt[-1.52]{Q}
+T=\sqrt{M} & M=\sqrt[0.9]{R} & R=M^{0.9} & V=M^{-2.5} & L = M^{3.8} \\[0.5em]
+T=\sqrt[1.8]{R} & M=T^{1.98} & R=T^{1.8} & V \approx \sqrt[-0.36]{R} & L \approx R^{4.\bar{2}} \\[0.5em]
+T=V^{-0.2} & M=V^{-0.4} & R=V^{-0.36} & V=T^{-5} & L = T^{7.6} \\[0.5em]
+T= \sqrt[7.6]{L} & M = \sqrt[3.8]{L} & R \approx \sqrt[4.\bar{2}]{L} & V = L^{-1.52} & L = \sqrt[-1.52]{V}
 \end{array}
 $$
 
 **Notes**:
 - The parameter relationship that changed from the previous table was $T ↔︎ M$, where the exponent increased slightly from $1.98$ to $2.0$
-- The **major change** is the addition of direct calculation for the parameters to-and-from luminosity; these are included for the purpose of simplifying much of the math related to [[M002 - Stars — 08 `Sun-Like` Stars ✓]].
+- The **major change** is the addition of direct calculation for the parameters to-and-from luminosity.
 - **For *greatest accuracy***:
-	- The exponent $7.6$ can be more precisely specified as $7.5778$
-	- The exponent $3.8$ can be more precisely specified as $3.7889$
+	- The exponent $7.6$ can be more precisely specified as $7.5778$.
+	- The exponent $3.8$ can be more precisely specified as $3.7889$.
