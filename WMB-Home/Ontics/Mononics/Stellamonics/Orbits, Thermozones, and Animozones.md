@@ -80,7 +80,7 @@ It has also been suggested that "desert" planemons (think Dune, Tattooine) might
 - **Inner Parahabitable Zone**
 	 - Orbital Range: $(0.500 \cdot\cdot\, <\!0.750)N$
 - **Inner Habitable Zone**
-	 - Orbital Range: $(0.750 \cdot\cdot\, <<\!0.950)N$
+	 - Orbital Range: $(0.750 \cdot\cdot\, <\!0.950)N$
 - **Hospitable Zone**
 	 - Orbital Range: $(<0.950 \cdot\cdot\, <\!1.385)N$
 - **Outer Habitable Zone**
