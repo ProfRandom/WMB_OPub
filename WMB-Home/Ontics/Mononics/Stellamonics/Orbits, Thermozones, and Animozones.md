@@ -7,6 +7,8 @@ created: <\!%* tp.file.creation_date("YYYY-MM-DD") %>
 updated: <\!%tp.date.now("YYYY-MM-DD") %>
 summary: ""
 ---
+![[Thermozones illustration.jpg]]
+ 
  # The Nucleal Orbit
 
 The average distance from Earth to the Sun — about $1.496 \times 10^8$ km — is defined as one **astronomical unit (AU)**. Due to Earth’s slightly elliptical orbit, this distance varies by approximately $\pm2.5$ million km between Earth's closest approach to and farthest distance from the Sun.
