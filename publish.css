@@ -1,15 +1,51 @@
+
 /* ============================================================
-   SIDEBAR SUBTITLE
+   SIDEBAR SUBTITLE + LICENSE
    ============================================================ */
 .site-body-left-column-site-name::after {
-  content: "A System for Building Coherent Fictional Fictional Worlds";
+  content: "A System for Building Coherent Fictional Worlds\A CC BY-NC-SA 4.0 International";
+  white-space: pre-line;   /* allows \A to create a line break */
+  display: block;
+  font-size: 0.65em;
+  opacity: 0.8;
+  margin-top: 4px;
+  margin-left: 2px;
+}
+
+/* Theme-aware coloring for the license line */
+html.theme-light .site-body-left-column-site-name::after {
+  color: rgba(0, 0, 0, 0.65);   /* softer black */
+}
+
+html.theme-dark .site-body-left-column-site-name::after {
+  color: rgba(255, 255, 255, 0.65); /* softer white */
+}
+
+/* ============================================================
+   SIDEBAR SUBTITLE
+   ============================================================ 
+.site-body-left-column-site-name::after {
+  content: "A System for Building Coherent Fictional Worlds";
   display: block;
   font-size: 0.85em;
   opacity: 0.8;
   margin-top: 4px;
   margin-left: 4px;
 }
+*/
+/* ============================================================
+   SIDEBAR LICENSE LINE (placed under subtitle)
+   ============================================================ 
 
+.site-body-left-column::after {
+  content: "CC BY-NC-SA 4.0 International";
+  display: block;
+  font-size: 0.70em;
+  opacity: 0.7;
+  margin-top: 4px;
+  margin-left: 4px;
+}
+*/
 /* ============================================================
    HEADER COLORS (PUBLISH)
    BLACK in light mode / WHITE in dark mode
