@@ -34,13 +34,13 @@ A *Sun-like star* is a broad term used to describe stars that share characterist
 For WMB purposes, our classifications relate directly to the *habitability potential of orbiting planemos*, rather than just their parent stars’ physical resemblance to the Sun.
 
 **Solar Analogs**:
-- Stars whose *perannual orbits* fall within $(0.500 \cdot\cdot\; 4.850)$ AU, spanning from [[Orbits, Thermozones, and Animozones|Zone₀ — Zone₅]] ($Z_0 – Z_5$) and spectral types **F2** – **K9**.
+- Stars whose *perannual orbits* fall within $(0.500 \cdot\cdot\; 4.850)$ AU, spanning from [[04.00.00.00.01 Orbits, Thermozones, and Animozones|Zone₀ — Zone₅]] ($Z_0 – Z_5$) and spectral types **F2** – **K9**.
 - 
 **Solar Cognates**:
-- Stars whose *perannual orbits* fall within $(0.750 ·· 1.770)$ AU, spanning from [[Orbits, Thermozones, and Animozones|Zone₁ — Zone₄]] ($Z_1 – Z_4$) and spectral types spectral types **F7.62** – **K1.11**.
+- Stars whose *perannual orbits* fall within $(0.750 ·· 1.770)$ AU, spanning from [[04.00.00.00.01 Orbits, Thermozones, and Animozones|Zone₁ — Zone₄]] ($Z_1 – Z_4$) and spectral types spectral types **F7.62** – **K1.11**.
 - 
 **Solar Twins**:
-- Stars whose *perannual orbits* fall within $(0.950 ·· 1.385)$ AU, spanning from [[Orbits, Thermozones, and Animozones|Zone₃ — Zone₄]] ($Z_1 – Z_4$) and spectral types **G1.04** – **G7.73**.
+- Stars whose *perannual orbits* fall within $(0.950 ·· 1.385)$ AU, spanning from [[04.00.00.00.01 Orbits, Thermozones, and Animozones|Zone₃ — Zone₄]] ($Z_1 – Z_4$) and spectral types **G1.04** – **G7.73**.
 
 *Thus*:
 - All *Solar Twins* are also *Solar Cognates* and *Solar Analogs*.

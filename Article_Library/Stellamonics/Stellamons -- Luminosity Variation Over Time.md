@@ -11,7 +11,7 @@ summary: ""
 
 # The Sun's Past and Future Luminosity
 
-As with all stars (even the most stable and long-lived) the Sun's luminosity has varied over its lifetime. Shortly after its formation, its luminosity was about [$70\%$](https://en.wikipedia.org/wiki/Faint_young_Sun_paradox.) of its current value, and the luminosity has experienced an average increase of about $6.7\%$ per billion years to its present value. When the Sun was $1$ billion years old, its luminosity was about $76.7$% of its current value of $3.828 \times 10^{26}$ W.  Thus the [[Orbits, Thermozones, and Animozones|habitable zone limits and the nucleal orbit]] of a star, all of which are *dependent upon its luminosity*, will also be different depending on its age, and vary as the star ages.
+As with all stars (even the most stable and long-lived) the Sun's luminosity has varied over its lifetime. Shortly after its formation, its luminosity was about [$70\%$](https://en.wikipedia.org/wiki/Faint_young_Sun_paradox.) of its current value, and the luminosity has experienced an average increase of about $6.7\%$ per billion years to its present value. When the Sun was $1$ billion years old, its luminosity was about $76.7$% of its current value of $3.828 \times 10^{26}$ W.  Thus the [[04.00.00.00.01 Orbits, Thermozones, and Animozones|habitable zone limits and the nucleal orbit]] of a star, all of which are *dependent upon its luminosity*, will also be different depending on its age, and vary as the star ages.
 
 For instance, the habitable zones for the Sun on its billion-year birthday were:
 
