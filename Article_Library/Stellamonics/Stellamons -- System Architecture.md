@@ -13,10 +13,10 @@ summary: ""
 
 We've established:
 - [[Stellamons -- Stars and Spectral Classes|Stars and Spectral Classes]]
-- [[04.00.00.00.01 Orbits, Thermozones, and Animozones]]
+- [[02. Orbits, Thermozones, and Animozones]]
 - [[Stellamons -- Orbital Habitability Index|Orbital Habitability Index]]
-- [[04.00.00.00.01 Orbits, Thermozones, and Animozones|Nucleal]] ($N$) Orbit, and
-- [[04.00.00.00.01 Orbits, Thermozones, and Animozones|Perannual]] ($P$) Orbit
+- [[02. Orbits, Thermozones, and Animozones|Nucleal]] ($N$) Orbit, and
+- [[02. Orbits, Thermozones, and Animozones|Perannual]] ($P$) Orbit
 
 But planemons don't orbit only at these discreet distances – they're all over the place. Here's a breakdown of our own Solar system's planemon orbit data:
 
