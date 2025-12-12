@@ -40,11 +40,11 @@ $$ F = \varepsilon \sigma T^4$$
 $$
 \begin{array}{c|c|c|c}
 \text{Temperature} &\text{Mass} &\text{Radius} &\text{Lifetime} \\[0.1em]
-\text{(T)} &\text{(M)} &\text{(R)} & \text{($Q$)} \\[0.5em] 
+\text{(T)} &\text{(M)} &\text{(R)} & \text{($V$)} \\[0.5em] 
 \hline
-T=\sqrt[1.98]{M} & M=\sqrt[0.9]{R} & R=M^{0.9} & Q=M^{-2.5} \\[0.5em]
-T=\sqrt[1.8]{R} & M=T^{1.98} & R=T^{1.8} & Q \approx \sqrt[-0.36]{R} \\[0.5em]
-T=Q^{-0.2} & M=Q^{-0.4} & R=Q^{-0.36} & Q=T^{-5}
+T=\sqrt[1.98]{M} & M=\sqrt[0.9]{R} & R=M^{0.9} & V=M^{-2.5} \\[0.5em]
+T=\sqrt[1.8]{R} & M=T^{1.98} & R=T^{1.8} & V \approx \sqrt[-0.36]{R} \\[0.5em]
+T=Q^{-0.2} & M=Q^{-0.4} & R=Q^{-0.36} & V=T^{-5}
 \end{array}\tag{1}
 $$
 > > **NOTE**:
@@ -141,9 +141,9 @@ M &= T^{1.98} \\[1ex]
 Q &= T^{-5} \quad or \quad Q = M^{-2.5}
 \end{aligned}
 $$
-#### Starting with Lifetime ($Q$)
+#### Starting with Lifetime ($V$)
 **As soon as you assume you'd never want to do this, you'll find a case for doing it.**
-**Primary dependency chain**: $Q \rightarrow T \rightarrow K \rightarrow R \rightarrow L \rightarrow M$
+**Primary dependency chain**: $V \rightarrow T \rightarrow K \rightarrow R \rightarrow L \rightarrow M$
 
 $$
 \begin{aligned}
@@ -161,11 +161,11 @@ The Standard Parameter Equations shown in Equation set (1), above, *generally* w
 $$
 \begin{array}{c|c|c|c|c}
 \text{Temperature} &\text{Mass} &\text{Radius} &\text{Lifetime} & \text{Lifetime} \\[0.1em]
-\text{(T)} &\text{(M)} &\text{(R)} & \text{($Q$)} &\text{(L)} \\[0.5em] 
+\text{(T)} &\text{(M)} &\text{(R)} & \text{($V$)} &\text{(L)} \\[0.5em] 
 \hline
-T=\sqrt{M} & M=\sqrt[0.9]{R} & R=M^{0.9} & Q=M^{-2.5} & L = M^{3.8} \\[0.5em]
+T=\sqrt{M} & M=\sqrt[0.9]{R} & R=M^{0.9} & V=M^{-2.5} & L = M^{3.8} \\[0.5em]
 T=\sqrt[1.8]{R} & M=T^{1.98} & R=T^{1.8} & Q \approx \sqrt[-0.36]{R} & L \approx R^{4.\bar{2}} \\[0.5em]
-T=Q^{-0.2} & M=Q^{-0.4} & R=Q^{-0.36} & Q=T^{-5} & L = T^{7.6} \\[0.5em]
+T=Q^{-0.2} & M=Q^{-0.4} & R=Q^{-0.36} & V=T^{-5} & L = T^{7.6} \\[0.5em]
 T= \sqrt[7.6]{L} & M = \sqrt[3.8]{L} & R \approx \sqrt[4.\bar{2}]{L} & Q = L^{-1.52} & L = \sqrt[-1.52]{Q}
 \end{array}
 $$
