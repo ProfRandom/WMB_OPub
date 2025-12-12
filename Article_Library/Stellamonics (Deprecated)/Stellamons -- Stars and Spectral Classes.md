@@ -7,8 +7,6 @@ created: <%* tp.file.creation_date("YYYY-MM-DD") %>
 updated: <%tp.date.now("YYYY-MM-DD") %>
 summary: ""
 ---
- 
-
 # Stellar Parametrics
 
 Stellamons (stars), like duromons, have a basic set of parameters that describe them:
@@ -58,8 +56,6 @@ $$
 \textbf{Y} & 300 & 600
 \end{array}
 $$
-
-
 > Notes:
 > - Each range reflects a star's **surface temperature**, typically noted as $T_{\text{eff}}$ in astronomical literature.
 > - In WMB:
@@ -149,6 +145,7 @@ S &= \dfrac{200}{100} \\[1ex]
 S &= 2\;\checkmark
 \end{aligned}
 $$
+
 **The Sun is spectral type *G2***.
 
 **Reversing the process:**
