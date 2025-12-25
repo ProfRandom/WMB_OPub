@@ -1,3 +1,5 @@
+# Seasons -- Sinusoidal Calculation
+
 # Sectal-Length Estimation Methods (Sinusoidal)
 This process assumes that you have already determined the duration of your planet's orbit around its star (its *sidereal chronum*, $\chi$).
 

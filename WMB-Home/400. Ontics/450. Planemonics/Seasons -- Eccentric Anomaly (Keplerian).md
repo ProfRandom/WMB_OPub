@@ -8,7 +8,7 @@ version: 1.0
 updated: 2025-11-06
 contributors: [M. Conrad, GPT-5]
 ---
-
+# Seasons -- Eccentric Anomaly (Keplerian)
 # 1 · Context and Purpose
 
 The **Eccentric Anomaly Method** provides a geometric and temporal framework for estimating **sectal durations** on worlds whose orbits are **non-circular**.
