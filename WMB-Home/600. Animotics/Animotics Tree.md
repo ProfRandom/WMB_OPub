@@ -7,7 +7,6 @@ created: 2025-11-28
 updated: 2025-11-28
 summary: ""
 ---
- 
 # The Animotics Tree
 
 ![[_assets/diagrams/Excalidraw/Animotic Branches|700]]
@@ -17,8 +16,7 @@ Vitality in the Worldmaking Basics (WMB) framework is not a single spectrum, but
 1. **Amegic Axis** — what *substrate* supports vitality  
    (COH → xenochemical → nonchemical, etc.)
 
-2. **Anthropic Axis** — how compatible a world or organism is with  
-   **Earth-human physiology**  
+2. **Anthropic Axis** — how compatible a world or organism is with **Earth-human physiology**  
    (minanthropic → mesanthropic → maxanthropic → melanthropic)
 
 3. **Morphotic Axis** — what *type of body or medium* the vitality inhabits  
@@ -30,10 +28,9 @@ No single hierarchy can describe “life” — but together, the three axes giv
 
 ---
 
-# 🜁 **1. AMEGIC AXIS – The Substrate of Vitality**
+# 🜁 **1. AMEGIC AXIS  –  The Substrate of Vitality**
 
 The Amegic axis describes **what kind of medium** supports vitality or lifelike processes.
-
 ## Levels of Amegicity
 In natural language:
 
@@ -48,14 +45,14 @@ These do *not* assume Earthlike biochemistry. They measure the **capacity** of a
 
 # 🌿 **The Biotic Order (COH-amegic)**
 
-> **Substrate:** Carbon–Oxygen–Hydrogen molecular systems (“COH”)  
+> **Substrate:** Carbon – Oxygen – Hydrogen molecular systems (“COH”)  
 > **Distinction:** The only Amegic class capable of supporting Terran-type biochemistry.
 
 Biotics inherit the COH constraints:
 
 - liquid-phase solvent  
 - midrange temperatures  
-- silicate–metal worlds  
+- silicate – metal worlds  
 - stable atmospheric cycling  
 
 The Biotic Order contains *all* Terric, Geotic, Gaean, and Kybelic planemons.
@@ -66,24 +63,24 @@ These subdivisions classify not the substrate, but **human physiological compati
 1. **Terric Domain** — mesanthropic  
    - COH-compatible, parahabitable to humans  
    - breathable or modifiable atmosphere likely  
-   - gravity tolerable (0.68–1.50g)  
-   - mass 0.40–2.35♁  
+   - gravity tolerable (0.68 – 1.50g)  
+   - mass 0.40 – 2.35 t  
 
 2. **Geotic Realm** — maxanthropic  
    - broadly Earthlike  
    - stable, moderate environments  
-   - gravity 0.76–1.40g  
+   - gravity 0.76 – 1.40g  
 
 3. **Gaean Province** — melanthropic  
    - “shirtsleeve” human worlds  
-   - gravity 0.90–1.10g  
-   - radius 0.74–1.33♁  
+   - gravity 0.90 – 1.10g  
+   - radius 0.74 – 1.33 t  
    - the planetary sweet spot
 
 ### **Kybelic Domain — melamegic**
 A parallel Biotic domain:
-- high-mass COH worlds (1.0–2.0♁)  
-- gravity trending high (1.10–1.40g)  
+- high-mass COH worlds (1.0 – 2.0 t)  
+- gravity trending high (1.10 – 1.40g)  
 - extremely robust biospheric potential  
 - *not* necessarily human-friendly  
 
@@ -235,7 +232,7 @@ A magnetic auroral entity might be:
 		- Hydrogen-Reduction Metabolism
 	- Silicate Domain
 		- Molten Silicate Life
-		- Hybrid Si–C Life
+		- Hybrid Si – C Life
 		- Crystalline Parasites
 	- Halogenic Domain
 		- Fluorine-Solvent Life
@@ -304,7 +301,7 @@ A magnetic auroral entity might be:
 # 🏁 **Summary for WMB Users**
 
 - **Biotic = COH-life substrate**  
-- **Terric–Geotic–Gaean = human-comfort axis within COH-life**  
+- **Terric – Geotic – Gaean = human-comfort axis within COH-life**  
 - **Kybelic = superhabitable COH-worlds (not a comfort class)**  
 - **Xenotic = all non-COH chemistries capable of vitality**  
 - **Astatic = all field, plasma, quantum, and non-matter animota**  

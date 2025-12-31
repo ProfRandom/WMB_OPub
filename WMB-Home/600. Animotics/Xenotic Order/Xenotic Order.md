@@ -7,8 +7,6 @@ created: 2025-11-28
 updated: 2025-11-28
 summary: ""
 ---
- 
-
 ## Xenotic Order
 
 $$
@@ -22,6 +20,7 @@ $$
 \end{aligned}
 \right.
 $$
+
 > *Xenotics* are planemons whose environmental conditions may support **non-Earthlike life**, including **non-carbonic**, **non-water-based**, or otherwise exotic biochemistries. The term is not tied to physical parameters, but to the **biological strangeness** of the world's potential life-hosting capacity.
 
 **Core Feature**:

@@ -7,8 +7,6 @@ created: 2025-11-28
 updated: 2025-11-28
 summary: ""
 ---
- 
-
 # Justifying Parahabitable Parameter Limits
 
 This envelope is not intended to describe strict Gaean-level habitability. Instead, it marks a **flexible but centered band** in which human life can be sustained or engineered, and where ecological and technological systems remain stable without extreme compensatory measures. It reflects not only biological tolerance but **civilizational viability**—balancing survivability, mobility, infrastructure, and long-term planemon stability.
@@ -22,9 +20,9 @@ Good scholarship demands more than assertion. These limits must be **justified**
 This article examines the reasoning behind each boundary, surveys the major edge cases, and outlines the physical, chemical, and ecological consequences of pushing beyond these thresholds.
 
 # Mass
-## Mass Below ≈ 0.30♁
+## Mass Below ≈ 0.30 t
 
-Worlds below ~0.30♁ fall outside the parahabitable phase space altogether. Their low mass leads to a cascade of failures that prevent long-term COH-life from stabilizing:
+Worlds below ~0.30 t fall outside the parahabitable phase space altogether. Their low mass leads to a cascade of failures that prevent long-term COH-life from stabilizing:
 
 ### • Chronic Atmospheric Loss
 - Low escape velocities allow thermal escape and sputtering  
@@ -53,12 +51,12 @@ Worlds below ~0.30♁ fall outside the parahabitable phase space altogether. The
 - Heavier volatiles dominate  
 - Results range from toxic traces to near-total atmospheric collapse
 ## Conclusion (Low Mass)
-Planemons below ~0.30♁ may be **animotic** in a transient or extremophile sense, but they cannot sustain a long-term, surface-accessible COH-life ecology. They lie outside the Terric and Kybelic Domains and entirely outside the Geotic and Gaean envelopes.
+Planemons below ~0.30 t may be **animotic** in a transient or extremophile sense, but they cannot sustain a long-term, surface-accessible COH-life ecology. They lie outside the Terric and Kybelic Domains and entirely outside the Geotic and Gaean envelopes.
 
-## Mass Above ≈ 3.35♁
-Worlds above ~3.35♁ lie **beyond the parahabitable phase space**. While COH-life may still exist in exotic or deep subsurface regimes, the structural conditions required for Terric or Kybelic worlds no longer apply. Above this threshold, planemons transition into **super-dense super-Earths, steam-envelope worlds, or sub-Neptunian classes**, where Earthlike surface environments become impossible.
+## Mass Above ≈ 3.35 t
+Worlds above ~3.35 t lie **beyond the parahabitable phase space**. While COH-life may still exist in exotic or deep subsurface regimes, the structural conditions required for Terric or Kybelic worlds no longer apply. Above this threshold, planemons transition into **super-dense super-Earths, steam-envelope worlds, or sub-Neptunian classes**, where Earthlike surface environments become impossible.
 ### • Surface Gravity Becomes Prohibitive
-- Rocky compositions often exceed **2–3♁** surface gravity  
+- Rocky compositions often exceed **2–3 t** surface gravity  
 - Biomechanical and Earthlike biochemical tolerances collapse  
 - Surface environments become compression-dominated and energetically hostile  
 ### • Escape Velocity Reaches Gas-Giant Territory
@@ -83,18 +81,18 @@ Worlds above ~3.35♁ lie **beyond the parahabitable phase space**. While COH-li
 - No open-air environments  
 - Any COH-life must occur deep below the atmosphere, under crushing pressure and reducing chemistry  
 - These conditions fall outside Terric and Kybelic constraints  
-## Conclusion (Mass > 3.35♁)
-Above ~3.35♁, worlds exit the **parahabitable envelope** entirely. While exotic animotic pathways may exist in deep subsurface environments, such planemons can no longer sustain Terric-like or Kybelic-like structures, nor any form of surface-accessible COH-life. They naturally transition toward **steam worlds, water-rich sub-Neptunes, or transitional gas giants**, with no stable surface biosphere.
+## Conclusion (Mass > 3.35 t)
+Above ~3.35 t, worlds exit the **parahabitable envelope** entirely. While exotic animotic pathways may exist in deep subsurface environments, such planemons can no longer sustain Terric-like or Kybelic-like structures, nor any form of surface-accessible COH-life. They naturally transition toward **steam worlds, water-rich sub-Neptunes, or transitional gas giants**, with no stable surface biosphere.
 
 # Density 
 
-## Below ≈ 0.500♁
+## Below ≈ 0.500 t
 - **Indicates a Volatile-Rich Composition**
- - Density < 0.500♁ usually signals a world made of **ice, silicates, organics, or gas** — not rock and iron
+ - Density < 0.500 t usually signals a world made of **ice, silicates, organics, or gas** — not rock and iron
  - Analog worlds:
- - Titan (ρ ≈ 0.330♁): methane–ice hybrid
- - Callisto (ρ ≈ 0.330♁): rock–ice mix
- - Ganymede (ρ ≈ 0.360♁): stratified ice/rock interior
+ - Titan (ρ ≈ 0.330 t): methane–ice hybrid
+ - Callisto (ρ ≈ 0.330 t): rock–ice mix
+ - Ganymede (ρ ≈ 0.360 t): stratified ice/rock interior
  - These are **low-gravity**, **poorly differentiated**, and **chemically reducing** environments
 - **Geostructural Weakness**
 	- With low density, even a modest-mass world becomes **bloated in radius**
@@ -149,24 +147,24 @@ Above ~3.35♁, worlds exit the **parahabitable envelope** entirely. While exoti
  - Weather systems sluggish or explosive depending on thermal regime
  - Noise transmission altered — **quiet, eerie landscapes**, or rapid atmospheric thumps
 - **Conclusion**: 
-	- Density below ~0.500♁ means your world is likely an **iceball, a gas-rich bloater, or a crust over a subsurface ocean**. 
+	- Density below ~0.500 t means your world is likely an **iceball, a gas-rich bloater, or a crust over a subsurface ocean**. 
 	- Even if mass or gravity fall within Geotic bounds, the planemon’s internal
 	- Such a world may be animotic, or even **parahabitable**, under exotic conditions — but its suitability for Earthlike surface biospheres is **nearly nil**.
 
-## Above ≈ 1.500♁
+## Above ≈ 1.500 t
 - **Strong Indicator of Iron-Heavy Composition**
 	- High density often means a **large metallic core** and a **thin rocky mantle**
  - Possible formation pathways:
- - **Mantle stripping** via giant impacts (Mercury is the classic example: ρ ≈ 1.684♁)
+ - **Mantle stripping** via giant impacts (Mercury is the classic example: ρ ≈ 1.684 t)
  - **Primordial metal-rich protoplanemon** that never accreted much silicate material
  - **Volatile loss** in early system formation
  - These planemons are **compact and massive** for their size, with unusually high surface gravity
 - **Extreme Surface Gravity — Even at Modest Mass**
 	- For a given mass, high density = small radius → **gravity spikes**
- - A 1.000 ♁ mass planemon with 1.8♁ density has:
- - Radius ≈ 0.800 ♁
- - Gravity ≈ 1.560 ♁
- - Escape velocity ≈ 1.400–1.500 ♁
+ - A 1.000  t mass planemon with 1.8 t density has:
+ - Radius ≈ 0.800  t
+ - Gravity ≈ 1.560  t
+ - Escape velocity ≈ 1.400–1.500  t
 	- These effects rapidly breach Geotic thresholds — even with otherwise “Earthlike” mass
 - **Thin Crust, Shallow Mantle**
 	- A large core displaces rocky material → **thin silicate crust**
@@ -211,6 +209,6 @@ Above ~3.35♁, worlds exit the **parahabitable envelope** entirely. While exoti
 	- Visual perception altered by atmospheric thickness and refractive index
 	- The world may *look* Earthlike — but it will **feel alien**
 - **Conclusion**: 
-	- planemons with ρ > 1.500♁ are **metal-heavy, compact, and structurally intense**.
+	- planemons with ρ > 1.500 t are **metal-heavy, compact, and structurally intense**.
 	- While they may retain atmospheres and shield themselves magnetically, their geology and surface conditions **work against biospheric diversity and long-term climate stability**.
 	- They may be animotic — but their suitability for Earthlike life is tenuous, and their evolutionary trajectories are likely to be **slow, deep, and strange**.
