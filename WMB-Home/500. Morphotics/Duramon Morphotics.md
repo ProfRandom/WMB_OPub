@@ -7,10 +7,10 @@ created: 2025-11-28
 updated: 2025-11-28
 summary: ""
 ---
- 
+References to animotic potential are descriptive overlays only; morphotypes are defined independently of the presence or absence of life. 
 
-# Duromon Morphotics
-**Duromon Morphotics** defines the structural morphotypes and somatypes expressed by duromonic bodies—objects large enough to support differentiation, sustained internal energetics, and coherent phase domains.
+# Duramon Morphotics
+**Duramon Morphotics** defines the structural morphotypes and somatypes expressed by duramonic bodies—objects large enough to support differentiation, sustained internal energetics, and coherent phase domains.
 
 This article explains **what** Lithiform, Rheiform, Aeriform, and Ulsiform morphotypes *are*. For where these appear along the mass continuum, see **Monon Morphotic Mapping**.
 # Core Morphotypes
@@ -18,7 +18,7 @@ This article explains **what** Lithiform, Rheiform, Aeriform, and Ulsiform morph
 ## 1. Lithiform
 Rock–metal bodies with solid crusts, differentiated mantles, metallic cores, and stable tectonic potential.
 ### Key Traits
-- Density: **0.85–1.25♁**  
+- Density: **0.85–1.25 t**  
 - Silicate mantle + iron core  
 - Supports long-term tectonics in mid-mass ranges  
 - Only morphotype capable of Terric/Kybelic/Geotic/Gaean classifications  
@@ -41,7 +41,7 @@ Bodies dominated by atmospheric mass, with fluid/gas envelopes exceeding lithic 
 - COH-life surface environments are unstable or inaccessible  
 - Subsurface oceans may exist beneath gas envelopes
 ## 4. Ulsiform
-Degenerate or near-degenerate matter regimes (found in Transomons, Fusomons, Peromons).
+Degenerate or near-degenerate matter regimes (found in Transamons, Fusamons, Peramons).
 ### Key Traits
 - Metallic hydrogen, degenerate cores, exotic plasmas  
 - No lithic surfaces  
@@ -63,17 +63,17 @@ Somatypes refine the descriptive power of morphotypes without redefining them.
 Density determines **material class**, not habitability class. The band:
 
 $$
-\rho \in (0.85 \cdot\cdot\; 1.25)♁
+\rho \in (0.85 \cdot\cdot\; 1.25) t
 $$
 
  — defines **Lithiforms**, the *only* bodies capable of sustaining Terric, Kybelic, Geotic, or Gaean characteristics.
 
-### Below 0.85♁
+### Below 0.85 t
 - Volatile-rich  
 - Weakly differentiated  
 - Icy slush, cryorheiform bodies  
 - Not parahabitable
-### Above 1.25♁
+### Above 1.25 t
 - Metal-heavy  
 - Thin mantles, stagnant-lid tectonics  
 - Gravimetrically harsh  

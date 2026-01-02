@@ -14,12 +14,12 @@ Micromons (Small Stellar System Bodies; S³B) are distinct from planemons (plane
 
 |                         |                   |                  |                     |
 | ----------------------- | ----------------- | ---------------- | ------------------- |
-| **Micromon Mass Range** | **Max Mass (µT)** | **Max Mass (T)** | **Max Radius (km)** |
-| **Minimum**             | Meteoroid Scale   | ≥0.0000001 T     | ≥1 km               |
-| **Maximum**             | 250 µT            | 0.00025 T        | 600 km              |
+| **Micromon Mass Range** | **Max Mass (µt)** | **Max Mass (t)** | **Max Radius (km)** |
+| **Minimum**             | Meteoroid Scale   | ≥0.0000001 t     | ≥1 km               |
+| **Maximum**             | 250 µt            | 0.00025 t        | 600 km              |
 ## Mass & Radius Boundaries Defined
 
-- **Maximum micromon Mass:** **≤250 µT (0.00025 T)**, based on the smallest planetary-mass object (Charon).
+- **Maximum micromon Mass:** **≤250 µt (0.00025 t)**, based on the smallest planetary-mass object (Charon).
 - **Maximum micromon Radius:** **≤600 km**, following Tim deBenedictis' planetary-class threshold.
 - **Everything smaller than this remains a micromon.**
 - **Meteoroids (sub-meter objects) remain a size-based category, not a somatype.**
