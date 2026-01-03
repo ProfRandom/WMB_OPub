@@ -9,8 +9,8 @@ summary: ""
 ---
 References to animotic potential are descriptive overlays only; morphotypes are defined independently of the presence or absence of life. 
 
-# Duramon Morphotics
-**Duramon Morphotics** defines the structural morphotypes and somatypes expressed by duramonic bodies—objects large enough to support differentiation, sustained internal energetics, and coherent phase domains.
+# Duromon Morphotics
+**Duromon Morphotics** defines the structural morphotypes and somatypes expressed by duromonic bodies—objects large enough to support differentiation, sustained internal energetics, and coherent phase domains.
 
 This article explains **what** Lithiform, Rheiform, Aeriform, and Ulsiform morphotypes *are*. For where these appear along the mass continuum, see **Monon Morphotic Mapping**.
 # Core Morphotypes
@@ -41,7 +41,7 @@ Bodies dominated by atmospheric mass, with fluid/gas envelopes exceeding lithic 
 - COH-life surface environments are unstable or inaccessible  
 - Subsurface oceans may exist beneath gas envelopes
 ## 4. Ulsiform
-Degenerate or near-degenerate matter regimes (found in Transamons, Fusamons, Peramons).
+Degenerate or near-degenerate matter regimes (found in Transomons, Fusomons, Peromons).
 ### Key Traits
 - Metallic hydrogen, degenerate cores, exotic plasmas  
 - No lithic surfaces  

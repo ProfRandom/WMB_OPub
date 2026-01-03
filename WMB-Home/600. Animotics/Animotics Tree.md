@@ -20,7 +20,7 @@ Vitality in the Worldmaking Basics (WMB) framework is not a single spectrum, but
    (minanthropic → mesanthropic → maxanthropic → melanthropic)
 
 3. **Morphotic Axis** — what *type of body or medium* the vitality inhabits  
-   (duramons, transamons, fusamons, plasmic regimes, field-coherent structures…)
+   (duromons, transomons, fusomons, plasmic regimes, field-coherent structures…)
 
 Animotics classifies *substrates of vitality*, not organisms, ecosystems, or biomes.  
 A planet or animote may occupy different positions on each axis simultaneously.  
@@ -134,7 +134,7 @@ Astatics are the animota that:
 - may lack **surface gravity or escape velocity entirely**  
 - are governed by **field coherence**, not molecular chemistry  
 
-Astatics **do not obey duramonic equations**.
+Astatics **do not obey duromonic equations**.
 
 Domains include:
 - **Noetheric Domain** (symmetry-coherent structures)  
@@ -176,11 +176,11 @@ To prevent confusion:
 The anthro-axis **only applies to Biotics**.
 
 ### **Morphotic Axis** — What kind of physical body/medium houses the animote?
-- Duramons (solid worlds)  
-- Transamons (brown dwarfs)  
-- Fusamons (stars)  
-- Peramons (supermassive)  
-- Astatics (non-solid, non-duramonic)  
+- Duromons (solid worlds)  
+- Transomons (brown dwarfs)  
+- Fusomons (stars)  
+- Peromons (supermassive)  
+- Astatics (non-solid, non-duromonic)  
 
 These axes are independent.
 
@@ -200,7 +200,7 @@ A Nitrogenic ammonia world might be:
 - Xenotic  
 - non-anthropic  
 - maxamegic  
-- morphotically Terric or Mesamonic  
+- morphotically Terric or Mesomonic  
 
 A magnetic auroral entity might be:
 - Astatic  
