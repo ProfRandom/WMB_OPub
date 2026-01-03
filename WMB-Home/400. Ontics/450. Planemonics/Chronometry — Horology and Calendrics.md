@@ -1,3 +1,14 @@
+---
+project: wmb
+phase: 1
+module: 1
+status: draft
+created:
+updated: 2026-01-03
+summary: ""
+realm: mythos
+---
+ 
 # Earth Time
 ## Introduction
 > The only reason for time is so that everything doesn't happen at once.  
@@ -201,8 +212,10 @@ $$
  $$
 \begin{array}{llll}
  \left\lfloor \dfrac{365}{29.5} \right\rfloor &= &\mathbf{12} &\text{whole months} \\[1em]
-\mathop {\dfrac{365}{29.5}}\limits_{-\bullet-}^{-\bullet-}  \times 29.5 &= &\mathbf{11} & \text{remaining days}
+365 \bmod 29.5 &= &\mathbf{11} & \text{remaining days}
 \end{array}
 $$
 
 
+***
+Tag 
