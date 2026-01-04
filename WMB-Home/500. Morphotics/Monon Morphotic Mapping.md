@@ -87,4 +87,7 @@ Morphotics begins at **micromons**,omonures at **Midimons**, and becomes fully s
 For morphotype definitions aomonomatype classifications, see:
 
 **→ Duramon Morphotics**
-omon
+
+***
+Tag Core
+#morphotics #ontics #logos 

@@ -135,3 +135,7 @@ No correction or “fudge factor” is required.
 > It reflects the actual temporal geometry a world would experience if its tempostat chronex ζ were perfectly aligned with a symmetry point of its orbit.
 > 
 > Such a planet would, in fact, exhibit two matching sectal spans during each chromum.
+
+***
+Tag Core
+#ontics #logos #math #animotics #time #habitability 

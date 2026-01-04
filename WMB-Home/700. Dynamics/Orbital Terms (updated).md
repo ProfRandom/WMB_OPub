@@ -60,5 +60,7 @@ $$
 **Secta** ($S_0, S_1, S_2, S_3$) — the four unequal segments of the orbit partitioned by orbital velocity (i.e., by Kepler’s Second Law).  _Secta_ are _not seasons_.  Seasons occur within secta... they may coincide if the sectustat = the chronostat ($\zeta = \Lambda_1$) , but will offset otherwise.
 - When you calculate secta, you calculate season lengths, you just have to determine which sectal corresponds to which season by noting the relationship of the chronostat to the sectastat. If you want to make it easy on yourself, set ζ = Λ and Spring is S₀, etc.
 
-
+***
+Tag Core
+#ontics #orbits #time #math #planemonics
 

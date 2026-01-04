@@ -10,3 +10,7 @@ $$
   - Moons that **skim the horizon** at certain latitudes.  
   - Moons that **“vanish”** from view for part of their orbit.  
   - Irregular eclipse/transit opportunities.
+
+***
+Tag Core
+#orbits #math

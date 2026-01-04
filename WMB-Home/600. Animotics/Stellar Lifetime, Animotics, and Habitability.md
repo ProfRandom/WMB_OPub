@@ -7,7 +7,7 @@ created: <%* tp.file.creation_date("YYYY-MM-DD") %>
 updated: <%tp.date.now("YYYY-MM-DD") %>
 summary: ""
 ---
-# stellamon Lifetimes and System Habitability
+# Stellamon Lifetimes and System Habitability
 
 [Margaret Turnbull and Jill Tartar](https://ui.adsabs.harvard.edu/abs/2003ApJS..145..181T/abstract) have listed some criteria that stars would need to have in order to be what they call a “habstar” — one likely to have an Earth-like planet orbiting it.  among their criteria, they list that the star should:
 1. Be on the Main Sequence;
@@ -75,3 +75,7 @@ On the other hand, the [**Great Oxygenation Event**](https://en.wikipedia.org/wi
 For our purposes, we can specify that an Earth-analog planet must be at least **~$2.0$ billion years old** to have plausibly developed an aerobic atmosphere by biological means, and at least **~$4.0$ billion years old** to have produced indigenous complex life. The **minimum** planetary age for being (in)habitable to human colonists is therefore the lesser of these: **~$2.0$ billion years**.
 
 A star with a main sequence lifetime of **$3.0$ billion years** could host an Earth-analog planet that had time to produce an oxygenated atmosphere, and then remain stable for roughly another **$1$ billion years** before leaving the main sequence. Such a system could be colonized by humans or other oxygen-breathing life, even if indigenous complexity had not yet evolved. The next step is to determine which spectral classes meet this **$≥ 3$ Ga** lifetime criterion.
+
+***
+Tag Core
+#habitability #animotics #time #spectral_type #spectral_class #stellamonics 

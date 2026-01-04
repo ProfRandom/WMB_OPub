@@ -131,3 +131,6 @@ $$
 
 [^2]: literally, "having a common measure"; the orbit of one can't be expressed by a whole number or rational fraction of the other's.
  
+***
+Tag Core
+#time #orbits 

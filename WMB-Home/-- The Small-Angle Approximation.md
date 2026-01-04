@@ -71,3 +71,6 @@ This is essentially the **practical inverse** of the *small-angle approximation*
 #### Universally Applicable
 Because hand and arm proportions scale together with age and body size, this method works for nearly everyone — from children to giants — with only slight variations. And since this is an *approximate* method to begin with, those small differences can be safely ignored.
 
+***
+Tag Core
+#math

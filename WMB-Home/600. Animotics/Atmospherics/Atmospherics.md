@@ -77,3 +77,7 @@ A **Serenal Tundric World** might be a cold, soft-spoken tundra planet with **ne
 
 # Summary
 Atmospherics pairs with [[Climostatics]] to form a planet’s complete environmental profile.
+
+***
+Tag Core
+#ontics #logos #habitability

@@ -29,3 +29,6 @@ The *naked-eye limit* defines the practical boundary between **visible** and **i
 
 When worldbuilding, anything dimmer than about **mag 6** should be considered invisible to ordinary people unless aided by magic, technology, or narrative emphasis.
 
+***
+Tag Core
+#math #planemonics #stellamonics

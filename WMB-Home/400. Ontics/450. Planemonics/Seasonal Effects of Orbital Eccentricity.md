@@ -41,3 +41,8 @@ $$
 $$
 - Earth ($e = 0.0167$):  $\frac{F_{min}}{F_{max}} \approx 1.068$ → **6.8% stronger insolation at periastron**  
 - Rosetta ($e = 0.05$): $\frac{F_{min}}{F_{max}} \approx 1.23$ → **23% stronger insolation at periastron**
+
+***
+Tag Core
+
+#planemonics #ontics #logos #mythos #animotics #time #habitability 

@@ -54,3 +54,7 @@ $$
 - **Escape Velocity (♁):** capped at 25♁ ≈ 280 km/s, brushing the domain of hot-start brown dwarfs.
 
 > These are **not bound by Earth-normal biology**. They simply represent physically plausible, self-cohering planemon-scale entities where exotic life — as chemistry permits — might arise.
+
+***
+Tag Core
+#animotics #environment #habitability

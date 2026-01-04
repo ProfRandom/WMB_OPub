@@ -123,3 +123,8 @@ But this is **not back-of-the-envelope work.**
 
 **Worldbuilding takeaway:**  
 Use the qualitative scenarios and the Quick Method approximation for storytelling. Exact computations belong to advanced orbital mechanics or climate modeling, not casual reference.  
+
+
+***
+Tag Core
+#planemonics #math #logos #mythos #time #habitability 

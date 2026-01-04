@@ -25,3 +25,7 @@ Where:
 - $\chi_{trop}$ — the **tropical chronum** (measured relative to the precessing equinox)
 - $\chi_{sid}$ — the **sidereal chronum** (measured relative to the fixed stars)
 - $\Psi$ — the **precessional period**, the time required for one full rotation of the equinoctial reference.
+
+***
+Tag Core
+#time #ontics #planemonics #logos #math #habitability #animotics 

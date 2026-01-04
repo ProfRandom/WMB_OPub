@@ -32,5 +32,7 @@ summary: ""
 |**Gaean**|1,027 / 31,114|**3.3%**|
 |**Kybelic**|138 / 31,114|**0.44%**| 
 
-
+***
+Tag Core
+#animotics #habitability #environment
 

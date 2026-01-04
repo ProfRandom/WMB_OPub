@@ -212,3 +212,7 @@ Above ~3.35 t, worlds exit the **parahabitable envelope** entirely. While exotic
 	- planemons with ρ > 1.500 t are **metal-heavy, compact, and structurally intense**.
 	- While they may retain atmospheres and shield themselves magnetically, their geology and surface conditions **work against biospheric diversity and long-term climate stability**.
 	- They may be animotic — but their suitability for Earthlike life is tenuous, and their evolutionary trajectories are likely to be **slow, deep, and strange**.
+
+***
+Tag Core
+#animotics #habitability #environment 

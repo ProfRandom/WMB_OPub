@@ -34,21 +34,21 @@ For WMB purposes, our classifications relate directly to the *habitability poten
 
 **Solar Analogs**:
 - Stars whose *peranucleal relation* $\Lambda = \frac{A}{N}$ ratio falls within $(0.500 \cdot\cdot\; 4.850)$, spanning:
-	- [[06. Fundamental Orbits, Thermozones, and Animozones|Zone₀ — Zone₅]] ($Z_0 – Z_5$)
+	- [[Fundamental Orbits, Thermozones, and Animozones|Zone₀ — Zone₅]] ($Z_0 – Z_5$)
 		- Spectral types **F2 – K9**
 		- Nucleal orbits ($0.1474··\;2.3177$) AU
 		- Perannual orbits ($0.7147··\;1.1589$) AU
 
 **Solar Cognates**:
 - Stars whose *peranucleal relation* $\Lambda = \frac{A}{N}$ ratio falls within $(0.750 ·· 1.770)$, spanning:
-	- [[06. Fundamental Orbits, Thermozones, and Animozones|Zone₂ — Zone₄]] ($Z_2 – Z_4$)
+	- [[Fundamental Orbits, Thermozones, and Animozones|Zone₂ — Zone₄]] ($Z_2 – Z_4$)
 		- Spectral types **F7.62 – K1.11**
 		- Nucleal orbits ($0.5004··\;1.4175$) AU
 		- Perannual orbits ($0.8856··\;1.0631$) AU
  
 **Solar Twins**:
 - Stars whose *peranucleal relation* $\Lambda = \frac{A}{N}$ ratio falls within $(0.950 ·· 1.385)$, spanning: 
-	- [[06. Fundamental Orbits, Thermozones, and Animozones|Zone₃]] ($Z_3$)
+	- [[Fundamental Orbits, Thermozones, and Animozones|Zone₃]] ($Z_3$)
 		- Spectral types **G1.04 – G7.73**
 		- Nucleal orbits ($0.6737··\;1.0642$) AU
 		- Perannual orbits ($0.9331··\;1.0110$) AU 
@@ -60,3 +60,7 @@ For WMB purposes, our classifications relate directly to the *habitability poten
 - All Solar Cousin classifications are defined by the dimensionless peranucleal relation $λ=\frac{A}{N}$.  Listed orbital distances are derived consequences, not classification criteria.
 
 ![[Stellar_Correlates.jpg]]
+
+***
+Tag Core
+#habitability #mythos #spectral_type #spectral_class #stellamonics #animotics #habitability #math 

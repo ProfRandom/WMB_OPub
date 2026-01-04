@@ -113,7 +113,7 @@ $$
 … $6.442$ AU *inside* the radius of the star.
 
 > [!important] Remember
-> Such hypergiants live only a few million years at most, for too short for Terran-like biospheres to develop on any companion planets.  (See [[15. Lifetime, Life, and Habitability]] for details.)
+> Such hypergiants live only a few million years at most, for too short for Terran-like biospheres to develop on any companion planets.  (See [[Stellar Lifetime, Animotics, and Habitability]] for details.)
 
 
 ## Conclusion
@@ -121,3 +121,7 @@ $$
 You *can* calculate thermozones (and hence orbital architectures) for giant and supergiant stars, but their immense radii, unstable envelopes, and short lifespans mean those thermozones don’t correspond to genuinely *habitable real estate.*
 
 In Protagorean terms, they fail the human-centered test: such systems are not *Terran-hospitable*, though they may be *mathematically parahabitable* — that is, capable of hosting planets that humans could *use* (for energy, staging, or resource acquisition) without being worlds where Terran-like life would be expected to evolve. (Of course, whether truly alien [[Xenotic Order|**xenotics**]] might arise under such extreme conditions is another matter entirely.)
+
+***
+Tag Core
+#animotics #environment #habitability #spectral_class #spectral_type #stellamonics 

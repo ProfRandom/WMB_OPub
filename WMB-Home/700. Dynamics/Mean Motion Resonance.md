@@ -219,4 +219,7 @@ $$
   … ever true after $T_0$?
 
 The answer is "yes" and we can calculate that, too.
- 
+
+***
+Tag Core
+#time #orbits #math 

@@ -55,3 +55,7 @@ These two layers operate independently but combine naturally to express a world�
 - Writers and worldbuilders can use these combinations to quickly communicate both the **surface environment** and the **weather personality** of a world without technical jargon.
 
 Together, Climostatics and Atmospherics transform planetary description from a vague label (“desert planet”) into a clear, elegant environmental profile—one that is easy to imagine, easy to compare, and easy to build from.
+
+***
+Tag Core
+#animotics #habitability #environment

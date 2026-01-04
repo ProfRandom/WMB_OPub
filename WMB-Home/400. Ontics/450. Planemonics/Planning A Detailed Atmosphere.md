@@ -286,3 +286,7 @@ This assumes (!) an Earth-like atmosphere:
 - Terrestrial radius (~1⨁)
 
 You'll need to shift values worlds with high CO₂, significant greenhouse buildup, or non-volatile-rich origins, but the above should be well within bounds for *Geotic worlds*.
+
+***
+Tag Core
+#planemonics #mythos #habitability #animotics 

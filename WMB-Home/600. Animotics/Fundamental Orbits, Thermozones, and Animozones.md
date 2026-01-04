@@ -6,6 +6,7 @@ status: draft
 created: <\!%* tp.file.creation_date("YYYY-MM-DD") %>
 updated: <\!%tp.date.now("YYYY-MM-DD") %>
 summary: ""
+realm: mythos
 ---
 ![[Thermozones illustration.jpg]]
  
@@ -434,7 +435,7 @@ A &= \sqrt[3]{M} &&\text{When using only the central mass} \\
 \end{aligned}
 $$
 
-We have explored both [[06. Fundamental Orbits, Thermozones, and Animozones#The Nucleal Orbit|The Nucleal Orbit]] and [[06. Fundamental Orbits, Thermozones, and Animozones#The Perannual Orbit|The Perannual Orbit]].
+We have explored both [[Fundamental Orbits, Thermozones, and Animozones#The Nucleal Orbit|The Nucleal Orbit]] and [[Fundamental Orbits, Thermozones, and Animozones#The Perannual Orbit|The Perannual Orbit]].
 
 These two are not *limiting distances*, but **orbital environs** which both describe and contribute to the animotic nature of planemons.
 
@@ -460,3 +461,6 @@ $$
 A = \sqrt[3]{M}
 $$
 
+***
+Tag Core
+#habitability #mythos #spectral_type #spectral_class #stellamonics #orbits #environment #habitability

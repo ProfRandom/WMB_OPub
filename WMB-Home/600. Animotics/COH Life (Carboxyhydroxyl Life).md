@@ -126,3 +126,7 @@ Crucially:
 > **Animotic classes describe physical potential, not actualized biospheres.** COH-life may or may not be present on a given Biotic, Terric, or even Geotic world.
 
 Environmental realization is governed by **Milieutics**, not Animotics.
+
+***
+Tag Core
+#animotics

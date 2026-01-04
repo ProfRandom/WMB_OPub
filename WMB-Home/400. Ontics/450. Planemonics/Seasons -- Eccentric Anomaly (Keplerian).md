@@ -351,3 +351,7 @@ The Kepler method and sinusoidal shortcut agree closely but not exactly; but Kep
 With Rosetta’s higher eccentricity ($e = 0.05$), the **sectal spread is extreme** — from 107 d to 139 d — a difference of over 30 diurns.  
 
 This is exactly the kind of asymmetry you would expect on a world with such an orbit, and it needs **no fudge at all**. -->
+
+***
+Tag Core
+#logos #ontics #planemonics #animotics #time #habitability 

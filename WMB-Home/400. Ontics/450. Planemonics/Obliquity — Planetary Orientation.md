@@ -141,3 +141,7 @@ For Earth:
 $$
 \varepsilon_\rho = \dfrac{23.5}{24.5}\times 100 \approx 95.9\text{\%}\;\downarrow
 $$
+
+***
+Tag Core
+#planemonics #ontics #logos #math 

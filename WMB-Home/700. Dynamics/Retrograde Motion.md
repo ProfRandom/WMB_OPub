@@ -72,3 +72,6 @@ So:
 - Can produce a “**solar reversal**” — the Sun appears to rise in the west and set in the east.
 - Combined with slow rotation, it may completely upend expectations about **day length**, **thermal cycling**, and **climatic intuition**.
  
+***
+Tag Core
+#orbits #time

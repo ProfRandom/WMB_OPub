@@ -310,3 +310,7 @@ A magnetic auroral entity might be:
 
 Everything is now cleanly separated, fully canonical, and future-proof.
 
+***
+Tag Core
+#animotics 
+
