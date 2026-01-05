@@ -81,7 +81,7 @@ $$
 
 For density justification and lithiform mapping, see **Monon Morphotic Mapping**.
 # Cross-Reference
-- [[Monon Morphotic Mapping]] → (where morphotypes apply)  
+- [[Monon Morphotic Mapping (older)]] → (where morphotypes apply)  
 - [[Animotics Overview]] → (how Terrics/Kybelics/Geotics/Gaeans derive from lithiforms)
 
 ***

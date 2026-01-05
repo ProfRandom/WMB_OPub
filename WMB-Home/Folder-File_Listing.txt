@@ -1,0 +1,123 @@
+.
+├── __ All Tags
+│   └── __ All Tags Listing.md
+├── __ Start Here
+│   ├── __ What is WMB.md
+│   ├── Neolexicosis — The Worldmaker's Malady.md
+│   ├── Plot Holes and Potholes.md
+│   ├── The Anthropic Norm and the Mediocritic Principle.md
+│   ├── The GEWE Corollary.md
+│   ├── The SANC Charter.md
+│   └── To GEWE or Not To GEWE.md
+├── Animotics
+│   ├── Animotics And The Rest of The Solar System.md
+│   ├── Animotics Overview.md
+│   ├── Astatic Order.md
+│   ├── Atmospherics.md
+│   ├── Climostatics.md
+│   ├── COH Life (Carboxyhydroxyl Life).md
+│   ├── COH-animosys and the Animotic Classes.md
+│   ├── Fundamental Orbits, Thermozones, and Animozones.md
+│   ├── Habitable Zones of Giant Stars.md
+│   ├── Introduction to Animotics.md
+│   ├── Justifying Parahabital Parameter Limits.md
+│   ├── Kybelic Domain.md
+│   ├── Relating Stellar Ages to Appearance and Evolution of Life.md
+│   ├── Solar Analogs, Cognates, and Twins.md
+│   ├── Stellar Lifetime, Animotics, and Habitability.md
+│   ├── The Animotics of Earth Through Time.md
+│   ├── The Animotics-Planemonics Bridge.md
+│   ├── The Astatic Order.md
+│   ├── The Biotic Order.md
+│   ├── The Canonical Animotics Tree.md
+│   ├── The Gaean Province.md
+│   ├── The Geotic Realm.md
+│   ├── The Terric Domain.md
+│   ├── The Xenotic Order.md
+│   ├── Updated Biotic Phase Space.md
+│   └── WMB Terminology – “Bio-” vs. “Animo-”.md
+├── Dynamics
+│   ├── Calculating Stellar Sky Paths.md
+│   ├── Mean Motion Resonance.md
+│   ├── Non-CoPlanar Orbits.md
+│   ├── Orbital Terms (updated).md
+│   ├── Retrograde Motion.md
+│   ├── The Synodial Epoch.md
+│   └── Workflow for Calculating Azimuthal Intersections.md
+├── Eikon-Eidara Prototype System
+│   ├── Eikon Thermozones.md
+│   ├── Other System Orbits.md
+│   ├── Overview.md
+│   ├── Planemon -- Eidara.md
+│   ├── Sobrinon -- Eis.md
+│   ├── Sobrinon -- Eisen.md
+│   ├── Star -- Eikon.md
+│   └── Synodial Dynamics.md
+├── Folder-File_Listing.txt
+├── Milieutics
+│   └── Milieutics Overview.md
+├── Numerics
+│   ├── Standard Numerics
+│   │   ├── Ellipse Geometry Solver.md
+│   │   ├── Engineering Number Notation.md
+│   │   ├── General Use Equations.md
+│   │   ├── Linear Equations.md
+│   │   ├── Range Interpolation.md
+│   │   ├── Rational Approximation With Continued Fractions.md
+│   │   ├── Rules of Exponents.md
+│   │   ├── Standard Constants.md
+│   │   ├── Standard Mathematics.md
+│   │   ├── Temperature Scales.md
+│   │   └── The Euclidean Algorithm - Greatest Common Divisor.md
+│   ├── The Naked-Eye Limit of Object Visibility.md
+│   ├── The Small-Angle Approximation.md
+│   └── Wimby Numerics
+│       ├── Cascading Rounding Notation.md
+│       ├── Negation, Mandation, Prescription.md
+│       ├── Number Range Notation.md
+│       ├── Precision Inference Rules.md
+│       ├── Random Assignment Syntax.md
+│       ├── The Resultant.md
+│       ├── Wimby Extension of the SI Prefix System.md
+│       └── Wimby Numerics.md
+└── Ontics
+    ├── Apparent and Absolute Magnitude.md
+    ├── Asteroid Belt Placement and Extents.md
+    ├── Chronometry — Horology and Calendrics.md
+    ├── Duramon Ground States.md
+    ├── Duramon Physical Parameters.md
+    ├── Duromon Equations of State.md
+    ├── Introduction to Planemonics.md
+    ├── Luminosity Variation Over Time.md
+    ├── Micromon Morphotics.md
+    ├── Monon Morphotic Mapping.md
+    ├── Monons, Cules, Lexes, and Gates.md
+    ├── Moons.md
+    ├── Morphotics.md
+    ├── Nucleal Flux Offset.md
+    ├── Obliquity — Planetary Orientation.md
+    ├── Other Planetary Orbits.md
+    ├── Planemon Naked Eye Visibility.md
+    ├── Planning A Detailed Atmosphere.md
+    ├── Principles and Properties.md
+    ├── Proxicentrics.md
+    ├── Ring_Shadows.md
+    ├── Roche Limits and Roche Lobes.md
+    ├── Seasonal Effects of Orbital Eccentricity.md
+    ├── Seasons -- Eccentric Anomaly (Keplerian).md
+    ├── Seasons -- Sinusoidal Calculation.md
+    ├── Sidereal and Tropical Years.md
+    ├── Spectral Subtypes and The Traditional Classes (Interpolation Workarounds).md
+    ├── Stars and Spectral Classes.md
+    ├── Stellamon Equations of State.md
+    ├── Stellamonics -- An Orientation.md
+    ├── Stellar Luminosity Classes.md
+    ├── Stellar Populations.md
+    ├── The Distance Modulus.md
+    ├── The Hill Sphere.md
+    ├── The Main Sequence.md
+    ├── The Ontic Hierarchy.md
+    ├── The Shortcomings of the Traditional Spectral Scale.md
+    └── Varymonic Series.md
+
+11 directories, 110 files

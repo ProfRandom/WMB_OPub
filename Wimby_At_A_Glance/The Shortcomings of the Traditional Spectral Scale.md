@@ -1,0 +1,154 @@
+---
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: 
+updated: 2026-01-05
+summary: ""
+realm: logos
+---
+# The Shortcomings of the Traditional Spectral Type System
+
+> [!info] Special Note
+> This article does not propose a new astrophysical truth, but a new way of coordinating existing truths for worldbuilding use.
+
+The classic stellar spectral sequence — O, B, A, F, G, K, M — originated as a cataloging system based on observed absorption lines in starlight. It was never designed to be linear, complete, or even particularly rational. And it shows.
+
+> 🔍 *Spectral types weren’t designed — they accreted.*
+
+- Early classifiers like [**Annie Jump Cannon**](https://en.wikipedia.org/wiki/Annie_Jump_Cannon) grouped stars by hydrogen line strength.
+- Later work (e.g., by Morgan, Keenan, and especially [**Cecilia Payne-Gaposchkin**](https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin)) retrofitted those types to [[Stellamon Equations of State#Why "Blackbody" Matters Here|surface temperature]].
+- The result? **Inconsistent temperature spans**, irregular gaps between classes, and no underlying mathematical symmetry.
+
+![[ST_Temp_Diff_Graph.png]]
+
+## Comparison of Temperature Scales
+
+In the above graph, the filled columns represent the traditional temperatures assigned per spectral type (all are show, but not all are labeled on the horizontal axis).
+
+The orange line represents the linear flow of the Wimby spectral type temperature scale.  Different spectral types have different slopes, but the overall scale is continuous.
+
+A few features are immediately obvious:
+- WMB temps are lower than traditional temps for O-class stars
+- WMB tends to over report temps for B- and A-class stars compared to the traditional system
+- F- through M-class stars show much less variation (see below), with WMB under-reporting in the low G- and high K-class ranges.
+
+## The Solar Correlates
+
+![[ST_Temp_Diff_Graph_F-K.png]]
+
+This graph focuses on spectral types **F0 — K9**, the regime most relevant to Solar Analogs, Cognates, and Twins (**F2 — K9**).  For readability, the lower temperature axis has been truncated at $3500$ K; high-temperature values are shown in full.
+
+Notice:
+- WMB slightly over-reports temperatures for early F-class stars.    
+- Both data sets converge closely at **spectral type G2** (solar).    
+- WMB reports progressively lower temperatures than traditional values from **G3 through K9**.
+
+Because the vertical scale is compressed, the visual divergence between curves appears larger than the underlying numerical differences. In absolute terms:
+
+- The **minimum difference** is **20 K** at spectral type G3 (WMB: 5700 K; traditional: 5720 K).    
+- The **maximum difference** is **400 K** at spectral type K2 (WMB: 4700 K; traditional: 5100 K).    
+- The **median absolute difference** is **200 K**, with a mean of **208 K**.    
+- The **standard deviation** is **99 K**, with a slight negative skew (−0.204).    
+
+These differences are small relative to the total temperature span of the F — K sequence and fall well within the uncertainty bands implicit in traditional spectral typing. For stellamonic purposes, the benefit of a continuous, internally consistent temperature model outweighs the loss of fine-grained empirical fidelity.
+
+**Note on the G/K Boundary**  
+In traditional stellar catalogs, the transition between late G-type and early K-type stars is gradual and inconsistently defined, spanning roughly 5200–5000 K depending on source.
+
+Wimby adopts a continuous, monotonic temperature–luminosity relation that places stars below ~5000 K in the K-type regime. As a result, some stars traditionally classified as late G-type in traditional catalogs will appear as early K-type in WMB.
+
+This reflects a shift in emphasis from spectral labeling to system-level behavior and does not imply a physical disagreement.
+
+## 🧭 Why WMB Does This
+
+Worldmaking Basics adopts a **linearized spectral system** so that:
+
+- Each spectral class is assigned a clean temperature range
+- Subclasses divide that range evenly
+- The system becomes **interpolatable**, **predictable**, and **symbolically clear**
+
+This makes it easier to:
+
+- Calculate stellar parameters from temperature
+- Relate stars to their orbits and Thermozones
+- Avoid the awkwardness of stars that fall “between classes”
+
+> ⚖️ *The WMB scale isn’t intended to be astrophysically exact — but it is symbolically coherent and consistently usable.*
+
+> [!note]
+> In stellamonics, spectral class is treated as a descriptive label rather than a governing parameter. System behavior is determined primarily by stellar mass, luminosity, and lifetime; spectral types are retained as a translation layer for familiarity and reference.
+
+
+**Wimby Spectral Convention**
+
+In the traditional spectral system, spectral types are **not defined as a continuous temperature scale**, but as a sequence of **diagnostic spectral regimes**. Each class and subtype corresponds to the appearance or disappearance of specific absorption features, not to evenly spaced temperature intervals.
+
+![[Trad_Temp_Classes.jpg]]
+
+Subtypes (0–9) were introduced to refine classification _within_ a class, but **boundaries between classes are defined by qualitative changes in dominant spectral features**, such as the loss of helium lines or the onset of strong hydrogen absorption. At these boundaries, the spectrum changes character rather than transitioning smoothly.
+
+As a result:
+
+- There is no formal definition for intermediate types like _A0.3_ or _B9.6_    
+- A star whose effective temperature lies between two class boundaries is assigned to whichever spectral regime its observed lines most closely resemble    
+- The system remains **observationally discrete**, even though stellar temperatures are physically continuous
+
+This reflects the historical purpose of the spectral system: **classification by appearance**, not interpolation by temperature.
+
+For instance, in the traditional system, a star with an effective temperature of **9824 K** has no formally defined spectral type; it lies between the canonical A0 and B9 regimes. 
+
+A professional astronomer would classify the star as **A0 or B9 based on its spectrum**, then calmly report a temperature that appears to fall “between” the nominal ranges — because in the traditional system, that isn’t a problem at all.
+
+Under **Wimby’s spectral convention**, temperature is treated as a continuous parameter, and such a star may be assigned a **fractional spectral type** based on its position within the defined temperature span of a class boundary.
+
+Thus: 
+
+- 9824 K lies between A0 (9700 K) and B9 (10700 K).    
+- It therefore _must_ correspond to a fractional spectral coordinate.
+
+$$
+\begin{aligned}
+S &= \dfrac{10000 - 9824}{250} \\
+&= \dfrac{176}{250} \\[1ex]
+S &= \boxed{\mathbf{0.704}}
+\end{aligned}
+$$
+
+ — A0.704, in fact.
+
+In stellamonics, **stellar temperature** ($\mathit{\Theta}$ or $K$​) is the *primary descriptor* of stellar behavior. Spectral classes and types are treated as **derived labels**, provided for orientation and cross-reference rather than as governing parameters. All system-level calculations proceed directly from temperature, luminosity, and mass, independent of spectral binning.
+
+![[WMB_Temp_Classes.jpg]]
+
+This does not claim greater physical precision (it’s not), but rather provides a **consistent, interpolatable mapping** between temperature and spectral designation for worldmaking purposes.
+
+**Accordingly**, spectral type could be omitted entirely in the WMB framework, with stellar temperature treated as the primary identifier of a stellamon. Spectral types are retained solely for compatibility with real-world astronomical conventions and ease of reference.
+
+![[Combined_Temp_Classes.jpg]]
+
+
+
+
+
+
+
+
+
+# Bottom Line
+
+If your fiction or modeling needs the exact, messy mess of real-world classification? 
+
+Use real-world data. 
+
+But if you need a system that supports symbolic structure, habitability logic, and easy computation?
+
+> Mind the gap. 
+> Use the line.
+
+
+***
+Tag Core
+#stellamonics #ontics  #spectral_type #spectral_class 
+

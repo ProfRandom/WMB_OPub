@@ -1,0 +1,113 @@
+---
+project: wmb
+phase: 1
+module: 1
+status: draft
+created:
+updated: 2025-12-25
+summary: ""
+---
+# What is a "moon"?
+
+In WCB, the term **moon** is *synergological*; that is to say, it describes a **relationship** rather than a condition or status.
+
+Accordingly, WCB defines *moon* as:
+
+> “A natural mononic satellite of another monon that is one hundred or more times more massive than itself.”
+
+The technical term for such a relationship is **parensate** — a monon gravitationally bound to another that overwhelmingly dominates the barycenter.
+
+Thus, Titan is a *moon* of Saturn; and if Earth were in orbit around Jupiter, it too would be classed as a *moon*.
+
+By contrast, if **Uranus** were in orbit around **Jupiter**, it would *not* be a moon ([[Principles and Properties|parensate]]) but a **sobrinate**, because the primaron mass ratio between the two is less than 100 : 1:
+
+$$
+\varphi = \frac{M_{Jupiter}}{M_{Uranus}} = \frac{317.8}{14.536} ≈ 21.9
+$$
+
+The singular term for a sobrinic pair is a **sobrinon**; for a parensic pair, a **parenson**.  We might therefore speak of the *Jupiter–Uranus sobrinon* or the *Saturn–Titan parenson*.
+
+# Historical Context
+
+## Etymology of "moon"
+
+Most dictionaries are somewhat specific in defining the word “moon”: something along the lines of “a moon is a natural satellite of a planet”. However, modern exploration has shown this definition to be limiting: even asteroids have "moons" (Hebe 6 and $415$ others are known as of this writing). So, for our purposes, we need to be a bit more general.  WCB defines "moon" as  “a natural satellite of a monon more than 100 or more times more massive than itself.”
+
+## "The" Moon
+
+In English, the generic noun turned into a proper noun, “the Moon”, as a name for Earth’s only natural satellite. Other English names for the Moon, less commonly seen or used, include Luna, Selene, and Cynthia (the first is Latin, the others Greek). The most common adjectival form used to refer to the Moon is "lunar", though you might also sometimes see “selenic" and “cynthion" (with a hard ‘c’).
+
+As a proper noun, the name “Moon” comes from Old English *mōna*, stemming from Proto-Germanic \**mēnōn*, itself from Proto-Indo-European (PIE) \**mēnsis*, which meant "month" (and still exists in English as “menses”), ultimately derived from PIE \**mēnōt* "to measure", because the Moon's phases were used to measure that unit of time.
+
+In WCB, we will most often refer to Earth's Moon by the Roman name Luna, along with its related terms "lunar", "lunation", — 
+
+For convenience, we'll often just use "moon" generically and more specific terms when distinction is called-for.
+
+# Regular and Irregular
+
+WCB retains the traditional astronomical distinction between **regular** and **irregular** moons (see below), while refining it through genealogical terms that clarify their origins: **primogenic** (formed alongside their primaron) and **syllipsic** (captured after formation).
+
+**Regular** moons are described by the following characteristics:
+- Orbit fairly close to the primaron
+- Tend to have *prograde* orbits (they orbit in the same direction as the primaron's axial rotation)
+	- With little-to-no inclination, and
+	- Small eccentricities
+- Are *primogenic*: they formed alongside their primaron
+
+**Irregular** moons, in contrast, are described by the characteristics:
+- Follow distant orbits
+- Often have *retrograde* orbits (they orbit in the opposite direction from the primaron's rotation)
+	- With high inclinations, and
+	- High eccentricity
+- Are *syllipsic*: they were captured by their primaron after forming elsewhere.
+
+There are, of course, exceptions. Uranus’s moon **Triton** exhibits characteristics of both classes:  
+- It orbits close to Uranus on a nearly circular path — traits of a *regular* moon.  
+- Yet its orbit is **retrograde** and **highly inclined**, hallmarks of an *irregular* moon.
+
+These contradictions imply that Triton is **syllipsic** in origin: a captured **midimon** (dwarf-planemon) whose orbit was later circularized by tidal evolution.
+
+# Major and Minor
+
+Traditionally, “major moons” are those that have achieved **hydrostatic equilibrium**—they are **spheric**, their shapes maintained primarily by gravity. “Minor moons,” in contrast, are **nodulic**: held together more by the tensile strength of their materials than by self-gravity.
+
+These terms arose from **observational happenstance** rather than physical taxonomy. Larger, spherical moons were easier to detect with early telescopes and thus labeled “major.” The smaller, non-spherical, nodulose bodies were discovered later and labeled “minor.”
+
+Historically, therefore, moons have been described within a **two-axis matrix**: *regular / irregular* vs. *major / minor.*
+
+Examples include:  
+
+- **Triton** — a *major–irregular* moon.  
+- **Luna** — a *major–regular* moon.  
+- **Phobos** and **Deimos** — *minor–irregular* moons.
+
+The **Worldmaking Canon** deprecates *major* and *minor* as taxonomic labels. They imply **hierarchy** or **importance**, whereas in practice, they are only **observational artifacts**. A moon’s orbital configuration is the more meaningful attribute; its overall shape is an *emergent property* of its mass, density, and radius.
+
+Accordingly, the Canon replaces “major” and “minor” with the intrinsic descriptors:  
+
+- **spheric** — stable under self-gravity (hydrostatic equilibrium), and  
+- **nodulic** — mechanically cohesive rather than gravitationally bound.
+
+Thus:  
+
+- **Triton** → *spheric, irregular parenson*  
+- **Luna** → *spheric, regular parenson*  
+- **Phobos** and **Deimos** → *nodulic, regular parensons*, being nonspherical yet orbiting close to Mars on low-inclination, nearly circular paths.
+	
+## Phobos and Deimos
+
+Phobos and Deimos illustrate a point of divergence between the **Worldmaking Canon** and traditional astronomical nomenclature. Historically, both were classed as *minor–irregular* moons: small, nonspherical, and presumed to be **captured asteroids**.
+
+Later analysis made that interpretation untenable.  Phobos, in particular, is too fragile to have survived an external capture; tidal stresses would have pulverized it before orbital stabilization.  
+Current models indicate that both **Phobos** and **Deimos** are instead **retentive derivatives** of a vast **impact event** roughly **four billion years** ago, when a **Ceres–Vesta–mass** object collided with **Mars**.  The debris remained within Mars’s Hill sphere, briefly forming a transient ring system from which the present moons later accreted.
+
+In Worldmaking Canon taxonomy, Phobos and Deimos are therefore **consequent, nodulic, regular parensons**—mechanically cohesive bodies in near-circular, low-inclination orbits that formed *as a result of* local events within their primaron’s domain.  They are *neither primogenic nor syllipsic*, but **consequent**, born of the Mars system’s own debris rather than imported from beyond it.
+
+
+
+[[Principles and Properties]]
+
+
+***
+Tag Core
+#ontics #math  #orbits #barycentrics #time 

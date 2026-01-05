@@ -1,0 +1,73 @@
+---
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: 2025-11-28
+updated: 2025-11-28
+summary: ""
+---
+# Kybelic Domain
+## What Are Kybelics?
+
+**Kybelics** are **melamegic** planemons — robust, high-mass terrestrial worlds whose physical structure supports **exceptional COH-life productivity**, even if they are **not comfortable for humans**.
+
+They are **not** “better Earths,” nor are they necessarily Earthlike.  They are **melamegic**, not melanthropic.
+
+A Kybelic world typically features:
+- **Higher gravity** ($1.1–1.4$g)    
+- **Thicker atmospheres**    
+- **Stronger magnetic fields**    
+- **Long-lived tectonic cycling**    
+- **Deep, stable hydrospheres**    
+- **Highly productive biospheres (melamegy)**
+    
+These are the worlds where COH-life absolutely thrives, but humans survive only with ongoing technological support.
+
+Terran plants and Earth animals struggle; native life thrives.
+## 🎯 Taxonomic Position (Critical Clarity)
+Kybelics are:
+- **morphotically a subset** to Terrics, but    
+- **animotically lateral** to Terrics    
+- **not a subset of Geotics**    
+- **not a subset of Gaeans**    
+- **never Gaean**, because their gravity prevents human hospitability
+    
+This is exactly like William the Conqueror being both:
+- **a peer monarch (King of England)**    
+- **and a vassal (Duke of Normandy)**    
+
+Kybelics sit _inside_ Terric mass–density space morphotically, yet _outside_ Terric anthropic space functionally.
+## Why Kybelics Matter in Animotics
+Kybelics represent the **melamegic apex** of COH-amegy:
+- maximum photosynthetic productivity    
+- lush, high-turnover ecosystems    
+- massive biomass    
+- stable, deep evolutionary capacity    
+- global net primary productivity far higher than Earth’s    
+- extremely long tectonic–volcanic cycles    
+- rich nutrient and redox diversity    
+
+If Terrics are mesanthropic, and Geotics are maxanthropic, then **Kybelics are melamegic** — the “peak COH-potential worlds.”
+
+They are **excellent Cradles of Life**, but **mediocre Homes for Humans**.
+
+## Planemonic Associations
+
+
+$$
+\text{KYBELIC} := \left\{
+\begin{aligned}
+&1.00 ≤ m ≤ 2.00 \\
+&0.9 ≤ \rho ≤ 1.10 \\
+&1.20 ≤ r(m, \rho) ≤ 1.40 \\
+&1.10 ≤ g(m, \rho) ≤ 1.40 \\
+&1.15 ≤ v_e(m, \rho) ≤ 1.40
+\end{aligned}
+\right.
+$$
+
+
+***
+Tag Core
+#animotics #habitability #environment 
