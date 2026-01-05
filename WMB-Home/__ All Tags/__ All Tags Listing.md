@@ -16,22 +16,20 @@ summary: ""
 > 
 > WMB models the universe from the center of *persistence*, not the edges of possibility—and from the scale of human coherence, not cosmic extremity.
 
-
-1. #animotics
-2. #barycentrics
-3. #coh
-4. #duromonics
-5. #environment
-6. #excalidraw
-7. #foundational
-8. #habitability
-9. #math
-10. #micromonics
-11. #morphotics
-12. #ontics
-13. #orbits
-14. #planemonics
-15. #spectral_class
-16. #spectral_type
-17. #stellamonics
-18. #time
+#animotics
+#barycentrics
+#coh
+#environment
+#excalidraw
+#foundational
+#habitability
+#math
+#micromonics
+#morphotics
+#ontics
+#orbits
+#planemonics
+#spectral_class
+#spectral_type
+#stellamonics
+#time

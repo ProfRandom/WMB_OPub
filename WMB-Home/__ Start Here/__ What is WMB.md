@@ -11,63 +11,79 @@ summary: The "philosophy file"... the how and why of Wimby.
 
 ![[_assets/images/Wimby_Cover_Logo.jpg]]
 
-**Worldmaking Basics (WMB; Wimby to its friends)** is a system for designing fictional worlds that are _coherent_, _inventive_, and _fun to inhabit_ — both for you and for your audience.
+**Worldmaking Basics (WMB — _Wimby_, to its friends)** is a framework for designing fictional worlds that are **coherent**, **expressive**, and **worth thinking inside** — for creators and audiences alike.
 
-Most guides to worldbuilding focus on the **mythos**:  
-	religion, politics, society, language, culture, character, and story.  
+Most worldbuilding resources focus on **mythos**:  
+religion, politics, culture, language, history, character, and story.
 
-That work is essential — it gives a world its _continuity_, the human-facing threads that make it feel lived-in.
+That work is essential.  
+It gives a world texture, continuity, and emotional gravity.
 
-But worlds also need **logos**:  
-	the physics, cosmology, structure, and ontological “ground rules” that determine _how the universe works_ in the first place.
+But worlds also rest on **logos**:  
+the physical rules, ontological structures, and causal constraints that determine _what kinds of things can happen at all_.
 
-Wimby calls these two halves:
-- **World*building*** → _mythos_    
-- **World*crafting*** → _logos_
-    
+Wimby names these two halves explicitly:
+
+- **World_building_** → _mythos_    
+- **World_crafting_** → _logos_    
+
 Together, they form:
 
-> **World*making*** — the art of weaving mythos and logos into one [[Plot Holes and Potholes|coherent whole]].
+> **World_making_** — the practice of weaving mythos and logos into a single, internally consistent whole.
 
 ![[Wimby Triangle.svg]]
 
-Most creators begin with building: characters, countries, conflicts.  
-
+Most creators begin with building: characters, nations, conflicts, timelines.  
 Wimby begins with **crafting**, because:
 
-- your cultures depend on your climates,    
-- your climates depend on your world’s orbit,    
-- your orbit depends on your star,    
-- your star depends on its physics,    
-- and everything downstream flows from everything upstream.    
+- cultures depend on climates,    
+- climates depend on atmospheres,    
+- atmospheres depend on gravity and chemistry,    
+- gravity and chemistry depend on planetary structure,    
+- planets depend on stars,    
+- and stars depend on physics.    
 
-- Craft the stage well, and your story begins to _suggest itself_.  
-- Worldcrafting isn’t restrictive — it’s generative.  
-- Great physics reveals great plot hooks.
+Craft the stage well, and the story begins to **suggest itself**.
 
-Yet while the internet is overflowing with lore guides, there’s no one-stop resource that teaches creators how to **design the physical universe itself** — let alone one that:
-- [[The SANC Charter|stays science-adjacent and avoids calculus]],
-- tays grounded in clear reasoning without enforcing realism as dogma,    
-- prioritizes clarity,    
-- [[The GEWE Corollary|and protects complete creative freedom for the worldmaker]].    
+Worldcrafting is not restrictive — it is **generative**.  
+Clear structure creates _better_ narrative freedom, not less.  
+Good physics doesn’t kill wonder; it reveals new kinds of it.
 
-That is what Wimby offers:
-- a **logosic foundation** that is rigorous but not rigid,    
-- a **mythos-friendly structure** that supports rather than constrains,    
-- and a **philosophy of coherence** that lets your worlds feel discoverable rather than invented.    
+Despite an abundance of lore guides and setting prompts, there are very few resources that help creators design the **physical and ontological foundations** of a world — and fewer still that:
 
-You don’t need a physics degree.  
-You just need curiosity, imagination, and a willingness to learn the underlying patterns.
+- remain **science-adjacent without enforcing realism as dogma**,    
+- avoid unnecessary mathematics while preserving rigor,    
+- distinguish clearly between _structure_, _possibility_, and _history_,    
+- [[The SANC Charter|value clarity over cleverness]],    
+- [[The GEWE Corollary|and protect creative freedom rather than constrain it]].    
 
-Everything in Wimby is meant to give you:
-- the conceptual framework (**Meta**)    
-- the ontology of what exists (**Ontics**)    
-- and the quantitative tools to work with it (**Metrics**)    
+That is what Wimby exists to provide.
 
-You can read Wimby front to back, or wander through it like a forest of ideas — every page stands alone, but each link leads deeper.
+Wimby is not a checklist, a simulator, or a canon.  
+It is a **thinking toolkit**.
 
-**Start where you like.  
-The world you make will take you the rest of the way.**
+It gives you:
+
+- a conceptual scaffold for reasoning about worlds (**Meta**),    
+- a clear ontology of what exists and how it coheres (**Ontics**),    
+- a framework for physical possibility and animosys (**Animotics**),    
+- tools for planetary and stellar structure (**Planemonics**),    
+- and a way to account for history, contingency, and divergence (**Milieutics**).    
+
+You do **not** need a physics degree.  
+You need curiosity, pattern-recognition, and a willingness to ask better questions.
+
+You can read Wimby linearly — or wander through it like a forest.  
+Every article stands on its own.  
+Every link leads somewhere intentional.
+
+Wimby does not tell you what _must_ happen in your world.
+
+It tells you what the universe would permit —  
+and leaves the rest to history, chance, and choice.
+
+**Start anywhere.  
+The world you make will take you the rest of the way.****
 
 ***
 Tag Core

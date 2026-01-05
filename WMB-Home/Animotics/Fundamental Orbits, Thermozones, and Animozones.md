@@ -339,7 +339,7 @@ There is one remaining essential star system orbit, which I have called the **pe
 > 
 > The symbol $P$ represents the orbital period (in sidereal Earth years) of _all planemon orbits_; by definition, the orbital period of the perannual orbit is always $1$ sidereal Earth year ($365.2564^d$).
 
-The [[Neolexicosis — The Worldmaker's Malady|neolex]] **perannual** comes from the Latin *per annum*, meaning "per year" or "each year", and the name reflects that this is the orbit in any star system which has an orbital period (*$P$*) of exactly one Earth year.
+The [[On Concepts and Language in Wimby|neolex]] **perannual** comes from the Latin *per annum*, meaning "per year" or "each year", and the name reflects that this is the orbit in any star system which has an orbital period (*$P$*) of exactly one Earth year.
 
 > [!important]
 > > "One Earth Year" in this case is the duration of Earth's complete orbit around the Sun relative to the larger reference frame of the "fixed" stars; thus this is called the **sidereal year**, from the Latin *sidus*, "star".

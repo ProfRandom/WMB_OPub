@@ -46,6 +46,8 @@ This separation is intentional.
 Without it, classification collapses into hindsight.
 ### What Milieutics Studies
 
+Milieutics integrates the outputs of Dynamics, Climostatics, and Atmospherics into a coherent temporal narrative.
+
 Milieutics concerns **processes that unfold in time**, including:
 
 - formation history    
@@ -140,6 +142,7 @@ This distinction matters.
 
 Prediction assumes control.  
 Milieutics assumes humility.
+It asks not “what will happen,” but “why this happened instead of something else.”
 
 > **The universe does not optimize.  
 > It merely proceeds.**
@@ -157,6 +160,7 @@ It merely insists on one uncomfortable truth:
 
 Milieutics does not tell you what _should_ happen.  
 It tells you what _did_ — and why you cannot pretend it happened otherwise.
+This is an epistemic responsibility, not a moral verdict.
 ### Summary (For Fast Readers)
 
 - **Milieutics studies realization, not eligibility**    
