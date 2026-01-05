@@ -1,0 +1,215 @@
+---
+project: wmb
+phase: 1
+module: 1
+status: draft
+created:
+updated: 2025-11-30
+summary: ""
+realm: logos
+---
+## stellamonic Equations of State
+A regularized set of empirical relationships can be used to estimate any stellar parameter from the others — assuming a Main Sequence **blackbody**-like star.
+
+A **blackbody** is an **idealized physical object** that:
+1. **Absorbs all** incoming electromagnetic radiation — no reflection, no transmission.
+2. **Emits radiation** purely based on its temperature — not its material, shape, or color.
+3. Emits a **perfectly smooth, continuous spectrum** (a "thermal spectrum").
+
+In short:
+> A blackbody is the theoretical gold standard for radiant heat emission — a perfect radiator and absorber.
+
+#### Why "Blackbody" Matters Here
+
+Most stars (especially [[The Main Sequence|Main Sequence]] stars) behave **approximately like blackbodies**, meaning their energy output can be modeled using **temperature alone**. This makes them excellent candidates for:
+- **Temperature-based modeling**
+- **Color-temperature mapping** (blue = hotter, red = cooler)
+- **Spectrum-based classification** (like spectral classes O – M)
+- Real-World Deviation
+	- planemons, dust clouds, and even stars aren’t *perfect* blackbodies.
+	- Real objects have an **emissivity** between 0 and 1:
+
+$$
+F = \varepsilon\,\sigma\,\Theta^4
+$$
+
+Where:
+- $\sigma$ = the Stefan-Boltzmann constant (see below)
+- $\varepsilon$ = emissivity ⟶ $0 \leq \varepsilon \leq 1$
+
+ — but stars are close enough that the **blackbody approximation works very well**.
+
+## Main Sequence State Equations
+
+Here are the general equations *for Main Sequence stars*:
+
+$$
+\begin{array}{c|c|c|c}
+\text{Temperature} &\text{Mass} &\text{Radius} &\text{Lifetime} \\[0.1em]
+(\Theta) &\text{(M)} &\text{(R)} & \text{($V$)} \\[0.5em] 
+\hline
+\Theta=\sqrt[1.98]{M} & M=\sqrt[0.9]{R} & R=M^{0.9} & V=M^{-2.5} \\[0.5em]
+\Theta=\sqrt[1.8]{R} & M=\Theta^{1.98} & R=\Theta^{1.8} & V \approx \sqrt[-0.36]{R} \\[0.5em]
+\Theta=V^{-0.2} & M=V^{-0.4} & R=V^{-0.36} & V=\Theta^{-5}
+\end{array}
+$$
+
+Where:
+- $\mathit{\Theta}$ = the solar-relative temperature
+- $M$ = the solar-relative mass
+- $R$ = the solar-relative radius
+- $V$ = the solar-relative *main sequence* lifetime
+
+> > **NOTE**:
+> > All of the above equations are *approximations*; stars are a much more variable set of objects (after all, they're mostly gas and plasma, so fluid dynamics plays a major role in their characteristics).
+> > 
+> > These equations work **best *in general* for main sequence stars** of all classes.
+
+## The Stefan-Boltzmann Law
+
+The Stefan-Boltzmann Law is a formulation that relates the **luminosity** of any luminous object to its **temperature** and **surface area**:
+
+$$
+\begin{aligned}
+L &= 4\, \pi\, R^2\, \sigma\, T^4 &\text{Stefan-Boltzmann}\\
+L &= 4\, \pi\, R^2\, \sigma\, K^4 & \text{WMB Refactor*}
+\end{aligned}
+$$
+
+Where:
+- $4 \pi R^2$  = the surface area of the body
+- $K$ = is the *absolute* temperature of the body in Kelvin
+	- \* $T$ in the Stefan–Boltzmann equation means _Kelvin temperature_ (Wimby is filing a formal complaint to the estates of both Great Men over this 😉)    
+	- WMB’s $T$ means _solar-normalized temperature_    
+	- therefore WMB uses $K$ for the absolute temperature in this one equation
+- $σ$ = the Stefan-Boltzmann constant
+	- $\sigma = 5.670374419 \times 10^{-8} W m^{-2}K^{-4}$
+		- **Watts** per square meter per Kelvin to the fourth power K⁴
+		- It tells you how much **radiant energy per second** (i.e., power) is emitted by a **1 square meter** portion of a **perfect blackbody** at **1 K⁴**.
+
+And this is why we needed the quick aside into the term "blackbody" earlier.
+
+In worldmaking terms, we can simplify the Stefan-Boltzmann equation to:
+
+$$
+\dfrac{L_a}{L_s} = \left(\dfrac{R_a}{R_s}\right)^2 \left(\dfrac{K_a}{K_s}\right)^4
+$$
+
+Where:
+- $L_a$ = the absolute luminosity of the star (Watts)
+- $L_s$ = the absolute luminosity of the Sun (Watts)
+- $R_a$ = the absolute radius of the star (meters)
+- $R_s$ = the absolute radius of the Sun (meters)
+- $K_a$ = the **Kelvin** temperature of the star
+- $K_s$ = the **Kelvin** temperature of the Sun
+
+When all the ratios are reduced to solar units, the equation simplifies to:
+
+$$
+\begin{aligned}
+L &= R^2\,\Theta^4, \qquad \text{with derivations of} \\ \\
+R &= \dfrac{\sqrt{L}}{\Theta^2}, \qquad
+\Theta = \sqrt[4]{\dfrac{L}{R^2}}
+\end{aligned}
+$$
+
+Where:
+- $L$ = luminosity in solar units
+- $R$ = radius in solar units
+- $\Theta$ = temperature in solar units
+
+## Parameter Calculation Precedence
+
+The above being the case, there is a "best" order for calculating stellar parameters when starting from any given parameter (though it is always best start with $K$ or $\Theta$ whenever possible).
+
+> All parameters (except K) are expressed in Solar-relative units; that is, $\Theta = 1\,s$ for $5800$ K, $R = 1\, s$ for the solar radius, etc.
+
+#### Starting with Temperature ($\Theta$) or ($K$)
+**Primary dependency chain**: $\Theta/K \rightarrow R \rightarrow L \rightarrow M \rightarrow V$
+
+$$
+\begin{aligned}
+\Theta &= \dfrac{K}{5800} \quad or \quad K = 5800\,\Theta \\
+R &= \Theta^{1.8} \\
+L &= R^2\,\Theta^4 \\
+M &= \Theta^{1.98} \quad or \quad M = \sqrt[0.9]{R} \\
+V &= \Theta^{-5} \quad or \quad V = M^{-2.5}
+\end{aligned}
+$$
+#### Starting with Mass ($M$)
+**Primary dependency chain**: $M \rightarrow \Theta/K \rightarrow R \rightarrow L \rightarrow V$
+
+$$
+\begin{aligned}
+\Theta &= \sqrt[1.98]{M} \\
+K &= 5800\,\Theta \\
+R &= \Theta^{1.8} \quad or \quad R = M^{0.9} \\
+L &= R^2\,\Theta^4 \\
+V &= \Theta^{-5} \quad or \quad V = M^{-2.5}
+\end{aligned}
+$$
+#### Starting with Radius ($R$)
+**Primary dependency chain**: $R \rightarrow \Theta \rightarrow K \rightarrow L \rightarrow M \rightarrow V$
+
+$$
+\begin{aligned}
+\Theta &= \sqrt[1.8]{R} \\
+K &= 5800\,\Theta \\
+L &= R^2\,\Theta^4 \\
+M &= \Theta^{1.98} \\
+V &= \Theta^{-5} \quad or \quad V = M^{-2.5}
+\end{aligned}
+$$
+#### Starting With Luminosity ($L$)
+**Primary dependency chain**: $L \rightarrow \Theta \rightarrow K \rightarrow R \rightarrow M \rightarrow V$
+
+$$
+\begin{aligned}
+\Theta &= \sqrt[7.6]{L} \\
+K &= 5800\,\Theta \\
+R &= \Theta^{1.8} \\
+M &= \Theta^{1.98} \\
+V &= \Theta^{-5} \quad or \quad V = M^{-2.5}
+\end{aligned}
+$$
+#### Starting with Lifetime ($V$)
+**As soon as you assume you'd never want to do this, you'll find a case for doing it.**
+**Primary dependency chain**: $V \rightarrow \Theta \rightarrow K \rightarrow R \rightarrow L \rightarrow M$
+
+$$
+\begin{aligned}
+\Theta &= V^{-0.2} \\
+K &= 5800\, \Theta \\
+R &= V^{-0.36} \\
+L &= R^2\, \Theta^4 \\
+M &= \sqrt[3]{L}
+\end{aligned}
+$$
+# Fine-tuning Stellar Parameters
+## Standard Parameter Equations
+
+The Standard Parameter Equations [[Stellamon Equations of State#Main Sequence State Equations|listed above]] *generally* work well for most **Main Sequence** stars, but a survey of known stars in the Solar neighborhood suggests that *modest* adjustments to a couple of key exponents yield parameter equations that better reflect observed stellar characteristics. Since worldmaking prioritizes plausible-world construction over strict theoretical purity, these revised values offer better performance across the mass range of interest.
+
+### Modified Parameters Table
+#### [[Solar Analogs, Cognates, and Twins|Solar Correlate]] Equations of State
+
+$$
+\begin{array}{c|c|c|c|c}
+\text{Temperature} &\text{Mass} &\text{Radius} &\text{Lifetime} & \text{Luminosity} \\[0.1em]
+\Theta &\text{(M)} &\text{(R)} & \text{($V$)} &\text{(L)} \\[0.5em] 
+\hline
+\Theta=\sqrt{M} & M=\sqrt[0.9]{R} & R=M^{0.9} & V=M^{-2.5} & L = M^{3.8} \\[0.5em]
+\Theta=\sqrt[1.8]{R} & M=\Theta^{2} & R=\Theta^{1.8} & V \approx \sqrt[-0.36]{R} & L \approx R^{4.\bar{2}} \\[0.5em]
+\Theta=V^{-0.2} & M=V^{-0.4} & R=V^{-0.36} & V=\Theta^{-5} & L = \Theta^{7.6} \\[0.5em]
+\Theta= \sqrt[7.6]{L} & M = \sqrt[3.8]{L} & R \approx \sqrt[4.\bar{2}]{L} & V = L^{-1.52} & L = \sqrt[-1.52]{V}
+\end{array}
+$$
+
+**Notes**:
+- The parameter relationship that changed from the previous table was $\Theta ↔︎ M$, where the exponent increased slightly from $\boxed{1.98}$ to $\boxed{2.0}$, which brings calculated results more in line with observed data for [[Solar Analogs, Cognates, and Twins|solar correlate stars]].
+- The **major change** is the addition of direct calculation for the parameters to-and-from *luminosity*.
+
+
+***
+Tag Core
+#stellamonics #ontics  #spectral_type #spectral_class 

@@ -1,0 +1,148 @@
+---
+project: wmb
+phase: 1
+module: 1
+status: draft
+created: 2025-11-28
+updated: 2025-11-28
+summary: ""
+realm: mythos
+---
+# Biotic Order
+
+
+## Core Statistics
+
+The **Biotic Order** is the broad amegic class containing every world capable of supporting **COH-life** in general. It is the parent order from which the more anthropically meaningful Terric, Geotic, and Gaean subsets are drawn.
+
+## Planemonic Associations
+
+Certain ranges of planemonic attributes are most conducive to Biotic Environments.
+
+$$
+\text{BIOTIC} := \left\{
+\begin{aligned}
+	&0.05 ≤ m ≤ 3 \\
+	&0.35 ≤ \rho ≤ 2.18 \\
+	&0.35 ≤ r(m, \rho) ≤ 2.30 \\
+	&0.25 ≤ g(m, r) ≤ 3.00 \\
+	&0.30 ≤ v_e(g, r) ≤ 2.63
+\end{aligned}
+\right.
+$$
+
+Across the full #duromonics phase space, **about 1 in 6.4 duromons (≈15.56%)** meet the Biotic criteria.
+
+Within the Biotic Order itself:
+- **≈ 30.7% are Terric** — the **mesanthropic** worlds: broadly COH-friendly and moderately human-tolerant.    
+- **≈ 6.0% are Geotic** — the **maxanthropic** subset: consistently human-friendly, Earth-adjacent in structure.    
+- **≈ 3.3% are Gaean** — the **melanthropic** peak: genuinely “shirtsleeve” worlds, deeply Earth-analog in multiple dimensions.    
+
+In addition:
+- **≈ 0.44% of all Biotics qualify as Kybelic** — the **melamegic** branch of COH-life worlds: superproductive, superstable, and optimized for biospheric vigor rather than for human comfort.
+    
+These categories are **nested anthropically** (Terric → Geotic → Gaean) and **lateral amegically** (Terric ↔ Kybelic), reflecting the two independent axes of biological suitability in WMB.        
+
+## <u>Important Note: What "Biotic" Really Means</u>
+
+**The Biotic phase space defines where COH-life is _possible_ — not where it actually exists.**
+
+A duromon qualifies as **Biotic** if its mass, radius, density, gravity, and escape velocity fall within the narrow region where **liquid-phase COH chemistry, COH solvents, and accessible surface metabolism** are _physically viable_.
+- Worlds **outside** Biotic ranges are _structurally incompatible_ with COH-life.    
+- Worlds **inside** Biotic ranges may still be sterile, toxic, or climatologically disastrous.
+    
+
+In other words:
+**Biotic = physically eligible, not necessarily biologically realized.**
+Environmental, historical, and stellar conditions (Milieutics) still determine whether biology actually happens.
+The narrower classes — **Terric → Geotic → Gaean** — represent progressively smaller subsets whose _physical conditions increasingly favor COH-ppositivity_:
+- **Terric**: structurally compatible, human-survivable with gear (**mesanthropic**)    
+- **Geotic**: broadly Earthlike in structure and human-habitable (**maxanthropic**)    
+- **Gaean**: truly “shirtsleeve worlds” (**melanthropic**)
+
+None of these guarantee life; they guarantee **possibility and structural support**.
+
+---
+# **🌍 Earth as a Case Study of Biotic → Terric → Geotic → Gaean → Kybelic**
+
+The Earth’s own 4.5 billion-year history is a remarkable tour through nearly the entire biotic hierarchy.  Below is a streamlined, accurate mapping of how Earth’s classification shifts through time.
+
+## 1. Hadean–Early Archean Earth → *Biotic (barely)*
+- Liquid water present    
+- Crust thin, volcanism extreme    
+- Atmosphere anoxic, UV-intense    
+- COH chemistry viable, but conditions brutal    
+- Microbial life plausible; human life impossible without total isolation    
+
+**Earth is structurally COH-compatible, but nothing like Terric yet.**
+## 2. Archean–Proterozoic Earth → *Terric Domain (mesanthropic)*
+Why Terric here?
+- Normal gravity / radius    
+- Stable oceans    
+- COH life abundant    
+- Atmosphere unbreathable (low O₂)    
+- Strong greenhouse forcing    
+- Dangerous UV levels    
+
+Humans could survive only with gear — but the planet is **fundamentally compatible** with COH life.
+## 3. Late Proterozoic–Cambrian Earth → *Terric → Geotic Transition*
+- Oxygen rising    
+- Stratospheric ozone forming    
+- Expanding continental shelves    
+- Multicellularity emerging    
+- Climate stabilization improving    
+
+This is the **threshold** where Earth moves into the **maxanthropic** zone.
+
+## 4. Phanerozoic Earth (most eras) → *Geotic Realm (maxanthropic)*
+- Breathable for humans (with acclimation)    
+- Stable climate bands    
+- Complex land/ocean cycles    
+- High biodiversity    
+- Planet behaves like “Earth,” because… well… it is.    
+
+This is Earth in its broadly human-habitable mode.
+## 5. Carboniferous Peak → *Kybelic Domain (melamegic)*
+Why Kybelic (melamegic)?
+- O₂ at 30–35%    
+- Global forests    
+- Mega-insect gigantism    
+- Massive net primary productivity (NPP)    
+- Humid, warm, nutrient-rich    
+- Biosphere “overclocked” relative to modern    
+
+Kybelic ≠ “better for humans” — it means **more biologically intense**.
+## 6. Holocene Earth → *Gaean Province (melanthropic)*
+Earth at its anthropic best:
+- Breathable oxygen    
+- Global biomes    
+- Transparent atmosphere    
+- Balanced C/N/O/H cycles    
+- Temperate climate regions    
+- Walk-outside-and-eat-a-berry conditions    
+
+This is the **peak anthropic state**.
+# ⏳ Earth Became COH-Amegic Shockingly Early
+Modern research suggests:
+- Stable water: ~4.3–4.2 Ga    
+- Prebiotic chemistry: ~4.2–4.1 Ga    
+- Earliest life: ~4.1–3.8 Ga    
+
+Meaning:
+> **Earth became COH-amegic within ~200–300 million years of forming.**
+
+That’s borderline instantaneous on cosmic timescales.
+# # **📍 Earth’s Animotic Classification by Era**
+
+| **Earth Stage**      | **Animotic Class**  | **Reason**                                             |
+| -------------------- | ------------------- | ------------------------------------------------------ |
+| Hadean–Early Archean | **Biotic**          | COH-compatible, but deadly atmosphere & high violence. |
+| Archean–Proterozoic  | **Terric**          | Human-survivable w/ gear; COH life thriving.           |
+| Late Proterozoic     | **Terric → Geotic** | Oxygen rising; improving climate stability.            |
+| Most Phanerozoic     | **Geotic**          | Human-habitable conditions broadly in effect.          |
+| Carboniferous        | **Kybelic**         | Hyperproductive super-amegic biosphere.                |
+| Modern Holocene      | **Gaean**           | Fully anthropic sweet spot.                            |
+
+***
+Tag Core
+#animotics #environment #habitability 

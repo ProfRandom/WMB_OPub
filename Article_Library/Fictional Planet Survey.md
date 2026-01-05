@@ -13,11 +13,11 @@ summary: ""
 
 |      |       |                                                                                 |
 | ---- | ----- | ------------------------------------------------------------------------------- |
-| m♁   | 0.674 |                                                                                 |
-| r♁ → | 0.821 | 5232.5 km ([Wookiepedia — Tatooine](https://starwars.fandom.com/wiki/Tatooine)) |
-| ρ♁   | 1.218 | 6.716 g/cm³                                                                     |
-| g♁ → | 1     | (assumed from on-screen depictions)                                             |
-| vₑ♁  | 0.906 |                                                                                 |
+| m t   | 0.674 |                                                                                 |
+| r t → | 0.821 | 5232.5 km ([Wookiepedia — Tatooine](https://starwars.fandom.com/wiki/Tatooine)) |
+| ρ t   | 1.218 | 6.716 g/cm³                                                                     |
+| g t → | 1     | (assumed from on-screen depictions)                                             |
+| vₑ t  | 0.906 |                                                                                 |
 
 **Ontic Type:** Lithiform  
 **Climostatic:** Saharic  
@@ -28,26 +28,26 @@ summary: ""
 
 ## Star: 40 Eridani A
 - K0.5A
-- M: 0.78⊙
-- R: 0.804⊙
-- L: 0.40⊙
+- M: 0.78 s
+- R: 0.804 s
+- L: 0.40 s
 - K: 5126; T: 0.884:solar
 - Nucleal Orbit: N = 0.6325 AU
 
 |      |        |             |                |
 | ---- | ------ | ----------- | -------------- |
-| m♁   | 1.5911 |             |                |
-| r♁ → | 1.0661 | 6792 km     | Mass Trek Wiki |
-| ρ♁   | 1.3132 | 7.241 g/cm³ |                |
-| g♁ → | 1.4    |             | Mass Trek Wiki |
-| vₑ♁  | 1.2217 |             |                |
+| m t   | 1.5911 |             |                |
+| r t → | 1.0661 | 6792 km     | Mass Trek Wiki |
+| ρ t   | 1.3132 | 7.241 g/cm³ |                |
+| g t → | 1.4    |             | Mass Trek Wiki |
+| vₑ t  | 1.2217 |             |                |
 Orbital Period: C = 250.1 days; 0.685 y
 Semi-major Axis: α = 0.777 AU; 1.228N; Z₃ — Solarazone
-Flux: 0.663♁
+Flux: 0.663 t
 
 ## Explaining Vulcan's Saharic Climostate
 
-Vulcan occupies the **Solarazone (Z₃)** of its parent star — a region that should produce **temperate, Earthlike conditions**. With an insolation of only **0.663♁**, Vulcan should be cooler than Earth, not hotter. Its desert climate therefore **cannot** be explained by orbit alone. Vulcan is Saharic not because of where it orbits 40 Eridani A, but because of how its _local_* geophysical and atmospheric systems behave.
+Vulcan occupies the **Solarazone (Z₃)** of its parent star — a region that should produce **temperate, Earthlike conditions**. With an insolation of only **0.663 t**, Vulcan should be cooler than Earth, not hotter. Its desert climate therefore **cannot** be explained by orbit alone. Vulcan is Saharic not because of where it orbits 40 Eridani A, but because of how its _local_* geophysical and atmospheric systems behave.
 
 Several reinforcing factors drive Vulcan toward global aridity:
 ### 1. Zero Obliquity (0° Tilt) ([Vulcan_(Planet) — Mass Trek Wiki](https://masstrek.fandom.com/wiki/Vulcan_(Planet)))
@@ -203,7 +203,7 @@ $$
 
 That’s already an extremely distant orbit — farther than Pluto is from the Sun.
 
-But Canopus is an A9 II spectral type with a luminosity of $16,600$ L⊙ and a radius of $73.3$⊙ (≈ 0.341AU).
+But Canopus is an A9 II spectral type with a luminosity of $16,600$ L s and a radius of $73.3$ s (≈ 0.341AU).
 
 This places its **nucleal orbit** (N), which receives Earth-equivalent insolation, at:
 
@@ -310,23 +310,23 @@ This is where world*crafting* sometimes takes a backseat to world*building*: whe
 
 | Parameter | Value      | Notes                              |
 | --------- | ---------- | ---------------------------------- |
-| **K⊙ →**  | **5950 K** | Spectral Type **G0.5 V**           |
-| **T⊙**    | 1.026      | Relative temperature               |
-| **M⊙**    | 1.052      | Stellar mass                       |
-| **R⊙**    | 1.047      | Stellar radius                     |
-| **L⊙**    | 1.213      | Stellar luminosity                 |
-| **Q⊙**    | 0.745      | Stellar lifespan factor (≈7.45 Ga) |
+| **K s →**  | **5950 K** | Spectral Type **G0.5 V**           |
+| **T s**    | 1.026      | Relative temperature               |
+| **M s**    | 1.052      | Stellar mass                       |
+| **R s**    | 1.047      | Stellar radius                     |
+| **L s**    | 1.213      | Stellar luminosity                 |
+| **Q s**    | 0.745      | Stellar lifespan factor (≈7.45 Ga) |
 | **N**     | 1.1016 AU  | Nucleal Orbit                      |
 
 ## Kamino (Planet)
 
 | Parameter | Value  | Absolute    | Units                       |
 | --------- | ------ | ----------- | --------------------------- |
-| **m♁**    | 1.601  | —           | Earth masses                |
-| **r♁ →**  | 1.5123 | 9635        | km                          |
-| **ρ♁**    | 0.4629 | 2.552       | g/cm³                       |
-| **g♁ →**  | 0.70   | (estimated) | —                           |
-| **vₑ♁**   | 1.0289 | —           | escape velocity (Earth = 1) |
+| **m t**    | 1.601  | —           | Earth masses                |
+| **r t →**  | 1.5123 | 9635        | km                          |
+| **ρ t**    | 0.4629 | 2.552       | g/cm³                       |
+| **g t →**  | 0.70   | (estimated) | —                           |
+| **vₑ t**   | 1.0289 | —           | escape velocity (Earth = 1) |
 | **C**     | 463 d  | 1.2676 y    | orbital period              |
 
 ## Orbital Position
@@ -346,7 +346,7 @@ $$
 Insolation (stellar flux relative to Earth):
 
 $$
-\beta = \frac{1.213}{1.1914^2} = 0.8549⊙
+\beta = \frac{1.213}{1.1914^2} = 0.8549 s
 $$
 
 Thus, Kamino receives **≈85.5%** of Earth’s solar flux — consistent with a **cool, ocean-moderated, hypertempestal storm world** orbiting just outside the G0.5V nucleal orbit.
@@ -419,7 +419,7 @@ A 5950 K (G0.5) star produces:
 This matches the visual aesthetic precisely when filtered through a saturated cloud deck.
 
 ### 2. Insolation Requirements
-Kamino’s orbit (α = 1.1914 AU) around L = 1.213 L⊙ yields:
+Kamino’s orbit (α = 1.1914 AU) around L = 1.213 L s yields:
 
 - β = 0.855 Earth flux  
 - warm, stable oceans  
@@ -523,7 +523,7 @@ This analysis/exploration of Kamino is not a “scientific retcon,” but a **wo
 The resulting world is internally consistent:
 - **0.7 g**  
 - **1.191 AU orbit**  
-- **1.213 L⊙ star**  
+- **1.213 L s star**  
 - **global ocean**  
 - **hypertempestal atmosphere**  
 - **recent glacial collapse**

@@ -1,0 +1,13 @@
+---
+project: wmb
+phase: 1
+module: 1
+status: draft
+created:
+updated: 2025-12-12
+summary: ""
+realm: logos
+---
+***
+Tag Core
+#planemonics #ontics #morphotics  

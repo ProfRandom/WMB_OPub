@@ -8,3 +8,9 @@ updated: 2025-11-28
 summary: ""
 ---
 
+
+***
+
+Tag Core
+#animotics #habitability #environment
+ 

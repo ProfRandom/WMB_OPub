@@ -25,7 +25,7 @@ _italic_
 > [!NOTE] Testing Callout Export
 > Testing, 1, 2, 3 ... 
  
-[[04. The SANC Charter]]
+[[The SANC Charter]]
 
 [Testing External Link](https//)
 
